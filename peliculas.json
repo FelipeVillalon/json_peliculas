@@ -5,7 +5,7 @@
     "generos": ["Crimen", "Drama"],
     "director": "Francis Ford Coppola",
     "poster": "3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "trailer": "sY1S34973zA",
     "estado": "Disponible"
   },
   {
@@ -14,7 +14,7 @@
     "generos": ["Drama", "Crimen"],
     "director": "Frank Darabont",
     "poster": "q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "trailer": "6hB3S9bIaco",
     "estado": "Pronto"
   },
   {
@@ -23,7 +23,7 @@
     "generos": ["Crimen", "Drama"],
     "director": "Quentin Tarantino",
     "poster": "d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "trailer": "s7EdQ4FqbhY",
     "estado": "No disponible"
   }
 ]
