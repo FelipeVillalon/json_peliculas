@@ -1,27 +1,29 @@
 [
-    {
-      "titulo": "Barbie",
-      "anio": 2023,
-      "generos": ["Comedia", "Aventura", "Fantasía"],
-      "director": "Greta Gerwig",
-      "poster": "8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
-      "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM"
-    },
-    {
-      "titulo": "The Godfather",
-      "anio": 1972,
-      "generos": ["Crimen", "Drama"],
-      "director": "Francis Ford Coppola",
-      "poster": "3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-      "trailer": "https://www.youtube.com/watch?v=sY1S34973zA"
-    },
-    {
-      "titulo": "The Shawshank Redemption",
-      "anio": 1994,
-      "generos": ["Drama", "Crimen"],
-      "director": "Frank Darabont",
-      "poster": "q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-      "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
-    }
-  ]
-  
+  {
+    "titulo": "The Godfather",
+    "anio": 1972,
+    "generos": ["Crimen", "Drama"],
+    "director": "Francis Ford Coppola",
+    "poster": "3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "estado": "Disponible"
+  },
+  {
+    "titulo": "The Shawshank Redemption",
+    "anio": 1994,
+    "generos": ["Drama", "Crimen"],
+    "director": "Frank Darabont",
+    "poster": "q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "estado": "Pronto"
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "anio": 1994,
+    "generos": ["Crimen", "Drama"],
+    "director": "Quentin Tarantino",
+    "poster": "d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "estado": "No disponible"
+  }
+]
