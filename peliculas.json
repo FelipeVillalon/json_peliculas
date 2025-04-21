@@ -217,5 +217,115 @@
     "trailer": "k64P4l2Wmeg",
     "poster": "eFkA4wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p"
+  },
+  {
+    "title": "X2",
+    "title_spanish": "X-Men 2",
+    "year": 2003,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Bryan Singer",
+    "status": "Available",
+    "trailer": "5tuOCGh8Q4A",
+    "poster": "s1xnjbOIQtwGObPnydTebp74G2c.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "X-Men - Apocalypse",
+    "title_spanish": "X-Men: Apocalipsis",
+    "year": 2016,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Bryan Singer",
+    "status": "Available",
+    "trailer": "N0io2w_6vT8",
+    "poster": "ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "X-Men - Days of Future Past",
+    "title_spanish": "X-Men: Días del futuro pasado",
+    "year": 2014,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Bryan Singer",
+    "status": "Available",
+    "trailer": "pK2zYHWDZKo",
+    "poster": "cXzZ5rYq3qv4vY9WkK6hM1Pz0dD.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "X-Men - First Class",
+    "title_spanish": "X-Men: Primera generación",
+    "year": 2011,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Matthew Vaughn",
+    "status": "Available",
+    "trailer": "UrbHykKUfTM",
+    "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "X-Men - The Last Stand",
+    "title_spanish": "X-Men: La batalla final",
+    "year": 2006,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Brett Ratner",
+    "status": "Available",
+    "trailer": "gT2nVJTSPSc",
+    "poster": "c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "X-Men",
+    "title_spanish": "X-Men",
+    "year": 2000,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Bryan Singer",
+    "status": "Available",
+    "trailer": "VNxwlx6etXI",
+    "poster": "vYkA5wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Angels And Demons",
+    "title_spanish": "Ángeles y demonios",
+    "year": 2009,
+    "genres": ["Misterio", "Suspenso"],
+    "director": "Ron Howard",
+    "status": "Available",
+    "trailer": "p4WUkn8fsCc",
+    "poster": "wZkA6wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "El Codigo Da Vinci",
+    "title_spanish": "El código Da Vinci",
+    "year": 2006,
+    "genres": ["Misterio", "Suspenso"],
+    "director": "Ron Howard",
+    "status": "Available",
+    "trailer": "lfqHb6INj3w",
+    "poster": "xYkA7wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "17 Again",
+    "title_spanish": "17 otra vez",
+    "year": 2009,
+    "genres": ["Comedia", "Fantasía"],
+    "director": "Burr Steers",
+    "status": "Available",
+    "trailer": "UQK5Hh0L1Sg",
+    "poster": "yZkA8wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "1917",
+    "title_spanish": "1917",
+    "year": 2019,
+    "genres": ["Drama", "Bélica"],
+    "director": "Sam Mendes",
+    "status": "Available",
+    "trailer": "YqNYrYUiMfg",
+    "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
   }
 ]
