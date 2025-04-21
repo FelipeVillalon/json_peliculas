@@ -1964,5 +1964,114 @@
     "trailer": "tYlDltz8Yos",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "The Fifth Element",
+    "title_spanish": "El quinto elemento",
+    "year": 1997,
+    "genres": ["Ciencia ficción", "Acción", "Aventura"],
+    "director": "Luc Besson",
+    "status": "Available",
+    "trailer": "fQ9RqgcR24g",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Expend4bles",
+    "title_spanish": "Los indestructibles 4",
+    "year": 2023,
+    "genres": ["Acción", "Aventura", "Suspenso"],
+    "director": "Scott Waugh",
+    "status": "Available",
+    "trailer": "r9rjhB7KWEc",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Haunted Mansion",
+    "title_spanish": "Mansión embrujada",
+    "year": 2023,
+    "genres": ["Comedia", "Familia", "Fantasía"],
+    "director": "Justin Simien",
+    "status": "Available",
+    "trailer": "w5B3mtvIDdY",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Indiana Jones and the Dial of Destiny",
+    "title_spanish": "Indiana Jones y el dial del destino",
+    "year": 2023,
+    "genres": ["Acción", "Aventura"],
+    "director": "James Mangold",
+    "status": "Available",
+    "trailer": "eQfMbSe7F2g",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Inferno",
+    "title_spanish": "Inferno",
+    "year": 2016,
+    "genres": ["Misterio", "Suspenso"],
+    "director": "Ron Howard",
+    "status": "Available",
+    "trailer": "uyuN1o6gcyw",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Interstellar",
+    "title_spanish": "Interestelar",
+    "year": 2014,
+    "genres": ["Aventura", "Drama", "Ciencia ficción"],
+    "director": "Christopher Nolan",
+    "status": "Available",
+    "trailer": "zSWdZVtXT7E",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "No Hard Feelings",
+    "title_spanish": "Sin malos rollos",
+    "year": 2023,
+    "genres": ["Comedia", "Romance"],
+    "director": "Gene Stupnitsky",
+    "status": "Available",
+    "trailer": "pzvQAg9FkX8",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Oppenheimer",
+    "title_spanish": "Oppenheimer",
+    "year": 2023,
+    "genres": ["Drama", "Historia"],
+    "director": "Christopher Nolan",
+    "status": "Available",
+    "trailer": "uYPbbksJxIg",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Predator",
+    "title_spanish": "Depredador",
+    "year": 1987,
+    "genres": ["Ciencia ficción", "Acción", "Suspenso"],
+    "director": "John McTiernan",
+    "status": "Available",
+    "trailer": "X2hBYGwKh3I",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Predator 2",
+    "title_spanish": "Depredador 2",
+    "year": 1990,
+    "genres": ["Ciencia ficción", "Acción", "Suspenso"],
+    "director": "Stephen Hopkins",
+    "status": "Available",
+    "trailer": "pLe_1SheJms",
+    "poster": "hXgk4z8k11.jpg",
+    "resolution": "1080p"
   }
 ]
