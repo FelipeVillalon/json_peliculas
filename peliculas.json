@@ -3,2391 +3,3397 @@
     "title": "Elysium",
     "title_spanish": "Elysium",
     "year": 2013,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Neill Blomkamp",
     "status": "Disponible",
     "trailer": "oIBtePb-dGY",
     "poster": "uiiXHBd9oUrtUa4YqZiAoy05cRz.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Gladiator - Extended Edition",
     "title_spanish": "Gladiador - Edición Extendida",
     "year": 2000,
-    "genres": ["Acción", "Drama", "Aventura"],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Aventura"
+    ],
     "director": "Ridley Scott",
     "status": "Disponible",
     "trailer": "uvbavW31adA",
     "poster": "ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
     "title_spanish": "Indiana Jones y el Reino de la Calavera de Cristal",
     "year": 2008,
-    "genres": ["Acción", "Aventura"],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "nMhfESAa4tw",
     "poster": "56As6XEM1flWvprX4LgkPl8ii4K.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Inglourious Basterds",
     "title_spanish": "Bastardos sin Gloria",
     "year": 2009,
-    "genres": ["Acción", "Drama", "Bélica"],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Bélica"
+    ],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "KnrRy6kSFF0",
     "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Jurassic Park",
     "title_spanish": "Parque Jurásico",
     "year": 1993,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "QWBKEmWWL38",
     "poster": "maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Jurassic Park III",
     "title_spanish": "Parque Jurásico III",
     "year": 2001,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Joe Johnston",
     "status": "Disponible",
     "trailer": "dcmGqHVTR0A",
     "poster": "oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Kill Bill - Vol. 1",
     "title_spanish": "Kill Bill - Vol. 1",
     "year": 2003,
-    "genres": ["Acción", "Crimen", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "LPLNjDDqVvY",
     "poster": "v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Kill Bill - Vol. 2",
     "title_spanish": "Kill Bill - Vol. 2",
     "year": 2004,
-    "genres": ["Acción", "Crimen", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "WTt8cCIvGYI",
     "poster": "2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Men in Black",
     "title_spanish": "Hombres de Negro",
     "year": 1997,
-    "genres": ["Acción", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Barry Sonnenfeld",
     "status": "Disponible",
     "trailer": "HYUd7AOw_lk",
     "poster": "uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Men in Black 3",
     "title_spanish": "Hombres de Negro 3",
     "year": 2012,
-    "genres": ["Acción", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Barry Sonnenfeld",
     "status": "Disponible",
     "trailer": "IyaFEBI_L24",
     "poster": "90DdoEStzeObs96fsYf4GG544iN.jpg",
-    "resolution": "1080p"
-  },{
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Men in Black II",
     "title_spanish": "Hombres de Negro II",
     "year": 2002,
-    "genres": ["Acción", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Barry Sonnenfeld",
     "status": "Disponible",
     "trailer": "u1s0UeQKJHQ",
     "poster": "enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Raiders of the Lost Ark",
     "title_spanish": "Indiana Jones y los cazadores del arca perdida",
     "year": 1981,
-    "genres": ["Acción", "Aventura"],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "XkkzKHCx154",
     "poster": "wZkA6wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Taken - Extended Edition",
     "title_spanish": "Búsqueda Implacable - Edición Extendida",
     "year": 2008,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Pierre Morel",
     "status": "Disponible",
     "trailer": "uPJVJBm9TPA",
     "poster": "xYkA7wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Taken 2 - Extended Edition",
     "title_spanish": "Búsqueda Implacable 2 - Edición Extendida",
     "year": 2012,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Olivier Megaton",
     "status": "Disponible",
     "trailer": "VpaT8NzkLgE",
     "poster": "yZkA8wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Taken 3 - Extended Edition",
     "title_spanish": "Búsqueda Implacable 3 - Edición Extendida",
     "year": 2014,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Olivier Megaton",
     "status": "Disponible",
     "trailer": "JuU0M2xBasc",
     "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Terminator - Dark Fate",
     "title_spanish": "Terminator - Destino Oscuro",
     "year": 2019,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Tim Miller",
     "status": "Disponible",
     "trailer": "jCyEX6u-Yhs",
     "poster": "aBkA0wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Terminator 2 - Judgment Day - Theatrical Edition",
     "title_spanish": "Terminator 2 - El juicio final - Edición teatral",
     "year": 1991,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "James Cameron",
     "status": "Disponible",
     "trailer": "CRRlbK5w8AE",
     "poster": "bCkA1wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Terminator Genisys",
     "title_spanish": "Terminator Génesis",
     "year": 2015,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Alan Taylor",
     "status": "Disponible",
     "trailer": "62E4FJTwSuc",
     "poster": "cDkA2wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Terminator Salvation - Theatrical Edition",
     "title_spanish": "Terminator - La salvación - Edición teatral",
     "year": 2009,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "McG",
     "status": "Disponible",
     "trailer": "VexvF6m0n7Q",
     "poster": "dEkA3wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Terminator",
     "title_spanish": "El Terminator",
     "year": 1984,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "James Cameron",
     "status": "Disponible",
     "trailer": "k64P4l2Wmeg",
     "poster": "eFkA4wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "X2",
     "title_spanish": "X-Men 2",
     "year": 2003,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Bryan Singer",
     "status": "Disponible",
     "trailer": "5tuOCGh8Q4A",
     "poster": "s1xnjbOIQtwGObPnydTebp74G2c.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "X-Men - Apocalypse",
     "title_spanish": "X-Men: Apocalipsis",
     "year": 2016,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Bryan Singer",
     "status": "Disponible",
     "trailer": "N0io2w_6vT8",
     "poster": "ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "X-Men - Days of Future Past",
     "title_spanish": "X-Men: Días del futuro pasado",
     "year": 2014,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Bryan Singer",
     "status": "Disponible",
     "trailer": "pK2zYHWDZKo",
     "poster": "cXzZ5rYq3qv4vY9WkK6hM1Pz0dD.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "X-Men - First Class",
     "title_spanish": "X-Men: Primera generación",
     "year": 2011,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Matthew Vaughn",
     "status": "Disponible",
     "trailer": "UrbHykKUfTM",
     "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "X-Men - The Last Stand",
     "title_spanish": "X-Men: La batalla final",
     "year": 2006,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Brett Ratner",
     "status": "Disponible",
     "trailer": "gT2nVJTSPSc",
     "poster": "c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "X-Men",
     "title_spanish": "X-Men",
     "year": 2000,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Bryan Singer",
     "status": "Disponible",
     "trailer": "VNxwlx6etXI",
     "poster": "vYkA5wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Angels And Demons",
     "title_spanish": "Ángeles y demonios",
     "year": 2009,
-    "genres": ["Misterio", "Suspenso"],
+    "genres": [
+      "Misterio",
+      "Suspenso"
+    ],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "p4WUkn8fsCc",
     "poster": "wZkA6wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "El Codigo Da Vinci",
     "title_spanish": "El código Da Vinci",
     "year": 2006,
-    "genres": ["Misterio", "Suspenso"],
+    "genres": [
+      "Misterio",
+      "Suspenso"
+    ],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "lfqHb6INj3w",
     "poster": "xYkA7wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "17 Again",
     "title_spanish": "17 otra vez",
     "year": 2009,
-    "genres": ["Comedia", "Fantasía"],
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
     "director": "Burr Steers",
     "status": "Disponible",
     "trailer": "UQK5Hh0L1Sg",
     "poster": "yZkA8wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "1917",
     "title_spanish": "1917",
     "year": 2019,
-    "genres": ["Drama", "Bélica"],
+    "genres": [
+      "Drama",
+      "Bélica"
+    ],
     "director": "Sam Mendes",
     "status": "Disponible",
     "trailer": "YqNYrYUiMfg",
     "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "65",
     "title_spanish": "65",
     "year": 2023,
-    "genres": ["Ciencia ficción", "Acción"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción"
+    ],
     "director": "Scott Beck, Bryan Woods",
     "status": "Disponible",
     "trailer": "bHXejJq5vr0",
     "poster": "cvoniMnmPcE.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "A Beautiful Mind",
     "title_spanish": "Una mente brillante",
     "year": 2001,
-    "genres": ["Drama", "Biografía"],
+    "genres": [
+      "Drama",
+      "Biografía"
+    ],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "EajIlG_OCvw",
     "poster": "YWwAOutgWBQ.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "A Haunted House",
     "title_spanish": "Una casa embrujada",
     "year": 2013,
-    "genres": ["Comedia", "Terror"],
+    "genres": [
+      "Comedia",
+      "Terror"
+    ],
     "director": "Michael Tiddes",
     "status": "Disponible",
     "trailer": "daCqXHagaPY",
     "poster": "QI3n43a30Wc.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "A Quiet Place Part II",
     "title_spanish": "Un lugar en silencio: Parte II",
     "year": 2020,
-    "genres": ["Terror", "Ciencia ficción"],
+    "genres": [
+      "Terror",
+      "Ciencia ficción"
+    ],
     "director": "John Krasinski",
     "status": "Disponible",
     "trailer": "BpdDN9d9Jio",
     "poster": "Id00Eq1j8M4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "A Writer's Odyssey",
     "title_spanish": "La odisea de un escritor",
     "year": 2021,
-    "genres": ["Fantasía", "Acción"],
+    "genres": [
+      "Fantasía",
+      "Acción"
+    ],
     "director": "Lu Yang",
     "status": "Disponible",
     "trailer": "7Khk9dSEZnA",
     "poster": "uxwLGd_aE5U.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Air",
     "title_spanish": "Air: La historia detrás del logo",
     "year": 2023,
-    "genres": ["Drama", "Biografía"],
+    "genres": [
+      "Drama",
+      "Biografía"
+    ],
     "director": "Ben Affleck",
     "status": "Disponible",
     "trailer": "Euy4Yu6B3nU",
     "poster": "kgnqxQizrW8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Aladdin",
     "title_spanish": "Aladdín",
     "year": 2019,
-    "genres": ["Aventura", "Fantasía", "Familia"],
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Familia"
+    ],
     "director": "Guy Ritchie",
     "status": "Disponible",
     "trailer": "JcMtWwiyzpU",
     "poster": "foyufD52aog.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Along with the Gods - The Last 49 Days",
     "title_spanish": "Junto con los dioses: Los últimos 49 días",
     "year": 2018,
-    "genres": ["Fantasía", "Drama"],
+    "genres": [
+      "Fantasía",
+      "Drama"
+    ],
     "director": "Kim Yong-hwa",
     "status": "Disponible",
     "trailer": "IfzZYija-wM",
     "poster": "IxAXrPf57ZU.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Along with the Gods - The Two Worlds",
     "title_spanish": "Junto con los dioses: Los dos mundos",
     "year": 2017,
-    "genres": ["Fantasía", "Drama"],
+    "genres": [
+      "Fantasía",
+      "Drama"
+    ],
     "director": "Kim Yong-hwa",
     "status": "Disponible",
     "trailer": "sD7dmu-IWNw",
     "poster": "Y3xcJor-hyQ.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "American Psycho",
     "title_spanish": "Psicópata americano",
     "year": 2000,
-    "genres": ["Crimen", "Drama", "Terror"],
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Terror"
+    ],
     "director": "Mary Harron",
     "status": "Disponible",
     "trailer": "81mibtQWWBg",
     "poster": "9947ykh7axA.jpg",
-    "resolution": "1080p"
-  },{
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "American Sniper",
     "title_spanish": "Francotirador",
     "year": 2014,
-    "genres": ["Drama", "Bélica", "Biografía"],
+    "genres": [
+      "Drama",
+      "Bélica",
+      "Biografía"
+    ],
     "director": "Clint Eastwood",
     "status": "Disponible",
     "trailer": "99k3u9ay1gs",
     "poster": "oAPBqib7vYzBjR6t1Z7fL4f6kJ.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Anastasia",
     "title_spanish": "Anastasia",
     "year": 1997,
-    "genres": ["Animación", "Aventura", "Familia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
     "director": "Don Bluth, Gary Goldman",
     "status": "Disponible",
     "trailer": "M0vnBeHeuzs",
     "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Animal",
     "title_spanish": "Animal",
     "year": 2014,
-    "genres": ["Terror", "Suspenso"],
+    "genres": [
+      "Terror",
+      "Suspenso"
+    ],
     "director": "Brett Simmons",
     "status": "Disponible",
     "trailer": "BmX-8Xt_Ydg",
     "poster": "6J5I4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Anna - El peligro tiene nombre",
     "title_spanish": "Anna",
     "year": 2019,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Luc Besson",
     "status": "Disponible",
     "trailer": "Z6yTXsCauIc",
     "poster": "w1n3pVZzG3V.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Ant-Man",
     "title_spanish": "Ant-Man: El Hombre Hormiga",
     "year": 2015,
-    "genres": ["Acción", "Ciencia ficción", "Comedia"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia"
+    ],
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "QfOZWGLT1JM",
     "poster": "D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Ant-Man and the Wasp - Quantumania",
     "title_spanish": "Ant-Man y la Avispa: Quantumanía",
     "year": 2023,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "ZlNFpri-Y40",
     "poster": "qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Ant-Man and the Wasp",
     "title_spanish": "Ant-Man y la Avispa",
     "year": 2018,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "8_rTIAOohas",
     "poster": "rv1AWImgx386ULjcf62VYaW8zSt.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Aquaman",
     "title_spanish": "Aquaman",
     "year": 2018,
-    "genres": ["Acción", "Aventura", "Fantasía"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "James Wan",
     "status": "Disponible",
     "trailer": "WDkg3h8PCVU",
     "poster": "xLPffWMhMj1l50ND3KchMjYoKmE.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Armageddon",
     "title_spanish": "Armageddon",
     "year": 1998,
-    "genres": ["Acción", "Ciencia ficción", "Drama"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Drama"
+    ],
     "director": "Michael Bay",
     "status": "Disponible",
     "trailer": "8-8eEniEfgU",
     "poster": "eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Arrival",
     "title_spanish": "La llegada",
     "year": 2016,
-    "genres": ["Drama", "Ciencia ficción", "Misterio"],
+    "genres": [
+      "Drama",
+      "Ciencia ficción",
+      "Misterio"
+    ],
     "director": "Denis Villeneuve",
     "status": "Disponible",
     "trailer": "tFMo3UJ4B4g",
     "poster": "x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
-   {
+  {
     "title": "As Good as It Gets",
     "title_spanish": "Mejor... imposible",
     "year": 1997,
-    "genres": ["Comedia", "Drama", "Romance"],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
     "director": "James L. Brooks",
     "status": "Disponible",
     "trailer": "t2d89afgtqg",
     "poster": "r8NQdVdFvYzBjR6t1Z7fL4f6kJ.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Attraction",
     "title_spanish": "Attraction",
     "year": 2017,
-    "genres": ["Ciencia ficción", "Drama", "Romance"],
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Romance"
+    ],
     "director": "Fedor Bondarchuk",
     "status": "Disponible",
     "trailer": "lElqBmOEfPQ",
     "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Avengers - Age of Ultron",
     "title_spanish": "Avengers: Era de Ultrón",
     "year": 2015,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Joss Whedon",
     "status": "Disponible",
     "trailer": "tmeOjFno6Do",
     "poster": "t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Avengers - Infinity War",
     "title_spanish": "Avengers: Infinity War",
     "year": 2018,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Anthony Russo, Joe Russo",
     "status": "Disponible",
     "trailer": "6ZfuNTqbHE8",
     "poster": "7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Back to the Future",
     "title_spanish": "Volver al Futuro",
     "year": 1985,
-    "genres": ["Aventura", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Robert Zemeckis",
     "status": "Disponible",
     "trailer": "qvsgGtivCgs",
     "poster": "pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Back to the Future Part II",
     "title_spanish": "Volver al Futuro Parte II",
     "year": 1989,
-    "genres": ["Aventura", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Robert Zemeckis",
     "status": "Disponible",
     "trailer": "MdENmefJRpw",
     "poster": "aVx0G9KzG1M.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Back to the Future Part III",
     "title_spanish": "Volver al Futuro Parte III",
     "year": 1990,
-    "genres": ["Aventura", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Robert Zemeckis",
     "status": "Disponible",
     "trailer": "NlOYnSSufGY",
     "poster": "fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bad Boys",
     "title_spanish": "Dos policías rebeldes",
     "year": 1995,
-    "genres": ["Acción", "Comedia", "Crimen"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
     "director": "Michael Bay",
     "status": "Disponible",
     "trailer": "OLYENHi4IIc",
     "poster": "yPisjyLweCl1tbgwgtzBCNCBle.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bad Boys for Life",
     "title_spanish": "Bad Boys para siempre",
     "year": 2020,
-    "genres": ["Acción", "Comedia", "Crimen"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
     "director": "Adil El Arbi, Bilall Fallah",
     "status": "Disponible",
     "trailer": "jKCj3XuPG8M",
     "poster": "y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bad Boys II",
     "title_spanish": "Dos policías rebeldes II",
     "year": 2003,
-    "genres": ["Acción", "Comedia", "Crimen"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
     "director": "Michael Bay",
     "status": "Disponible",
     "trailer": "UTNcOwQ2lRw",
     "poster": "yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Batman Begins",
     "title_spanish": "Batman inicia",
     "year": 2005,
-    "genres": ["Acción", "Crimen", "Drama"],
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama"
+    ],
     "director": "Christopher Nolan",
     "status": "Disponible",
     "trailer": "vak9ZLfhGnQ",
     "poster": "1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Battle Royale",
     "title_spanish": "Battle Royale",
     "year": 2000,
-    "genres": ["Acción", "Drama", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Kinji Fukasaku",
     "status": "Disponible",
     "trailer": "zxtf7dTALUc",
     "poster": "k3Ew1Xz1cP6f.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bicentennial Man",
     "title_spanish": "El hombre bicentenario",
     "year": 1999,
-    "genres": ["Drama", "Ciencia ficción"],
+    "genres": [
+      "Drama",
+      "Ciencia ficción"
+    ],
     "director": "Chris Columbus",
     "status": "Disponible",
     "trailer": "yfDlQ-Q12rg",
     "poster": "pE6sVTLkZ1.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Black Adam",
     "title_spanish": "Black Adam",
     "year": 2022,
-    "genres": ["Acción", "Fantasía", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Ciencia ficción"
+    ],
     "director": "Jaume Collet-Serra",
     "status": "Disponible",
     "trailer": "X0tOpBuYasI",
     "poster": "pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Black Widow",
     "title_spanish": "Black Widow",
     "year": 2021,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Cate Shortland",
     "status": "Disponible",
     "trailer": "ybji16u608U",
     "poster": "qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Blade",
     "title_spanish": "Blade",
     "year": 1998,
-    "genres": ["Acción", "Terror"],
+    "genres": [
+      "Acción",
+      "Terror"
+    ],
     "director": "Stephen Norrington",
     "status": "Disponible",
     "trailer": "kaU2A7KyOu4",
     "poster": "e8pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Blade II",
     "title_spanish": "Blade II",
     "year": 2002,
-    "genres": ["Acción", "Terror"],
+    "genres": [
+      "Acción",
+      "Terror"
+    ],
     "director": "Guillermo del Toro",
     "status": "Disponible",
     "trailer": "vAUB7dcUn8o",
     "poster": "f9pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bliss",
     "title_spanish": "Bliss",
     "year": 2021,
-    "genres": ["Ciencia ficción", "Drama"],
+    "genres": [
+      "Ciencia ficción",
+      "Drama"
+    ],
     "director": "Mike Cahill",
     "status": "Disponible",
     "trailer": "ZHtPm8v-yNw",
     "poster": "g0pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Blood Diamond",
     "title_spanish": "Diamante de sangre",
     "year": 2006,
-    "genres": ["Drama", "Suspenso"],
+    "genres": [
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Edward Zwick",
     "status": "Disponible",
     "trailer": "yknIZsvQjG4",
     "poster": "h1pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Boda Sangrienta",
     "title_spanish": "Boda Sangrienta",
     "year": 2019,
-    "genres": ["Terror", "Comedia"],
+    "genres": [
+      "Terror",
+      "Comedia"
+    ],
     "director": "Matt Bettinelli-Olpin, Tyler Gillett",
     "status": "Disponible",
     "trailer": "MHt5G2P7KM0",
     "poster": "i2pI4w4q2E51.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Boss Level",
     "title_spanish": "Boss Level",
     "year": 2021,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Joe Carnahan",
     "status": "Disponible",
     "trailer": "9mkiYwB5K3g",
     "poster": "9dTO1tZ9rY.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Braveheart",
     "title_spanish": "Corazón valiente",
     "year": 1995,
-    "genres": ["Drama", "Historia", "Bélica"],
+    "genres": [
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
     "director": "Mel Gibson",
     "status": "Disponible",
     "trailer": "1NJO0jxBtMo",
     "poster": "or1gBugydmjToAEq7OZY0owwFk.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bridget Jones's Diary",
     "title_spanish": "El diario de Bridget Jones",
     "year": 2001,
-    "genres": ["Comedia", "Romance"],
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
     "director": "Sharon Maguire",
     "status": "Disponible",
     "trailer": "xjlKnDWZYzc",
     "poster": "nQYcM3t5B2.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Bullet Train",
     "title_spanish": "Tren bala",
     "year": 2022,
-    "genres": ["Acción", "Comedia", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Suspenso"
+    ],
     "director": "David Leitch",
     "status": "Disponible",
     "trailer": "0IOsk2Vlc4o",
     "poster": "tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Captain America - Civil War",
     "title_spanish": "Capitán América: Civil War",
     "year": 2016,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Anthony Russo, Joe Russo",
     "status": "Disponible",
     "trailer": "dKrVegVI0Us",
     "poster": "rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Captain America - The Winter Soldier",
     "title_spanish": "Capitán América y el Soldado del Invierno",
     "year": 2014,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Anthony Russo, Joe Russo",
     "status": "Disponible",
     "trailer": "7SlILk2WMTI",
     "poster": "tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Casino Royale",
     "title_spanish": "Casino Royale",
     "year": 2006,
-    "genres": ["Acción", "Aventura", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspenso"
+    ],
     "director": "Martin Campbell",
     "status": "Disponible",
     "trailer": "36mnx8dBbGE",
     "poster": "tOZrJt84r6zEZb3b1g3X4Pp0tY.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Cats & Dogs 3 - Paws Unite",
     "title_spanish": "Como perros y gatos 3: ¡Patas unidas!",
     "year": 2020,
-    "genres": ["Comedia", "Familia"],
+    "genres": [
+      "Comedia",
+      "Familia"
+    ],
     "director": "Sean McNamara",
     "status": "Disponible",
     "trailer": "ct5mQYE3Xk4",
     "poster": "eja7y6g6i.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Charlie and the Chocolate Factory",
     "title_spanish": "Charlie y la fábrica de chocolate",
     "year": 2005,
-    "genres": ["Aventura", "Comedia", "Familia"],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
     "director": "Tim Burton",
     "status": "Disponible",
     "trailer": "OFVGCUIXJls",
     "poster": "wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Chernobyl 1986",
     "title_spanish": "Chernóbil 1986",
     "year": 2021,
-    "genres": ["Drama", "Historia"],
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
     "director": "Danila Kozlovsky",
     "status": "Disponible",
     "trailer": "lI03GlboYu4",
     "poster": "A3DqTg6i.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Cloud Atlas",
     "title_spanish": "Cloud Atlas: La red invisible",
     "year": 2012,
-    "genres": ["Ciencia ficción", "Drama"],
+    "genres": [
+      "Ciencia ficción",
+      "Drama"
+    ],
     "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
     "status": "Disponible",
     "trailer": "ByehYal_cCs",
     "poster": "hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Cloverfield",
     "title_spanish": "Cloverfield: Monstruo",
     "year": 2008,
-    "genres": ["Ciencia ficción", "Terror"],
+    "genres": [
+      "Ciencia ficción",
+      "Terror"
+    ],
     "director": "Matt Reeves",
     "status": "Disponible",
     "trailer": "_afPFLvh2qg",
     "poster": "hOq0jD8q0zH2U6y1ZzWv2k1xL.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Creed III",
     "title_spanish": "Creed III",
     "year": 2023,
-    "genres": ["Drama", "Deportes"],
+    "genres": [
+      "Drama",
+      "Deportes"
+    ],
     "director": "Michael B. Jordan",
     "status": "Disponible",
     "trailer": "AHmCH7iB_IM",
     "poster": "cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Cruel Intentions",
     "title_spanish": "Juegos sexuales",
     "year": 1999,
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "director": "Roger Kumble",
     "status": "Disponible",
     "trailer": "SCFR2vpMIQU",
     "poster": "g1pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Cube",
     "title_spanish": "Cube",
     "year": 1997,
-    "genres": ["Ciencia ficción", "Terror"],
+    "genres": [
+      "Ciencia ficción",
+      "Terror"
+    ],
     "director": "Vincenzo Natali",
     "status": "Disponible",
     "trailer": "Esjc0rPj3K4",
     "poster": "h2pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Dark City",
     "title_spanish": "Dark City",
     "year": 1998,
-    "genres": ["Ciencia ficción", "Misterio"],
+    "genres": [
+      "Ciencia ficción",
+      "Misterio"
+    ],
     "director": "Alex Proyas",
     "status": "Disponible",
     "trailer": "gt9HkO-cGGo",
     "poster": "h3pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "DC League of Super-Pets",
     "title_spanish": "DC Liga de Súper-Mascotas",
     "year": 2022,
-    "genres": ["Animación", "Aventura", "Comedia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Jared Stern, Sam J. Levine",
     "status": "Disponible",
     "trailer": "1jkw2JPCl18",
     "poster": "r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Death Race",
     "title_spanish": "La carrera de la muerte",
     "year": 2008,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Paul W.S. Anderson",
     "status": "Disponible",
     "trailer": "C8bxcJZrus0",
     "poster": "h4pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Despicable Me 2",
     "title_spanish": "Mi villano favorito 2",
     "year": 2013,
-    "genres": ["Animación", "Comedia", "Familia"],
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
     "director": "Pierre Coffin, Chris Renaud",
     "status": "Disponible",
     "trailer": "yM9sKpQOuEw",
     "poster": "h5pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Die Hard - With a Vengeance",
     "title_spanish": "Duro de matar: La venganza",
     "year": 1995,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "John McTiernan",
     "status": "Disponible",
     "trailer": "QKxQ5SBzLWA",
     "poster": "h6pI4w4q2E51.jpg",
-    "resolution": "1080p"
-  }, {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Die Hard",
     "title_spanish": "Duro de matar",
     "year": 1988,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "John McTiernan",
     "status": "Disponible",
     "trailer": "jaJuwKCmJbY",
     "poster": "r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Die Hard 2",
     "title_spanish": "Duro de matar 2",
     "year": 1990,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Renny Harlin",
     "status": "Disponible",
     "trailer": "CvHp7xJZ4_U",
     "poster": "kI2t3rG5Ra1tZzR3XGqz1zq9i4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Dinner for Schmucks",
     "title_spanish": "La cena de los idiotas",
     "year": 2010,
-    "genres": ["Comedia"],
+    "genres": [
+      "Comedia"
+    ],
     "director": "Jay Roach",
     "status": "Disponible",
     "trailer": "CVY_IRA8NTw",
     "poster": "xW0pEMh5Y3.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Django Unchained",
     "title_spanish": "Django sin cadenas",
     "year": 2012,
-    "genres": ["Western", "Drama"],
+    "genres": [
+      "Western",
+      "Drama"
+    ],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "0fUCuvNlOCg",
     "poster": "7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Dragon Ball Super - Super Hero",
     "title_spanish": "Dragon Ball Super: Superhéroe",
     "year": 2022,
-    "genres": ["Animación", "Acción"],
+    "genres": [
+      "Animación",
+      "Acción"
+    ],
     "director": "Tetsuro Kodama",
     "status": "Disponible",
     "trailer": "wHAaKXtfSOg",
     "poster": "rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Dumbo",
     "title_spanish": "Dumbo",
     "year": 2019,
-    "genres": ["Aventura", "Familia", "Fantasía"],
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
     "director": "Tim Burton",
     "status": "Disponible",
     "trailer": "7NiYVoqBt-8",
     "poster": "f5fTo5FdE9IRfrzq4O6cG6U1Wf.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Dungeons & Dragons - Honor Among Thieves",
     "title_spanish": "Calabozos y dragones: Honor entre ladrones",
     "year": 2023,
-    "genres": ["Aventura", "Fantasía"],
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "John Francis Daley, Jonathan Goldstein",
     "status": "Disponible",
     "trailer": "IiMinixSXII",
     "poster": "A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Edward Scissorhands",
     "title_spanish": "El joven manos de tijera",
     "year": 1990,
-    "genres": ["Fantasía", "Romance"],
+    "genres": [
+      "Fantasía",
+      "Romance"
+    ],
     "director": "Tim Burton",
     "status": "Disponible",
     "trailer": "TBHIO60whNw",
     "poster": "1RFiG6ntcM8U4YZIf67CjIHvEGb.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "El Camino - A Breaking Bad Movie",
     "title_spanish": "El Camino: Una película de Breaking Bad",
     "year": 2019,
-    "genres": ["Crimen", "Drama", "Suspenso"],
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Vince Gilligan",
     "status": "Disponible",
     "trailer": "1JLUn2DFW4w",
     "poster": "g1pI4w4q2E51.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Jumanji - The Next Level",
     "title_spanish": "Jumanji: El siguiente nivel",
     "year": 2019,
-    "genres": ["Aventura", "Comedia", "Fantasía"],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
     "director": "Jake Kasdan",
     "status": "Disponible",
     "trailer": "rBxcF-r9Ibs",
     "poster": "bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg",
-    "resolution": "1080p"
-  },{
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Kingsman - The Golden Circle",
     "title_spanish": "Kingsman: El círculo dorado",
     "year": 2017,
-    "genres": ["Acción", "Comedia", "Aventura"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Aventura"
+    ],
     "director": "Matthew Vaughn",
     "status": "Disponible",
     "trailer": "6Nxc-3WpMbg",
     "poster": "34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Kingsman - The Secret Service",
     "title_spanish": "Kingsman: El servicio secreto",
     "year": 2014,
-    "genres": ["Acción", "Comedia", "Aventura"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Aventura"
+    ],
     "director": "Matthew Vaughn",
     "status": "Disponible",
     "trailer": "m4NCribDx4U",
     "poster": "ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Knives Out",
     "title_spanish": "Entre navajas y secretos",
     "year": 2019,
-    "genres": ["Misterio", "Comedia", "Crimen"],
+    "genres": [
+      "Misterio",
+      "Comedia",
+      "Crimen"
+    ],
     "director": "Rian Johnson",
     "status": "Disponible",
     "trailer": "odMdKdTa7g8",
     "poster": "pThyQovXQrw2m0s9x82twj48Jq4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Knowing",
     "title_spanish": "Señales del futuro",
     "year": 2009,
-    "genres": ["Ciencia ficción", "Suspenso"],
+    "genres": [
+      "Ciencia ficción",
+      "Suspenso"
+    ],
     "director": "Alex Proyas",
     "status": "Disponible",
     "trailer": "C2zSFElhgE0",
     "poster": "fYzpM9GmpBlIC893fNjoWCwE24H.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Kong - Skull Island",
     "title_spanish": "Kong: La Isla Calavera",
     "year": 2017,
-    "genres": ["Acción", "Aventura", "Fantasía"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "Jordan Vogt-Roberts",
     "status": "Disponible",
     "trailer": "44LdLqgOpjo",
     "poster": "r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "La dama y el vagabundo",
     "title_spanish": "La dama y el vagabundo",
     "year": 1955,
-    "genres": ["Animación", "Familia", "Romance"],
+    "genres": [
+      "Animación",
+      "Familia",
+      "Romance"
+    ],
     "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
     "status": "Disponible",
     "trailer": "5Ho7nThiit4",
     "poster": "A2avUoNFstnBhAnHiogXQs4c9Bt.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Las Locuras del Emperador",
     "title_spanish": "Las locuras del emperador",
     "year": 2000,
-    "genres": ["Animación", "Comedia", "Familia"],
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
     "director": "Mark Dindal",
     "status": "Disponible",
     "trailer": "vm3ekBZ9gHQ",
     "poster": "9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Las Locuras del Emperador 2",
     "title_spanish": "Las locuras del emperador 2: La gran aventura de Kronk",
     "year": 2005,
-    "genres": ["Animación", "Comedia", "Familia"],
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
     "director": "Elliot M. Bour, Saul Andrew Blinkoff",
     "status": "Disponible",
     "trailer": "Y-yvKWNy8c0",
     "poster": "5iVZ3z4A1C.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Legalmente Rubia",
     "title_spanish": "Legalmente rubia",
     "year": 2001,
-    "genres": ["Comedia", "Romance"],
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
     "director": "Robert Luketic",
     "status": "Disponible",
     "trailer": "Phm3lpdR3_g",
     "poster": "8oPY6sK7tp9zJ3lXw0gZ1xKjv.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Legalmente Rubia 2 - Mas rubia que nunca",
     "title_spanish": "Legalmente rubia 2: Más rubia que nunca",
     "year": 2003,
-    "genres": ["Comedia"],
+    "genres": [
+      "Comedia"
+    ],
     "director": "Charles Herman-Wurmfeld",
     "status": "Disponible",
     "trailer": "WlR6Oc_MsQM",
     "poster": "nYk1b1hZME.jpg",
-    "resolution": "1080p"
-  }, {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Let Him Go",
     "title_spanish": "Déjalo ir",
     "year": 2020,
-    "genres": ["Drama", "Suspenso"],
+    "genres": [
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Thomas Bezucha",
     "status": "Disponible",
     "trailer": "bE8pwEF-3TI",
     "poster": "tP2A3Gz2QnGqv1iG2u3Z1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Liar Liar",
     "title_spanish": "Mentiroso, mentiroso",
     "year": 1997,
-    "genres": ["Comedia", "Fantasía"],
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
     "director": "Tom Shadyac",
     "status": "Disponible",
     "trailer": "C1no75lpOiw",
     "poster": "xXgk4z8k1.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Lilo & Stitch",
     "title_spanish": "Lilo & Stitch",
     "year": 2002,
-    "genres": ["Animación", "Familia", "Ciencia ficción"],
+    "genres": [
+      "Animación",
+      "Familia",
+      "Ciencia ficción"
+    ],
     "director": "Dean DeBlois, Chris Sanders",
     "status": "Disponible",
     "trailer": "9OAC55UWAQs",
     "poster": "yXgk4z8k2.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Live Free or Die Hard",
     "title_spanish": "Duro de matar 4.0",
     "year": 2007,
-    "genres": ["Acción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Len Wiseman",
     "status": "Disponible",
     "trailer": "8Jz-8UcCiws",
     "poster": "zXgk4z8k3.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "There's Something About Mary",
     "title_spanish": "Loco por Mary",
     "year": 1998,
-    "genres": ["Comedia", "Romance"],
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
     "director": "Bobby Farrelly, Peter Farrelly",
     "status": "Disponible",
     "trailer": "503D8hOfE_8",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Departed",
     "title_spanish": "Los infiltrados",
     "year": 2006,
-    "genres": ["Crimen", "Drama", "Suspenso"],
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Martin Scorsese",
     "status": "Disponible",
     "trailer": "iQpb1LoeVUc",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Penguins of Madagascar",
     "title_spanish": "Los pingüinos de Madagascar",
     "year": 2014,
-    "genres": ["Animación", "Aventura", "Comedia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Eric Darnell, Simon J. Smith",
     "status": "Disponible",
     "trailer": "KHGHEpUeUwo",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Lucy",
     "title_spanish": "Lucy",
     "year": 2014,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Luc Besson",
     "status": "Disponible",
     "trailer": "bN7ksFEVO9U",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "M3GAN",
     "title_spanish": "M3GAN",
     "year": 2022,
-    "genres": ["Terror", "Ciencia ficción"],
+    "genres": [
+      "Terror",
+      "Ciencia ficción"
+    ],
     "director": "Gerard Johnstone",
     "status": "Disponible",
     "trailer": "BRb4U99OU80",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Mad Max: Fury Road",
     "title_spanish": "Mad Max: Furia en el camino",
     "year": 2015,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "George Miller",
     "status": "Disponible",
     "trailer": "hEJnMQG9ev8",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
-  }, {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Man of Steel",
     "title_spanish": "El hombre de acero",
     "year": 2013,
-    "genres": ["Acción", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción"
+    ],
     "director": "Zack Snyder",
     "status": "Disponible",
     "trailer": "T6DJcgm3wNY",
     "poster": "xWlaTLnD8NJMTT9OF6tYvBd4VCH.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Me, Myself & Irene",
     "title_spanish": "Yo, yo mismo e Irene",
     "year": 2000,
-    "genres": ["Comedia"],
+    "genres": [
+      "Comedia"
+    ],
     "director": "Bobby Farrelly, Peter Farrelly",
     "status": "Disponible",
     "trailer": "JABG7viqJWc",
     "poster": "xXgk4z8k1.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Meet the Spartans",
     "title_spanish": "Casi 300",
     "year": 2008,
-    "genres": ["Comedia"],
+    "genres": [
+      "Comedia"
+    ],
     "director": "Jason Friedberg, Aaron Seltzer",
     "status": "Disponible",
     "trailer": "RY-zJtYYolo",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Memories. Episode 1 - Magnetic Rose",
     "title_spanish": "Memories. Episodio 1 - Rosa magnética",
     "year": 1995,
-    "genres": ["Animación", "Ciencia ficción"],
+    "genres": [
+      "Animación",
+      "Ciencia ficción"
+    ],
     "director": "Kōji Morimoto",
     "status": "Disponible",
     "trailer": "CCMLLBS2PSg",
     "poster": "yXgk4z8k2.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Memories. Episode 2 - Stink Bomb",
     "title_spanish": "Memories. Episodio 2 - Bomba apestosa",
     "year": 1995,
-    "genres": ["Animación", "Comedia", "Ciencia ficción"],
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Tensai Okamura",
     "status": "Disponible",
     "trailer": "ZshpM0Is3U4",
     "poster": "zXgk4z8k3.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Memories. Episode 3 - Cannon Fodder",
     "title_spanish": "Memories. Episodio 3 - Carne de cañón",
     "year": 1995,
-    "genres": ["Animación", "Drama", "Ciencia ficción"],
+    "genres": [
+      "Animación",
+      "Drama",
+      "Ciencia ficción"
+    ],
     "director": "Katsuhiro Otomo",
     "status": "Disponible",
     "trailer": "op8am32MWBg",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Mete miedo",
     "title_spanish": "Mete miedo",
     "year": 2022,
-    "genres": ["Terror"],
+    "genres": [
+      "Terror"
+    ],
     "director": "Néstor Sánchez Sotelo",
     "status": "Disponible",
     "trailer": "e6MQu4UwDOA",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Minority Report",
     "title_spanish": "Sentencia previa",
     "year": 2002,
-    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspenso"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "jdl6eAIx2K4",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Morbius",
     "title_spanish": "Morbius",
     "year": 2022,
-    "genres": ["Acción", "Ciencia ficción", "Terror"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Terror"
+    ],
     "director": "Daniel Espinosa",
     "status": "Disponible",
     "trailer": "oZ6iiRrz1SY",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Mulan",
     "title_spanish": "Mulán",
     "year": 1998,
-    "genres": ["Animación", "Aventura", "Familia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
     "director": "Tony Bancroft, Barry Cook",
     "status": "Disponible",
     "trailer": "sRtZaSkBp58",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "My Spy",
     "title_spanish": "Mi espía",
     "year": 2020,
-    "genres": ["Acción", "Comedia", "Familia"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Familia"
+    ],
     "director": "Peter Segal",
     "status": "Disponible",
     "trailer": "pfAhQSz-j_o",
     "poster": "xw6JZf8nq3l.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "A Star Is Born",
     "title_spanish": "Nace una estrella",
     "year": 2018,
-    "genres": ["Drama", "Música", "Romance"],
+    "genres": [
+      "Drama",
+      "Música",
+      "Romance"
+    ],
     "director": "Bradley Cooper",
     "status": "Disponible",
     "trailer": "nSbzyEJ8X9E",
     "poster": "a3d1b2c3d4e5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Nadie sabe que estoy aquí",
     "title_spanish": "Nadie sabe que estoy aquí",
     "year": 2020,
-    "genres": ["Drama", "Música"],
+    "genres": [
+      "Drama",
+      "Música"
+    ],
     "director": "Gaspar Antillo",
     "status": "Disponible",
     "trailer": "RByl3fv4Ztw",
     "poster": "b4c5d6e7f8g9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Ninja Scroll",
     "title_spanish": "Ninja Scroll",
     "year": 1993,
-    "genres": ["Animación", "Acción", "Fantasía"],
+    "genres": [
+      "Animación",
+      "Acción",
+      "Fantasía"
+    ],
     "director": "Yoshiaki Kawajiri",
     "status": "Disponible",
     "trailer": "fwc7wNCvDs4",
     "poster": "c5d6e7f8g9h0.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Nobody",
     "title_spanish": "Nadie",
     "year": 2021,
-    "genres": ["Acción", "Crimen", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
     "director": "Ilya Naishuller",
     "status": "Disponible",
     "trailer": "wZti8QKBWPo",
     "poster": "d6e7f8g9h0i1.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Non-Stop",
     "title_spanish": "Sin escalas",
     "year": 2014,
-    "genres": ["Acción", "Misterio", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Suspenso"
+    ],
     "director": "Jaume Collet-Serra",
     "status": "Disponible",
     "trailer": "nODrjQUR5YU",
     "poster": "e7f8g9h0i1j2.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "On the Line",
     "title_spanish": "En la línea",
     "year": 2022,
-    "genres": ["Suspenso"],
+    "genres": [
+      "Suspenso"
+    ],
     "director": "Romuald Boulanger",
     "status": "Disponible",
     "trailer": "lCVscDXv5sA",
     "poster": "f8g9h0i1j2k3.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Orphan: First Kill",
     "title_spanish": "La huérfana: Primer asesinato",
     "year": 2022,
-    "genres": ["Terror", "Suspenso"],
+    "genres": [
+      "Terror",
+      "Suspenso"
+    ],
     "director": "William Brent Bell",
     "status": "Disponible",
     "trailer": "_uX6of3vBu0",
     "poster": "g9h0i1j2k3l4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Outside the Wire",
     "title_spanish": "Zona de riesgo",
     "year": 2021,
-    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspenso"
+    ],
     "director": "Mikael Håfström",
     "status": "Disponible",
     "trailer": "u8ZsUivELbs",
     "poster": "h0i1j2k3l4m5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Overboard",
     "title_spanish": "Hombre al agua",
     "year": 2018,
-    "genres": ["Comedia", "Romance"],
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
     "director": "Rob Greenberg",
     "status": "Disponible",
     "trailer": "RoJ9RCMy1tg",
     "poster": "i1j2k3l4m5n6.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Mrs. Doubtfire",
     "title_spanish": "Papá por siempre",
     "year": 1993,
-    "genres": ["Comedia", "Drama", "Familia"],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
     "director": "Chris Columbus",
     "status": "Disponible",
     "trailer": "RzZsdL-EGwg",
     "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Parasite",
     "title_spanish": "Parásitos",
     "year": 2019,
-    "genres": ["Drama", "Suspenso"],
+    "genres": [
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Bong Joon-ho",
     "status": "Disponible",
     "trailer": "SEUXfv87Wpk",
     "poster": "7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Paul",
     "title_spanish": "Paul",
     "year": 2011,
-    "genres": ["Comedia", "Ciencia ficción"],
+    "genres": [
+      "Comedia",
+      "Ciencia ficción"
+    ],
     "director": "Greg Mottola",
     "status": "Disponible",
     "trailer": "tjqgkqk4_0E",
     "poster": "hS3hGg9x3z1G3G1gG9gH4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Pearl",
     "title_spanish": "Pearl",
     "year": 2022,
-    "genres": ["Terror"],
+    "genres": [
+      "Terror"
+    ],
     "director": "Ti West",
     "status": "Disponible",
     "trailer": "XW2E2Fnh52w",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Peninsula",
     "title_spanish": "Península",
     "year": 2020,
-    "genres": ["Acción", "Terror", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Terror",
+      "Suspenso"
+    ],
     "director": "Yeon Sang-ho",
     "status": "Disponible",
     "trailer": "n9xhJrPXop4",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Perfume: The Story of a Murderer",
     "title_spanish": "El perfume: Historia de un asesino",
     "year": 2006,
-    "genres": ["Drama", "Crimen", "Fantasía"],
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Fantasía"
+    ],
     "director": "Tom Tykwer",
     "status": "Disponible",
     "trailer": "Z7I6lKzI2zE",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Peter Pan",
     "title_spanish": "Peter Pan",
     "year": 1953,
-    "genres": ["Animación", "Aventura", "Fantasía"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
     "status": "Disponible",
     "trailer": "Jb3zB6Kj4xE",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Land Before Time",
     "title_spanish": "Pie Pequeño: En busca del valle encantado",
     "year": 1988,
-    "genres": ["Animación", "Aventura", "Familia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
     "director": "Don Bluth",
     "status": "Disponible",
     "trailer": "tQ3iJjzZ2zY",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
     "title_spanish": "Piratas del Caribe: En el fin del mundo",
     "year": 2007,
-    "genres": ["Aventura", "Fantasía", "Acción"],
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
     "director": "Gore Verbinski",
     "status": "Disponible",
     "trailer": "HKSZtp_OGHY",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
     "title_spanish": "Piratas del Caribe: El cofre de la muerte",
     "year": 2006,
-    "genres": ["Aventura", "Fantasía", "Acción"],
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ],
     "director": "Gore Verbinski",
     "status": "Disponible",
     "trailer": "ozk0-RHXtFw",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "title_spanish": "Piratas del Caribe: La venganza de Salazar",
     "year": 2017,
-    "genres": ["Acción", "Aventura", "Fantasía"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "Joachim Rønning, Espen Sandberg",
     "status": "Disponible",
     "trailer": "Hgeu5rhoxxY",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
     "title_spanish": "Piratas del Caribe: Navegando aguas misteriosas",
     "year": 2011,
-    "genres": ["Acción", "Aventura", "Fantasía"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "Rob Marshall",
     "status": "Disponible",
     "trailer": "0BXCVe8Yww4",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Ponyo",
     "title_spanish": "Ponyo en el acantilado",
     "year": 2008,
-    "genres": ["Animación", "Fantasía", "Familia"],
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Familia"
+    ],
     "director": "Hayao Miyazaki",
     "status": "Disponible",
     "trailer": "pfGDfDjAdSE",
     "poster": "x8z8Gg9x3z1.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Problem Child",
     "title_spanish": "Mi pobre diablillo",
     "year": 1990,
-    "genres": ["Comedia", "Familia"],
+    "genres": [
+      "Comedia",
+      "Familia"
+    ],
     "director": "Dennis Dugan",
     "status": "Disponible",
     "trailer": "Yu9mz6230zw",
     "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Problem Child 2",
     "title_spanish": "Mi pobre diablillo 2",
     "year": 1991,
-    "genres": ["Comedia", "Familia"],
+    "genres": [
+      "Comedia",
+      "Familia"
+    ],
     "director": "Brian Levant",
     "status": "Disponible",
     "trailer": "Qmvf4Jr0AEg",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Problem Child 3: Junior in Love",
     "title_spanish": "Mi pobre diablillo 3: Junior se enamora",
     "year": 1995,
-    "genres": ["Comedia", "Familia"],
+    "genres": [
+      "Comedia",
+      "Familia"
+    ],
     "director": "Greg Beeman",
     "status": "Disponible",
     "trailer": "t4rQ-OqOdk8",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Project X",
     "title_spanish": "Proyecto X",
     "year": 2012,
-    "genres": ["Comedia"],
+    "genres": [
+      "Comedia"
+    ],
     "director": "Nima Nourizadeh",
     "status": "Disponible",
     "trailer": "HmrhuboNMtg",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Proximity",
     "title_spanish": "Proximidad",
     "year": 2020,
-    "genres": ["Ciencia ficción", "Drama"],
+    "genres": [
+      "Ciencia ficción",
+      "Drama"
+    ],
     "director": "Eric Demeusy",
     "status": "Disponible",
     "trailer": "JWAGXeYTZU8",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Pulp Fiction",
     "title_spanish": "Tiempos violentos",
     "year": 1994,
-    "genres": ["Crimen", "Drama"],
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "s7EdQ4FqbhY",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Puss in Boots: The Last Wish",
     "title_spanish": "El gato con botas: El último deseo",
     "year": 2022,
-    "genres": ["Animación", "Aventura", "Comedia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Joel Crawford",
     "status": "Disponible",
     "trailer": "xgZLXyqbYOc",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "R.I.P.D.",
     "title_spanish": "R.I.P.D. Departamento de Policía Mortal",
     "year": 2013,
-    "genres": ["Acción", "Comedia", "Crimen"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
     "director": "Robert Schwentke",
     "status": "Disponible",
     "trailer": "ZCv1QzWZz2c",
     "poster": "x8z8Gg9x3z1.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "R.I.P.D. 2: Rise of the Damned",
     "title_spanish": "R.I.P.D. 2: La Resurrección de los Condenados",
     "year": 2022,
-    "genres": ["Acción", "Comedia", "Fantasía"],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Fantasía"
+    ],
     "director": "Paul Leyden",
     "status": "Disponible",
     "trailer": "5x8-DP3BqTQ",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Rambo: First Blood Part II",
     "title_spanish": "Rambo: Acorralado Parte II",
     "year": 1985,
-    "genres": ["Acción", "Guerra", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Guerra",
+      "Suspenso"
+    ],
     "director": "George P. Cosmatos",
     "status": "Disponible",
     "trailer": "jtPNhGWxY4g",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Rammstein: Paris",
     "title_spanish": "Rammstein: París",
     "year": 2017,
-    "genres": ["Música", "Concierto"],
+    "genres": [
+      "Música",
+      "Concierto"
+    ],
     "director": "Jonas Åkerlund",
     "status": "Disponible",
     "trailer": "OZURbrnDFQg",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Sleepy Hollow",
     "title_spanish": "La leyenda del jinete sin cabeza",
     "year": 1999,
-    "genres": ["Terror", "Misterio", "Fantasía"],
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Fantasía"
+    ],
     "director": "Tim Burton",
     "status": "Disponible",
     "trailer": "6RsKwn_Je1k",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Smile",
     "title_spanish": "Sonríe",
     "year": 2022,
-    "genres": ["Terror", "Misterio", "Suspenso"],
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
     "director": "Parker Finn",
     "status": "Disponible",
     "trailer": "BcDK7lkzzsU",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Solo: A Star Wars Story",
     "title_spanish": "Han Solo: Una historia de Star Wars",
     "year": 2018,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "jPEYpryMp2s",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Sonic the Hedgehog",
     "title_spanish": "Sonic: La película",
     "year": 2020,
-    "genres": ["Acción", "Aventura", "Comedia"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Jeff Fowler",
     "status": "Disponible",
     "trailer": "szby7ZHLnkA",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Sonic the Hedgehog 2",
     "title_spanish": "Sonic 2: La película",
     "year": 2022,
-    "genres": ["Acción", "Aventura", "Comedia"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Jeff Fowler",
     "status": "Disponible",
     "trailer": "G5kzUpWAusI",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Soul",
     "title_spanish": "Soul",
     "year": 2020,
-    "genres": ["Animación", "Aventura", "Comedia"],
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Pete Docter, Kemp Powers",
     "status": "Disponible",
     "trailer": "xOsLIiBStEs",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Space Jam: A New Legacy",
     "title_spanish": "Space Jam: Una nueva era",
     "year": 2021,
-    "genres": ["Animación", "Comedia", "Familia"],
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
     "director": "Malcolm D. Lee",
     "status": "Disponible",
     "trailer": "0H8Fv6I2oD8",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Space Sweepers",
     "title_spanish": "Barrenderos espaciales",
     "year": 2021,
-    "genres": ["Ciencia ficción", "Acción", "Aventura"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
     "director": "Jo Sung-hee",
     "status": "Disponible",
     "trailer": "t9gg9V3gF4M",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spectre",
     "title_spanish": "Spectre",
     "year": 2015,
-    "genres": ["Acción", "Aventura", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspenso"
+    ],
     "director": "Sam Mendes",
     "status": "Disponible",
     "trailer": "LTDaET-JweU",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spencer",
     "title_spanish": "Spencer",
     "year": 2021,
-    "genres": ["Drama", "Biografía"],
+    "genres": [
+      "Drama",
+      "Biografía"
+    ],
     "director": "Pablo Larraín",
     "status": "Disponible",
     "trailer": "20BIS1iA3bY",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spirited",
     "title_spanish": "El espíritu de las fiestas",
     "year": 2022,
-    "genres": ["Comedia", "Musical", "Fantasía"],
+    "genres": [
+      "Comedia",
+      "Musical",
+      "Fantasía"
+    ],
     "director": "Sean Anders",
     "status": "Disponible",
     "trailer": "tnAJntI3NNs",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Split",
     "title_spanish": "Fragmentado",
     "year": 2016,
-    "genres": ["Terror", "Suspenso"],
+    "genres": [
+      "Terror",
+      "Suspenso"
+    ],
     "director": "M. Night Shyamalan",
     "status": "Disponible",
     "trailer": "84TouqfIsiI",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Sputnik",
     "title_spanish": "Sputnik: Extraño pasajero",
     "year": 2020,
-    "genres": ["Ciencia ficción", "Terror", "Suspenso"],
+    "genres": [
+      "Ciencia ficción",
+      "Terror",
+      "Suspenso"
+    ],
     "director": "Egor Abramenko",
     "status": "Disponible",
     "trailer": "QqkZ1iQm4x4",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Take Shelter",
     "title_spanish": "Refugio del miedo",
     "year": 2011,
-    "genres": ["Drama", "Suspenso"],
+    "genres": [
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Jeff Nichols",
     "status": "Disponible",
     "trailer": "I5U4TtYpKIc",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Total Recall",
     "title_spanish": "El vengador del futuro",
     "year": 1990,
-    "genres": ["Ciencia ficción", "Acción"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción"
+    ],
     "director": "Paul Verhoeven",
     "status": "Disponible",
     "trailer": "WFMLGEHdIjE",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Fourth Kind",
     "title_spanish": "El cuarto tipo",
     "year": 2009,
-    "genres": ["Terror", "Misterio", "Ciencia ficción"],
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Ciencia ficción"
+    ],
     "director": "Olatunde Osunsanmi",
     "status": "Disponible",
     "trailer": "tYlDltz8Yos",
     "poster": "hXgk4z8k11.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "The Fifth Element",
     "title_spanish": "El quinto elemento",
     "year": 1997,
-    "genres": ["Ciencia ficción", "Acción", "Aventura"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
     "director": "Luc Besson",
     "status": "Disponible",
     "trailer": "fQ9RqgcR24g",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Expend4bles",
     "title_spanish": "Los indestructibles 4",
     "year": 2023,
-    "genres": ["Acción", "Aventura", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspenso"
+    ],
     "director": "Scott Waugh",
     "status": "Disponible",
     "trailer": "r9rjhB7KWEc",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Haunted Mansion",
     "title_spanish": "Mansión embrujada",
     "year": 2023,
-    "genres": ["Comedia", "Familia", "Fantasía"],
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
     "director": "Justin Simien",
     "status": "Disponible",
     "trailer": "w5B3mtvIDdY",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Indiana Jones and the Dial of Destiny",
     "title_spanish": "Indiana Jones y el dial del destino",
     "year": 2023,
-    "genres": ["Acción", "Aventura"],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
     "director": "James Mangold",
     "status": "Disponible",
     "trailer": "eQfMbSe7F2g",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Inferno",
     "title_spanish": "Inferno",
     "year": 2016,
-    "genres": ["Misterio", "Suspenso"],
+    "genres": [
+      "Misterio",
+      "Suspenso"
+    ],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "uyuN1o6gcyw",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Interstellar",
     "title_spanish": "Interestelar",
     "year": 2014,
-    "genres": ["Aventura", "Drama", "Ciencia ficción"],
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Ciencia ficción"
+    ],
     "director": "Christopher Nolan",
     "status": "Disponible",
     "trailer": "zSWdZVtXT7E",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "No Hard Feelings",
     "title_spanish": "Sin malos rollos",
     "year": 2023,
-    "genres": ["Comedia", "Romance"],
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
     "director": "Gene Stupnitsky",
     "status": "Disponible",
     "trailer": "pzvQAg9FkX8",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Oppenheimer",
     "title_spanish": "Oppenheimer",
     "year": 2023,
-    "genres": ["Drama", "Historia"],
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
     "director": "Christopher Nolan",
     "status": "Disponible",
     "trailer": "uYPbbksJxIg",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Predator",
     "title_spanish": "Depredador",
     "year": 1987,
-    "genres": ["Ciencia ficción", "Acción", "Suspenso"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Suspenso"
+    ],
     "director": "John McTiernan",
     "status": "Disponible",
     "trailer": "X2hBYGwKh3I",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Predator 2",
     "title_spanish": "Depredador 2",
     "year": 1990,
-    "genres": ["Ciencia ficción", "Acción", "Suspenso"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Suspenso"
+    ],
     "director": "Stephen Hopkins",
     "status": "Disponible",
     "trailer": "pLe_1SheJms",
     "poster": "hXgk4z8k11.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Predators",
     "title_spanish": "Depredadores",
     "year": 2010,
-    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspenso"
+    ],
     "director": "Nimród Antal",
     "status": "Disponible",
     "trailer": "9u8vZwvP57Y",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Prey",
     "title_spanish": "Depredador: La presa",
     "year": 2022,
-    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspenso"
+    ],
     "director": "Dan Trachtenberg",
     "status": "Disponible",
     "trailer": "wZ7LytagKlc",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Sound of Freedom",
     "title_spanish": "Sonido de libertad",
     "year": 2023,
-    "genres": ["Drama", "Suspenso"],
+    "genres": [
+      "Drama",
+      "Suspenso"
+    ],
     "director": "Alejandro Monteverde",
     "status": "Disponible",
     "trailer": "Rt0kp4VW1cI",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Creator",
     "title_spanish": "El creador",
     "year": 2023,
-    "genres": ["Ciencia ficción", "Acción", "Drama"],
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Drama"
+    ],
     "director": "Gareth Edwards",
     "status": "Disponible",
     "trailer": "ex3C1-5Dhb8",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Equalizer 3",
     "title_spanish": "El justiciero 3",
     "year": 2023,
-    "genres": ["Acción", "Crimen", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspenso"
+    ],
     "director": "Antoine Fuqua",
     "status": "Disponible",
     "trailer": "19ikl8vy4zs",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Predator",
     "title_spanish": "El depredador",
     "year": 2018,
-    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspenso"
+    ],
     "director": "Shane Black",
     "status": "Disponible",
     "trailer": "WaG1KZqrLvM",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Avatar: The Way of Water",
     "title_spanish": "Avatar: El camino del agua",
     "year": 2022,
-    "genres": ["Ciencia ficción", "Aventura", "Acción"],
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
     "director": "James Cameron",
     "status": "Disponible",
     "trailer": "d9MyW72ELq0",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Conan the Barbarian",
     "title_spanish": "Conan el bárbaro",
     "year": 2011,
-    "genres": ["Acción", "Aventura", "Fantasía"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
     "director": "Marcus Nispel",
     "status": "Disponible",
     "trailer": "s0wTdCQoc2k",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Indiana Jones and the Last Crusade",
     "title_spanish": "Indiana Jones y la última cruzada",
     "year": 1989,
-    "genres": ["Aventura", "Acción"],
+    "genres": [
+      "Aventura",
+      "Acción"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "sagmdpkWUqc",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Indiana Jones and the Temple of Doom",
     "title_spanish": "Indiana Jones y el templo de la perdición",
     "year": 1984,
-    "genres": ["Aventura", "Acción"],
+    "genres": [
+      "Aventura",
+      "Acción"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "yI3v6KfR9Mw",
     "poster": "hXgk4z8k11.jpg",
-    "resolution": "1080p"
-  }, {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "John Wick: Chapter 3 - Parabellum",
     "title_spanish": "John Wick 3: Parabellum",
     "year": 2019,
-    "genres": ["Acción", "Suspenso", "Crimen"],
+    "genres": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
     "director": "Chad Stahelski",
     "status": "Disponible",
     "trailer": "M7XM597XO94",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "John Wick: Chapter 4",
     "title_spanish": "John Wick 4",
     "year": 2023,
-    "genres": ["Acción", "Suspenso", "Crimen"],
+    "genres": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
     "director": "Chad Stahelski",
     "status": "Disponible",
     "trailer": "qEVUtrk8_B4",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Jurassic World: Fallen Kingdom",
     "title_spanish": "Jurassic World: El reino caído",
     "year": 2018,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "J. A. Bayona",
     "status": "Disponible",
     "trailer": "vn9mMeWcgoM",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Jurassic World",
     "title_spanish": "Jurassic World",
     "year": 2015,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Colin Trevorrow",
     "status": "Disponible",
     "trailer": "RFinNxS5KN4",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Requiem for a Dream",
     "title_spanish": "Réquiem por un sueño",
     "year": 2000,
-    "genres": ["Drama", "Psicológico"],
+    "genres": [
+      "Drama",
+      "Psicológico"
+    ],
     "director": "Darren Aronofsky",
     "status": "Disponible",
     "trailer": "0nU7dC9b9gs",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
     "title_spanish": "Spider-Man: A través del Spider-Verso",
     "year": 2023,
-    "genres": ["Animación", "Acción", "Aventura"],
+    "genres": [
+      "Animación",
+      "Acción",
+      "Aventura"
+    ],
     "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
     "status": "Disponible",
     "trailer": "shW9i6k8cB0",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spider-Man: Far from Home",
     "title_spanish": "Spider-Man: Lejos de casa",
     "year": 2019,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Jon Watts",
     "status": "Disponible",
     "trailer": "Nt9L1jCKGnE",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spider-Man: Homecoming",
     "title_spanish": "Spider-Man: De regreso a casa",
     "year": 2017,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Jon Watts",
     "status": "Disponible",
     "trailer": "U0D3AOldjMU",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spider-Man: No Way Home",
     "title_spanish": "Spider-Man: Sin camino a casa",
     "year": 2021,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Jon Watts",
     "status": "Disponible",
     "trailer": "JfVOs4VSpmA",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spider-Man",
     "title_spanish": "Spider-Man",
     "year": 2002,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Sam Raimi",
     "status": "Disponible",
     "trailer": "O7zvehDxttM",
     "poster": "hXgk4z8k11.jpg",
-    "resolution": "1080p"
-  },  {
+    "resolution": "1080p",
+    "rating_imdb": 10
+  },
+  {
     "title": "Spider-Man 2",
     "title_spanish": "Spider-Man 2",
     "year": 2004,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Sam Raimi",
     "status": "Disponible",
     "trailer": "1s9Yln0YwCw",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Spider-Man 3",
     "title_spanish": "Spider-Man 3",
     "year": 2007,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Sam Raimi",
     "status": "Disponible",
     "trailer": "MK6X9zj5Guw",
     "poster": "8L0j3Yl0q1k.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
     "title_spanish": "Tortugas Ninja 2: Fuera de las sombras",
     "year": 2016,
-    "genres": ["Acción", "Aventura", "Comedia"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Dave Green",
     "status": "Disponible",
     "trailer": "HeaugHGd1Kw",
     "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Teenage Mutant Ninja Turtles",
     "title_spanish": "Tortugas Ninja",
     "year": 2014,
-    "genres": ["Acción", "Aventura", "Comedia"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia"
+    ],
     "director": "Jonathan Liebesman",
     "status": "Disponible",
     "trailer": "dwXFsrp6WBs",
     "poster": "bXgk4z8k5.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Godfather: Part II",
     "title_spanish": "El Padrino: Parte II",
     "year": 1974,
-    "genres": ["Crimen", "Drama"],
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
     "director": "Francis Ford Coppola",
     "status": "Disponible",
     "trailer": "qJr92K_hKl0",
     "poster": "cXgk4z8k6.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Godfather: Part III",
     "title_spanish": "El Padrino: Parte III",
     "year": 1990,
-    "genres": ["Crimen", "Drama"],
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
     "director": "Francis Ford Coppola",
     "status": "Disponible",
     "trailer": "z6D3F9jZbN0",
     "poster": "dXgk4z8k7.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Godfather",
     "title_spanish": "El Padrino",
     "year": 1972,
-    "genres": ["Crimen", "Drama"],
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
     "director": "Francis Ford Coppola",
     "status": "Disponible",
     "trailer": "sY1S34973zA",
     "poster": "eXgk4z8k8.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "The Lost World: Jurassic Park",
     "title_spanish": "El mundo perdido: Parque Jurásico",
     "year": 1997,
-    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "RXsH9Yb7Yz4",
     "poster": "fXgk4z8k9.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   },
   {
     "title": "Top Gun: Maverick",
     "title_spanish": "Top Gun: Maverick",
     "year": 2022,
-    "genres": ["Acción", "Drama"],
+    "genres": [
+      "Acción",
+      "Drama"
+    ],
     "director": "Joseph Kosinski",
     "status": "Disponible",
     "trailer": "giXco2jaZ_4",
     "poster": "gXgk4z8k10.jpg",
-    "resolution": "1080p"
+    "resolution": "1080p",
+    "rating_imdb": 10
   }
 ]
