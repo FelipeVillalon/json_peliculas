@@ -327,5 +327,114 @@
     "trailer": "YqNYrYUiMfg",
     "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "65",
+    "title_spanish": "65",
+    "year": 2023,
+    "genres": ["Ciencia ficción", "Acción"],
+    "director": "Scott Beck, Bryan Woods",
+    "status": "Available",
+    "trailer": "bHXejJq5vr0",
+    "poster": "cvoniMnmPcE.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "title_spanish": "Una mente brillante",
+    "year": 2001,
+    "genres": ["Drama", "Biografía"],
+    "director": "Ron Howard",
+    "status": "Available",
+    "trailer": "EajIlG_OCvw",
+    "poster": "YWwAOutgWBQ.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "A Haunted House",
+    "title_spanish": "Una casa embrujada",
+    "year": 2013,
+    "genres": ["Comedia", "Terror"],
+    "director": "Michael Tiddes",
+    "status": "Available",
+    "trailer": "daCqXHagaPY",
+    "poster": "QI3n43a30Wc.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "A Quiet Place Part II",
+    "title_spanish": "Un lugar en silencio: Parte II",
+    "year": 2020,
+    "genres": ["Terror", "Ciencia ficción"],
+    "director": "John Krasinski",
+    "status": "Available",
+    "trailer": "BpdDN9d9Jio",
+    "poster": "Id00Eq1j8M4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "A Writer's Odyssey",
+    "title_spanish": "La odisea de un escritor",
+    "year": 2021,
+    "genres": ["Fantasía", "Acción"],
+    "director": "Lu Yang",
+    "status": "Available",
+    "trailer": "7Khk9dSEZnA",
+    "poster": "uxwLGd_aE5U.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Air",
+    "title_spanish": "Air: La historia detrás del logo",
+    "year": 2023,
+    "genres": ["Drama", "Biografía"],
+    "director": "Ben Affleck",
+    "status": "Available",
+    "trailer": "Euy4Yu6B3nU",
+    "poster": "kgnqxQizrW8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Aladdin",
+    "title_spanish": "Aladdín",
+    "year": 2019,
+    "genres": ["Aventura", "Fantasía", "Familia"],
+    "director": "Guy Ritchie",
+    "status": "Available",
+    "trailer": "JcMtWwiyzpU",
+    "poster": "foyufD52aog.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Along with the Gods - The Last 49 Days",
+    "title_spanish": "Junto con los dioses: Los últimos 49 días",
+    "year": 2018,
+    "genres": ["Fantasía", "Drama"],
+    "director": "Kim Yong-hwa",
+    "status": "Available",
+    "trailer": "IfzZYija-wM",
+    "poster": "IxAXrPf57ZU.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Along with the Gods - The Two Worlds",
+    "title_spanish": "Junto con los dioses: Los dos mundos",
+    "year": 2017,
+    "genres": ["Fantasía", "Drama"],
+    "director": "Kim Yong-hwa",
+    "status": "Available",
+    "trailer": "sD7dmu-IWNw",
+    "poster": "Y3xcJor-hyQ.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "American Psycho",
+    "title_spanish": "Psicópata americano",
+    "year": 2000,
+    "genres": ["Crimen", "Drama", "Terror"],
+    "director": "Mary Harron",
+    "status": "Available",
+    "trailer": "81mibtQWWBg",
+    "poster": "9947ykh7axA.jpg",
+    "resolution": "1080p"
   }
 ]
