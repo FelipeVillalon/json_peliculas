@@ -608,133 +608,133 @@
     "tmdb_id": 484641,
     "language": ["eng", "lat"]
   },
-  {
+{
     "title": "Ant-Man",
     "title_spanish": "Ant-Man: El Hombre Hormiga",
     "year": 2015,
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Comedia"
-    ],
+    "genres": ["Acción", "Ciencia ficción", "Comedia"],
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "QfOZWGLT1JM",
     "poster": "D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "release_date": "2015-07-17",
+    "imdb_id": "tt0478970",
+    "tmdb_id": 102899,
+    "language": ["eng", "lat"]
   },
   {
-    "title": "Ant-Man and the Wasp - Quantumania",
+    "title": "Ant-Man and the Wasp: Quantumania",
     "title_spanish": "Ant-Man y la Avispa: Quantumanía",
     "year": 2023,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "ZlNFpri-Y40",
     "poster": "qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "release_date": "2023-02-17",
+    "imdb_id": "tt10954600",
+    "tmdb_id": 102899,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Ant-Man and the Wasp",
     "title_spanish": "Ant-Man y la Avispa",
     "year": 2018,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "8_rTIAOohas",
     "poster": "rv1AWImgx386ULjcf62VYaW8zSt.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.0,
+    "release_date": "2018-07-06",
+    "imdb_id": "tt5095030",
+    "tmdb_id": 363088,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Aquaman",
     "title_spanish": "Aquaman",
     "year": 2018,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": ["Acción", "Aventura", "Fantasía"],
     "director": "James Wan",
     "status": "Disponible",
     "trailer": "WDkg3h8PCVU",
     "poster": "xLPffWMhMj1l50ND3KchMjYoKmE.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "release_date": "2018-12-21",
+    "imdb_id": "tt1477834",
+    "tmdb_id": 297802,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Armageddon",
     "title_spanish": "Armageddon",
     "year": 1998,
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Drama"
-    ],
+    "genres": ["Acción", "Ciencia ficción", "Drama"],
     "director": "Michael Bay",
     "status": "Disponible",
     "trailer": "8-8eEniEfgU",
     "poster": "eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.7,
+    "release_date": "1998-07-01",
+    "imdb_id": "tt0120591",
+    "tmdb_id": 95,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Arrival",
     "title_spanish": "La llegada",
     "year": 2016,
-    "genres": [
-      "Drama",
-      "Ciencia ficción",
-      "Misterio"
-    ],
+    "genres": ["Drama", "Ciencia ficción", "Misterio"],
     "director": "Denis Villeneuve",
     "status": "Disponible",
     "trailer": "tFMo3UJ4B4g",
     "poster": "x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.9,
+    "release_date": "2016-11-11",
+    "imdb_id": "tt2543164",
+    "tmdb_id": 329865,
+    "language": ["eng", "lat"]
   },
   {
     "title": "As Good as It Gets",
     "title_spanish": "Mejor... imposible",
     "year": 1997,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedia", "Drama", "Romance"],
     "director": "James L. Brooks",
     "status": "Disponible",
     "trailer": "t2d89afgtqg",
     "poster": "r8NQdVdFvYzBjR6t1Z7fL4f6kJ.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.7,
+    "release_date": "1997-12-19",
+    "imdb_id": "tt0119822",
+    "tmdb_id": 2898,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Attraction",
     "title_spanish": "Attraction",
     "year": 2017,
-    "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Ciencia ficción", "Drama", "Romance"],
     "director": "Fedor Bondarchuk",
     "status": "Disponible",
     "trailer": "lElqBmOEfPQ",
     "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 5.3,
+    "release_date": "2017-01-26",
+    "imdb_id": "tt4731148",
+    "tmdb_id": 401513,
+    "language": ["rus", "lat"]
   },
   {
     "title": "Avengers - Age of Ultron",
