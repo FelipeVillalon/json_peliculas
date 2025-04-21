@@ -874,5 +874,114 @@
     "trailer": "lI03GlboYu4",
     "poster": "A3DqTg6i.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Cloud Atlas",
+    "title_spanish": "Cloud Atlas: La red invisible",
+    "year": 2012,
+    "genres": ["Ciencia ficción", "Drama"],
+    "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
+    "status": "Available",
+    "trailer": "ByehYal_cCs",
+    "poster": "hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Cloverfield",
+    "title_spanish": "Cloverfield: Monstruo",
+    "year": 2008,
+    "genres": ["Ciencia ficción", "Terror"],
+    "director": "Matt Reeves",
+    "status": "Available",
+    "trailer": "_afPFLvh2qg",
+    "poster": "hOq0jD8q0zH2U6y1ZzWv2k1xL.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Creed III",
+    "title_spanish": "Creed III",
+    "year": 2023,
+    "genres": ["Drama", "Deportes"],
+    "director": "Michael B. Jordan",
+    "status": "Available",
+    "trailer": "AHmCH7iB_IM",
+    "poster": "cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Cruel Intentions",
+    "title_spanish": "Juegos sexuales",
+    "year": 1999,
+    "genres": ["Drama", "Romance"],
+    "director": "Roger Kumble",
+    "status": "Available",
+    "trailer": "SCFR2vpMIQU",
+    "poster": "g1pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Cube",
+    "title_spanish": "Cube",
+    "year": 1997,
+    "genres": ["Ciencia ficción", "Terror"],
+    "director": "Vincenzo Natali",
+    "status": "Available",
+    "trailer": "Esjc0rPj3K4",
+    "poster": "h2pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Dark City",
+    "title_spanish": "Dark City",
+    "year": 1998,
+    "genres": ["Ciencia ficción", "Misterio"],
+    "director": "Alex Proyas",
+    "status": "Available",
+    "trailer": "gt9HkO-cGGo",
+    "poster": "h3pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "DC League of Super-Pets",
+    "title_spanish": "DC Liga de Súper-Mascotas",
+    "year": 2022,
+    "genres": ["Animación", "Aventura", "Comedia"],
+    "director": "Jared Stern, Sam J. Levine",
+    "status": "Available",
+    "trailer": "1jkw2JPCl18",
+    "poster": "r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Death Race",
+    "title_spanish": "La carrera de la muerte",
+    "year": 2008,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Paul W.S. Anderson",
+    "status": "Available",
+    "trailer": "C8bxcJZrus0",
+    "poster": "h4pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Despicable Me 2",
+    "title_spanish": "Mi villano favorito 2",
+    "year": 2013,
+    "genres": ["Animación", "Comedia", "Familia"],
+    "director": "Pierre Coffin, Chris Renaud",
+    "status": "Available",
+    "trailer": "yM9sKpQOuEw",
+    "poster": "h5pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Die Hard - With a Vengeance",
+    "title_spanish": "Duro de matar: La venganza",
+    "year": 1995,
+    "genres": ["Acción", "Suspenso"],
+    "director": "John McTiernan",
+    "status": "Available",
+    "trailer": "QKxQ5SBzLWA",
+    "poster": "h6pI4w4q2E51.jpg",
+    "resolution": "1080p"
   }
 ]
