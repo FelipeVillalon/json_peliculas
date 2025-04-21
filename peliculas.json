@@ -321,166 +321,155 @@
     "title": "X-Men",
     "title_spanish": "X-Men",
     "year": 2000,
-    "genres": [
-      "Acción",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Ciencia ficción"],
     "director": "Bryan Singer",
     "status": "Disponible",
     "trailer": "VNxwlx6etXI",
-    "poster": "vYkA5wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "poster": "36657.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "id_imdb": "tt0120903",
+    "id_tmdb": "36657"
   },
   {
-    "title": "Angels And Demons",
+    "title": "Angels & Demons",
     "title_spanish": "Ángeles y demonios",
     "year": 2009,
-    "genres": [
-      "Misterio",
-      "Suspenso"
-    ],
+    "genres": ["Misterio", "Suspenso"],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "p4WUkn8fsCc",
-    "poster": "wZkA6wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "poster": "13448.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.7,
+    "id_imdb": "tt0808151",
+    "id_tmdb": "13448"
   },
   {
-    "title": "El Codigo Da Vinci",
+    "title": "The Da Vinci Code",
     "title_spanish": "El código Da Vinci",
     "year": 2006,
-    "genres": [
-      "Misterio",
-      "Suspenso"
-    ],
+    "genres": ["Misterio", "Suspenso"],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "lfqHb6INj3w",
-    "poster": "xYkA7wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "poster": "591.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "id_imdb": "tt0382625",
+    "id_tmdb": "591"
   },
   {
     "title": "17 Again",
     "title_spanish": "17 otra vez",
     "year": 2009,
-    "genres": [
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": ["Comedia", "Fantasía"],
     "director": "Burr Steers",
     "status": "Disponible",
     "trailer": "UQK5Hh0L1Sg",
-    "poster": "yZkA8wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "poster": "16996.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.4,
+    "id_imdb": "tt0974661",
+    "id_tmdb": "16996"
   },
   {
     "title": "1917",
     "title_spanish": "1917",
     "year": 2019,
-    "genres": [
-      "Drama",
-      "Bélica"
-    ],
+    "genres": ["Drama", "Bélica"],
     "director": "Sam Mendes",
     "status": "Disponible",
     "trailer": "YqNYrYUiMfg",
-    "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "poster": "530915.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.3,
+    "id_imdb": "tt8579674",
+    "id_tmdb": "530915"
   },
   {
     "title": "65",
     "title_spanish": "65",
     "year": 2023,
-    "genres": [
-      "Ciencia ficción",
-      "Acción"
-    ],
+    "genres": ["Ciencia ficción", "Acción"],
     "director": "Scott Beck, Bryan Woods",
     "status": "Disponible",
     "trailer": "bHXejJq5vr0",
-    "poster": "cvoniMnmPcE.jpg",
+    "poster": "700391.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 5.4,
+    "id_imdb": "tt12261776",
+    "id_tmdb": "700391"
   },
   {
     "title": "A Beautiful Mind",
     "title_spanish": "Una mente brillante",
     "year": 2001,
-    "genres": [
-      "Drama",
-      "Biografía"
-    ],
+    "genres": ["Drama", "Biografía"],
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "EajIlG_OCvw",
-    "poster": "YWwAOutgWBQ.jpg",
+    "poster": "453.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.2,
+    "id_imdb": "tt0268978",
+    "id_tmdb": "453"
   },
   {
     "title": "A Haunted House",
     "title_spanish": "Una casa embrujada",
     "year": 2013,
-    "genres": [
-      "Comedia",
-      "Terror"
-    ],
+    "genres": ["Comedia", "Terror"],
     "director": "Michael Tiddes",
     "status": "Disponible",
     "trailer": "daCqXHagaPY",
-    "poster": "QI3n43a30Wc.jpg",
+    "poster": "139038.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 5.1,
+    "id_imdb": "tt2243537",
+    "id_tmdb": "139038"
   },
   {
     "title": "A Quiet Place Part II",
     "title_spanish": "Un lugar en silencio: Parte II",
     "year": 2020,
-    "genres": [
-      "Terror",
-      "Ciencia ficción"
-    ],
+    "genres": ["Terror", "Ciencia ficción"],
     "director": "John Krasinski",
     "status": "Disponible",
     "trailer": "BpdDN9d9Jio",
-    "poster": "Id00Eq1j8M4.jpg",
+    "poster": "447332.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.2,
+    "id_imdb": "tt8332922",
+    "id_tmdb": "447332"
   },
   {
     "title": "A Writer's Odyssey",
     "title_spanish": "La odisea de un escritor",
     "year": 2021,
-    "genres": [
-      "Fantasía",
-      "Acción"
-    ],
+    "genres": ["Fantasía", "Acción"],
     "director": "Lu Yang",
     "status": "Disponible",
     "trailer": "7Khk9dSEZnA",
-    "poster": "uxwLGd_aE5U.jpg",
+    "poster": "630586.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.3,
+    "id_imdb": "tt9685344",
+    "id_tmdb": "630586"
   },
   {
     "title": "Air",
     "title_spanish": "Air: La historia detrás del logo",
     "year": 2023,
-    "genres": [
-      "Drama",
-      "Biografía"
-    ],
+    "genres": ["Drama", "Biografía"],
     "director": "Ben Affleck",
     "status": "Disponible",
     "trailer": "Euy4Yu6B3nU",
-    "poster": "kgnqxQizrW8.jpg",
+    "poster": "843846.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "id_imdb": "tt16419074",
+    "id_tmdb": "843846"
   },
   {
     "title": "Aladdin",
