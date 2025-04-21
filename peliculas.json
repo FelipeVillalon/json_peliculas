@@ -9,6 +9,7 @@
     "trailer": "oIBtePb-dGY",
     "poster": "uiiXHBd9oUrtUa4YqZiAoy05cRz.jpg",
     "resolution": "4k",
+    "language": ["en","lat"],
     "rating_imdb": 6.6
   },
   {
@@ -21,6 +22,8 @@
     "trailer": "uvbavW31adA",
     "poster": "ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
     "resolution": "4k",
+       "language": ["en","lat"],
+
     "rating_imdb": 8.5
   },
   {
@@ -33,6 +36,8 @@
     "trailer": "nMhfESAa4tw",
     "poster": "56As6XEM1flWvprX4LgkPl8ii4K.jpg",
     "resolution": "1080p",
+       "language": ["en","lat"],
+
     "rating_imdb": 6.2
   },
   {
@@ -45,6 +50,8 @@
     "trailer": "KnrRy6kSFF0",
     "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
     "resolution": "4k",
+       "language": ["en","lat"],
+
     "rating_imdb": 8.4
   },
   {
@@ -57,6 +64,8 @@
     "trailer": "QWBKEmWWL38",
     "poster": "maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
     "resolution": "4k",
+       "language": ["en","lat"],
+
     "rating_imdb": 8.2
   },
   {
