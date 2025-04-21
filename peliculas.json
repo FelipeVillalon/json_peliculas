@@ -765,5 +765,114 @@
     "trailer": "MHt5G2P7KM0",
     "poster": "i2pI4w4q2E51.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Boss Level",
+    "title_spanish": "Boss Level",
+    "year": 2021,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Joe Carnahan",
+    "status": "Available",
+    "trailer": "9mkiYwB5K3g",
+    "poster": "9dTO1tZ9rY.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Braveheart",
+    "title_spanish": "Corazón valiente",
+    "year": 1995,
+    "genres": ["Drama", "Historia", "Bélica"],
+    "director": "Mel Gibson",
+    "status": "Available",
+    "trailer": "1NJO0jxBtMo",
+    "poster": "or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "title_spanish": "El diario de Bridget Jones",
+    "year": 2001,
+    "genres": ["Comedia", "Romance"],
+    "director": "Sharon Maguire",
+    "status": "Available",
+    "trailer": "xjlKnDWZYzc",
+    "poster": "nQYcM3t5B2.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bullet Train",
+    "title_spanish": "Tren bala",
+    "year": 2022,
+    "genres": ["Acción", "Comedia", "Suspenso"],
+    "director": "David Leitch",
+    "status": "Available",
+    "trailer": "0IOsk2Vlc4o",
+    "poster": "tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Captain America - Civil War",
+    "title_spanish": "Capitán América: Civil War",
+    "year": 2016,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Anthony Russo, Joe Russo",
+    "status": "Available",
+    "trailer": "dKrVegVI0Us",
+    "poster": "rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Captain America - The Winter Soldier",
+    "title_spanish": "Capitán América y el Soldado del Invierno",
+    "year": 2014,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Anthony Russo, Joe Russo",
+    "status": "Available",
+    "trailer": "7SlILk2WMTI",
+    "poster": "tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Casino Royale",
+    "title_spanish": "Casino Royale",
+    "year": 2006,
+    "genres": ["Acción", "Aventura", "Suspenso"],
+    "director": "Martin Campbell",
+    "status": "Available",
+    "trailer": "36mnx8dBbGE",
+    "poster": "tOZrJt84r6zEZb3b1g3X4Pp0tY.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Cats & Dogs 3 - Paws Unite",
+    "title_spanish": "Como perros y gatos 3: ¡Patas unidas!",
+    "year": 2020,
+    "genres": ["Comedia", "Familia"],
+    "director": "Sean McNamara",
+    "status": "Available",
+    "trailer": "ct5mQYE3Xk4",
+    "poster": "eja7y6g6i.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "title_spanish": "Charlie y la fábrica de chocolate",
+    "year": 2005,
+    "genres": ["Aventura", "Comedia", "Familia"],
+    "director": "Tim Burton",
+    "status": "Available",
+    "trailer": "OFVGCUIXJls",
+    "poster": "wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Chernobyl 1986",
+    "title_spanish": "Chernóbil 1986",
+    "year": 2021,
+    "genres": ["Drama", "Historia"],
+    "director": "Danila Kozlovsky",
+    "status": "Available",
+    "trailer": "lI03GlboYu4",
+    "poster": "A3DqTg6i.jpg",
+    "resolution": "1080p"
   }
 ]
