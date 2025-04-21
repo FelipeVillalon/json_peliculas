@@ -480,129 +480,133 @@
     "id_imdb": "tt16419074",
     "id_tmdb": "843846"
   },
-  {
+   {
     "title": "Aladdin",
     "title_spanish": "Aladdín",
     "year": 2019,
-    "genres": [
-      "Aventura",
-      "Fantasía",
-      "Familia"
-    ],
+    "genres": ["Aventura", "Fantasía", "Familia"],
     "director": "Guy Ritchie",
     "status": "Disponible",
     "trailer": "JcMtWwiyzpU",
     "poster": "foyufD52aog.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2019-05-24",
+    "rating_imdb": 6.9,
+    "imdb_id": "tt6139732",
+    "tmdb_id": 420817,
+    "language": ["eng", "lat"]
   },
   {
-    "title": "Along with the Gods - The Last 49 Days",
+    "title": "Along with the Gods: The Last 49 Days",
     "title_spanish": "Junto con los dioses: Los últimos 49 días",
     "year": 2018,
-    "genres": [
-      "Fantasía",
-      "Drama"
-    ],
+    "genres": ["Fantasía", "Drama"],
     "director": "Kim Yong-hwa",
     "status": "Disponible",
     "trailer": "IfzZYija-wM",
     "poster": "IxAXrPf57ZU.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2018-08-01",
+    "rating_imdb": 7.1,
+    "imdb_id": "tt7461516",
+    "tmdb_id": 518068,
+    "language": ["kor", "lat"]
   },
   {
-    "title": "Along with the Gods - The Two Worlds",
+    "title": "Along with the Gods: The Two Worlds",
     "title_spanish": "Junto con los dioses: Los dos mundos",
     "year": 2017,
-    "genres": [
-      "Fantasía",
-      "Drama"
-    ],
+    "genres": ["Fantasía", "Drama"],
     "director": "Kim Yong-hwa",
     "status": "Disponible",
     "trailer": "sD7dmu-IWNw",
     "poster": "Y3xcJor-hyQ.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2017-12-20",
+    "rating_imdb": 7.1,
+    "imdb_id": "tt6763664",
+    "tmdb_id": 397567,
+    "language": ["kor", "lat"]
   },
   {
     "title": "American Psycho",
     "title_spanish": "Psicópata americano",
     "year": 2000,
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Terror"
-    ],
+    "genres": ["Crimen", "Drama", "Terror"],
     "director": "Mary Harron",
     "status": "Disponible",
     "trailer": "81mibtQWWBg",
     "poster": "9947ykh7axA.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2000-04-14",
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0144084",
+    "tmdb_id": 1359,
+    "language": ["eng", "lat"]
   },
   {
     "title": "American Sniper",
     "title_spanish": "Francotirador",
     "year": 2014,
-    "genres": [
-      "Drama",
-      "Bélica",
-      "Biografía"
-    ],
+    "genres": ["Drama", "Bélica", "Biografía"],
     "director": "Clint Eastwood",
     "status": "Disponible",
     "trailer": "99k3u9ay1gs",
     "poster": "oAPBqib7vYzBjR6t1Z7fL4f6kJ.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2014-12-25",
+    "rating_imdb": 7.3,
+    "imdb_id": "tt2179136",
+    "tmdb_id": 190859,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Anastasia",
     "title_spanish": "Anastasia",
     "year": 1997,
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
+    "genres": ["Animación", "Aventura", "Familia"],
     "director": "Don Bluth, Gary Goldman",
     "status": "Disponible",
     "trailer": "M0vnBeHeuzs",
     "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "1997-11-21",
+    "rating_imdb": 7.1,
+    "imdb_id": "tt0118615",
+    "tmdb_id": 9444,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Animal",
     "title_spanish": "Animal",
     "year": 2014,
-    "genres": [
-      "Terror",
-      "Suspenso"
-    ],
+    "genres": ["Terror", "Suspenso"],
     "director": "Brett Simmons",
     "status": "Disponible",
     "trailer": "BmX-8Xt_Ydg",
     "poster": "6J5I4w4q2E51.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2014-06-17",
+    "rating_imdb": 5.3,
+    "imdb_id": "tt2669296",
+    "tmdb_id": 274626,
+    "language": ["eng", "lat"]
   },
   {
-    "title": "Anna - El peligro tiene nombre",
+    "title": "Anna",
     "title_spanish": "Anna",
     "year": 2019,
-    "genres": [
-      "Acción",
-      "Suspenso"
-    ],
+    "genres": ["Acción", "Suspenso"],
     "director": "Luc Besson",
     "status": "Disponible",
     "trailer": "Z6yTXsCauIc",
     "poster": "w1n3pVZzG3V.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "release_date": "2019-06-21",
+    "rating_imdb": 6.7,
+    "imdb_id": "tt2322441",
+    "tmdb_id": 484641,
+    "language": ["eng", "lat"]
   },
   {
     "title": "Ant-Man",
