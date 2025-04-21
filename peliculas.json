@@ -1637,5 +1637,114 @@
     "trailer": "ozk0-RHXtFw",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "title_spanish": "Piratas del Caribe: La venganza de Salazar",
+    "year": 2017,
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "director": "Joachim Rønning, Espen Sandberg",
+    "status": "Available",
+    "trailer": "Hgeu5rhoxxY",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "title_spanish": "Piratas del Caribe: Navegando aguas misteriosas",
+    "year": 2011,
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "director": "Rob Marshall",
+    "status": "Available",
+    "trailer": "0BXCVe8Yww4",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Ponyo",
+    "title_spanish": "Ponyo en el acantilado",
+    "year": 2008,
+    "genres": ["Animación", "Fantasía", "Familia"],
+    "director": "Hayao Miyazaki",
+    "status": "Available",
+    "trailer": "pfGDfDjAdSE",
+    "poster": "x8z8Gg9x3z1.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Problem Child",
+    "title_spanish": "Mi pobre diablillo",
+    "year": 1990,
+    "genres": ["Comedia", "Familia"],
+    "director": "Dennis Dugan",
+    "status": "Available",
+    "trailer": "Yu9mz6230zw",
+    "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Problem Child 2",
+    "title_spanish": "Mi pobre diablillo 2",
+    "year": 1991,
+    "genres": ["Comedia", "Familia"],
+    "director": "Brian Levant",
+    "status": "Available",
+    "trailer": "Qmvf4Jr0AEg",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Problem Child 3: Junior in Love",
+    "title_spanish": "Mi pobre diablillo 3: Junior se enamora",
+    "year": 1995,
+    "genres": ["Comedia", "Familia"],
+    "director": "Greg Beeman",
+    "status": "Available",
+    "trailer": "t4rQ-OqOdk8",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Project X",
+    "title_spanish": "Proyecto X",
+    "year": 2012,
+    "genres": ["Comedia"],
+    "director": "Nima Nourizadeh",
+    "status": "Available",
+    "trailer": "HmrhuboNMtg",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Proximity",
+    "title_spanish": "Proximidad",
+    "year": 2020,
+    "genres": ["Ciencia ficción", "Drama"],
+    "director": "Eric Demeusy",
+    "status": "Available",
+    "trailer": "JWAGXeYTZU8",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Pulp Fiction",
+    "title_spanish": "Tiempos violentos",
+    "year": 1994,
+    "genres": ["Crimen", "Drama"],
+    "director": "Quentin Tarantino",
+    "status": "Available",
+    "trailer": "s7EdQ4FqbhY",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "title_spanish": "El gato con botas: El último deseo",
+    "year": 2022,
+    "genres": ["Animación", "Aventura", "Comedia"],
+    "director": "Joel Crawford",
+    "status": "Available",
+    "trailer": "xgZLXyqbYOc",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
   }
 ]
