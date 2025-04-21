@@ -2182,5 +2182,114 @@
     "trailer": "yI3v6KfR9Mw",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p"
+  }, {
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "title_spanish": "John Wick 3: Parabellum",
+    "year": 2019,
+    "genres": ["Acción", "Suspenso", "Crimen"],
+    "director": "Chad Stahelski",
+    "status": "Available",
+    "trailer": "M7XM597XO94",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "title_spanish": "John Wick 4",
+    "year": 2023,
+    "genres": ["Acción", "Suspenso", "Crimen"],
+    "director": "Chad Stahelski",
+    "status": "Available",
+    "trailer": "qEVUtrk8_B4",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "title_spanish": "Jurassic World: El reino caído",
+    "year": 2018,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "J. A. Bayona",
+    "status": "Available",
+    "trailer": "vn9mMeWcgoM",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Jurassic World",
+    "title_spanish": "Jurassic World",
+    "year": 2015,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Colin Trevorrow",
+    "status": "Available",
+    "trailer": "RFinNxS5KN4",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "title_spanish": "Réquiem por un sueño",
+    "year": 2000,
+    "genres": ["Drama", "Psicológico"],
+    "director": "Darren Aronofsky",
+    "status": "Available",
+    "trailer": "0nU7dC9b9gs",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "title_spanish": "Spider-Man: A través del Spider-Verso",
+    "year": 2023,
+    "genres": ["Animación", "Acción", "Aventura"],
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "status": "Available",
+    "trailer": "shW9i6k8cB0",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spider-Man: Far from Home",
+    "title_spanish": "Spider-Man: Lejos de casa",
+    "year": 2019,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Jon Watts",
+    "status": "Available",
+    "trailer": "Nt9L1jCKGnE",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "title_spanish": "Spider-Man: De regreso a casa",
+    "year": 2017,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Jon Watts",
+    "status": "Available",
+    "trailer": "U0D3AOldjMU",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "title_spanish": "Spider-Man: Sin camino a casa",
+    "year": 2021,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Jon Watts",
+    "status": "Available",
+    "trailer": "JfVOs4VSpmA",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spider-Man",
+    "title_spanish": "Spider-Man",
+    "year": 2002,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Sam Raimi",
+    "status": "Available",
+    "trailer": "O7zvehDxttM",
+    "poster": "hXgk4z8k11.jpg",
+    "resolution": "1080p"
   }
 ]
