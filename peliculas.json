@@ -1092,5 +1092,114 @@
     "trailer": "rBxcF-r9Ibs",
     "poster": "bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg",
     "resolution": "1080p"
+  },{
+    "title": "Kingsman - The Golden Circle",
+    "title_spanish": "Kingsman: El círculo dorado",
+    "year": 2017,
+    "genres": ["Acción", "Comedia", "Aventura"],
+    "director": "Matthew Vaughn",
+    "status": "Available",
+    "trailer": "6Nxc-3WpMbg",
+    "poster": "34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Kingsman - The Secret Service",
+    "title_spanish": "Kingsman: El servicio secreto",
+    "year": 2014,
+    "genres": ["Acción", "Comedia", "Aventura"],
+    "director": "Matthew Vaughn",
+    "status": "Available",
+    "trailer": "m4NCribDx4U",
+    "poster": "ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Knives Out",
+    "title_spanish": "Entre navajas y secretos",
+    "year": 2019,
+    "genres": ["Misterio", "Comedia", "Crimen"],
+    "director": "Rian Johnson",
+    "status": "Available",
+    "trailer": "odMdKdTa7g8",
+    "poster": "pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Knowing",
+    "title_spanish": "Señales del futuro",
+    "year": 2009,
+    "genres": ["Ciencia ficción", "Suspenso"],
+    "director": "Alex Proyas",
+    "status": "Available",
+    "trailer": "C2zSFElhgE0",
+    "poster": "fYzpM9GmpBlIC893fNjoWCwE24H.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Kong - Skull Island",
+    "title_spanish": "Kong: La Isla Calavera",
+    "year": 2017,
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "director": "Jordan Vogt-Roberts",
+    "status": "Available",
+    "trailer": "44LdLqgOpjo",
+    "poster": "r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "La dama y el vagabundo",
+    "title_spanish": "La dama y el vagabundo",
+    "year": 1955,
+    "genres": ["Animación", "Familia", "Romance"],
+    "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "status": "Available",
+    "trailer": "5Ho7nThiit4",
+    "poster": "A2avUoNFstnBhAnHiogXQs4c9Bt.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Las Locuras del Emperador",
+    "title_spanish": "Las locuras del emperador",
+    "year": 2000,
+    "genres": ["Animación", "Comedia", "Familia"],
+    "director": "Mark Dindal",
+    "status": "Available",
+    "trailer": "vm3ekBZ9gHQ",
+    "poster": "9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Las Locuras del Emperador 2",
+    "title_spanish": "Las locuras del emperador 2: La gran aventura de Kronk",
+    "year": 2005,
+    "genres": ["Animación", "Comedia", "Familia"],
+    "director": "Elliot M. Bour, Saul Andrew Blinkoff",
+    "status": "Available",
+    "trailer": "Y-yvKWNy8c0",
+    "poster": "5iVZ3z4A1C.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Legalmente Rubia",
+    "title_spanish": "Legalmente rubia",
+    "year": 2001,
+    "genres": ["Comedia", "Romance"],
+    "director": "Robert Luketic",
+    "status": "Available",
+    "trailer": "Phm3lpdR3_g",
+    "poster": "8oPY6sK7tp9zJ3lXw0gZ1xKjv.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Legalmente Rubia 2 - Mas rubia que nunca",
+    "title_spanish": "Legalmente rubia 2: Más rubia que nunca",
+    "year": 2003,
+    "genres": ["Comedia"],
+    "director": "Charles Herman-Wurmfeld",
+    "status": "Available",
+    "trailer": "WlR6Oc_MsQM",
+    "poster": "nYk1b1hZME.jpg",
+    "resolution": "1080p"
   }
 ]
