@@ -1855,5 +1855,114 @@
     "trailer": "xOsLIiBStEs",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Space Jam: A New Legacy",
+    "title_spanish": "Space Jam: Una nueva era",
+    "year": 2021,
+    "genres": ["Animación", "Comedia", "Familia"],
+    "director": "Malcolm D. Lee",
+    "status": "Available",
+    "trailer": "0H8Fv6I2oD8",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Space Sweepers",
+    "title_spanish": "Barrenderos espaciales",
+    "year": 2021,
+    "genres": ["Ciencia ficción", "Acción", "Aventura"],
+    "director": "Jo Sung-hee",
+    "status": "Available",
+    "trailer": "t9gg9V3gF4M",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spectre",
+    "title_spanish": "Spectre",
+    "year": 2015,
+    "genres": ["Acción", "Aventura", "Suspenso"],
+    "director": "Sam Mendes",
+    "status": "Available",
+    "trailer": "LTDaET-JweU",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spencer",
+    "title_spanish": "Spencer",
+    "year": 2021,
+    "genres": ["Drama", "Biografía"],
+    "director": "Pablo Larraín",
+    "status": "Available",
+    "trailer": "20BIS1iA3bY",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spirited",
+    "title_spanish": "El espíritu de las fiestas",
+    "year": 2022,
+    "genres": ["Comedia", "Musical", "Fantasía"],
+    "director": "Sean Anders",
+    "status": "Available",
+    "trailer": "tnAJntI3NNs",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Split",
+    "title_spanish": "Fragmentado",
+    "year": 2016,
+    "genres": ["Terror", "Suspenso"],
+    "director": "M. Night Shyamalan",
+    "status": "Available",
+    "trailer": "84TouqfIsiI",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Sputnik",
+    "title_spanish": "Sputnik: Extraño pasajero",
+    "year": 2020,
+    "genres": ["Ciencia ficción", "Terror", "Suspenso"],
+    "director": "Egor Abramenko",
+    "status": "Available",
+    "trailer": "QqkZ1iQm4x4",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Take Shelter",
+    "title_spanish": "Refugio del miedo",
+    "year": 2011,
+    "genres": ["Drama", "Suspenso"],
+    "director": "Jeff Nichols",
+    "status": "Available",
+    "trailer": "I5U4TtYpKIc",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Total Recall",
+    "title_spanish": "El vengador del futuro",
+    "year": 1990,
+    "genres": ["Ciencia ficción", "Acción"],
+    "director": "Paul Verhoeven",
+    "status": "Available",
+    "trailer": "WFMLGEHdIjE",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Fourth Kind",
+    "title_spanish": "El cuarto tipo",
+    "year": 2009,
+    "genres": ["Terror", "Misterio", "Ciencia ficción"],
+    "director": "Olatunde Osunsanmi",
+    "status": "Available",
+    "trailer": "tYlDltz8Yos",
+    "poster": "hXgk4z8k11.jpg",
+    "resolution": "1080p"
   }
 ]
