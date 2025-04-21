@@ -521,7 +521,7 @@
     "rating_imdb": 6.9,
     "imdb_id": "tt6139732",
     "tmdb_id": 420817,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Along with the Gods: The Last 49 Days",
@@ -537,7 +537,7 @@
     "rating_imdb": 6.9,
     "imdb_id": "tt8116428",
     "tmdb_id": 518068,
-    "language": ["kor", "lat"]
+    "language": ["kr", "lat"]
   },
   {
     "title": "Along with the Gods: The Two Worlds",
@@ -553,7 +553,7 @@
     "rating_imdb": 7.1,
     "imdb_id": "tt7160070",
     "tmdb_id": 487473,
-    "language": ["kor", "lat"]
+    "language": ["kr", "lat"]
   },
   {
     "title": "American Psycho",
@@ -569,7 +569,7 @@
     "rating_imdb": 7.6,
     "imdb_id": "tt0144084",
     "tmdb_id": 1359,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "American Sniper",
@@ -585,7 +585,7 @@
     "rating_imdb": 7.3,
     "imdb_id": "tt2179136",
     "tmdb_id": 190859,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Anastasia",
@@ -601,7 +601,7 @@
     "rating_imdb": 7.1,
     "imdb_id": "tt0118615",
     "tmdb_id": 9444,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "The Animal",
@@ -611,9 +611,9 @@
     "director": "Luke Greenfield",
     "status": "Disponible",
     "trailer": "pBwcksgKcFs",
-    "poster": "1e6a3e6a5c8e4.jpg",
+    "poster": "oNxEXmKTZtECHs0bQbI6dQoXYMV.jpg",
     "resolution": "1080p",
-    "language": ["eng", "lat"],
+    "language": ["en", "lat"],
     "rating_imdb": 4.8,
     "imdb_id": "tt0255798",
     "tmdb_id": 11090
@@ -626,13 +626,13 @@
     "director": "Luc Besson",
     "status": "Disponible",
     "trailer": "Z6yTXsCauIc",
-    "poster": "w1n3pVZzG3V.jpg",
+    "poster": "8hoWcpU5jGVvPi7p5Fqg8BWeinu.jpg",
     "resolution": "1080p",
     "release_date": "2019-06-21",
     "rating_imdb": 6.7,
     "imdb_id": "tt2322441",
     "tmdb_id": 484641,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Ant-Man",
@@ -642,13 +642,13 @@
     "director": "Peyton Reed",
     "status": "Disponible",
     "trailer": "QfOZWGLT1JM",
-    "poster": "D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
+    "poster": "rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
     "resolution": "1080p",
     "rating_imdb": 7.3,
     "release_date": "2015-07-17",
     "imdb_id": "tt0478970",
     "tmdb_id": 102899,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Ant-Man and the Wasp: Quantumania",
@@ -664,7 +664,7 @@
     "release_date": "2023-02-17",
     "imdb_id": "tt10954600",
     "tmdb_id": 102899,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Ant-Man and the Wasp",
@@ -680,7 +680,7 @@
     "release_date": "2018-07-06",
     "imdb_id": "tt5095030",
     "tmdb_id": 363088,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Aquaman",
@@ -696,7 +696,7 @@
     "release_date": "2018-12-21",
     "imdb_id": "tt1477834",
     "tmdb_id": 297802,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Armageddon",
@@ -712,7 +712,7 @@
     "release_date": "1998-07-01",
     "imdb_id": "tt0120591",
     "tmdb_id": 95,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Arrival",
@@ -728,7 +728,7 @@
     "release_date": "2016-11-11",
     "imdb_id": "tt2543164",
     "tmdb_id": 329865,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "As Good as It Gets",
@@ -738,13 +738,13 @@
     "director": "James L. Brooks",
     "status": "Disponible",
     "trailer": "t2d89afgtqg",
-    "poster": "r8NQdVdFvYzBjR6t1Z7fL4f6kJ.jpg",
+    "poster": "xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
     "resolution": "1080p",
     "rating_imdb": 7.7,
     "release_date": "1997-12-19",
     "imdb_id": "tt0119822",
     "tmdb_id": 2898,
-    "language": ["eng", "lat"]
+    "language": ["en", "lat"]
   },
   {
     "title": "Attraction",
@@ -754,13 +754,13 @@
     "director": "Fedor Bondarchuk",
     "status": "Disponible",
     "trailer": "lElqBmOEfPQ",
-    "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
+    "poster": "uMr2lXCh8PuGBhCIosjknQRv1iT.jpg",
     "resolution": "1080p",
     "rating_imdb": 5.3,
     "release_date": "2017-01-26",
     "imdb_id": "tt4731148",
     "tmdb_id": 401513,
-    "language": ["rus", "lat"]
+    "language": ["ru", "lat"]
   },
   {
     "title": "Avengers - Age of Ultron",
@@ -773,7 +773,9 @@
     "poster": "t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "imdb_id": "tt2395427",
+    "tmdb_id": 99861
   },
   {
     "title": "Avengers - Infinity War",
@@ -786,7 +788,9 @@
     "poster": "7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.4,
+    "imdb_id": "tt4154756",
+    "tmdb_id": 299536
   },
   {
     "title": "Back to the Future",
@@ -799,7 +803,9 @@
     "poster": "pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.5,
+    "imdb_id": "tt0088763",
+    "tmdb_id": 105
   },
   {
     "title": "Back to the Future Part II",
@@ -812,7 +818,9 @@
     "poster": "aVx0G9KzG1M.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.8,
+    "imdb_id": "tt0096874",
+    "tmdb_id": 165
   },
   {
     "title": "Back to the Future Part III",
@@ -825,7 +833,9 @@
     "poster": "fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.5,
+    "imdb_id": "tt0099088",
+    "tmdb_id": 196
   },
   {
     "title": "Bad Boys",
@@ -838,7 +848,9 @@
     "poster": "yPisjyLweCl1tbgwgtzBCNCBle.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt0112442",
+    "tmdb_id": 9737
   },
   {
     "title": "Bad Boys for Life",
@@ -851,7 +863,9 @@
     "poster": "y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt1502397",
+    "tmdb_id": 38700
   },
   {
     "title": "Bad Boys II",
@@ -864,7 +878,9 @@
     "poster": "yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt0172156",
+    "tmdb_id": 8961
   },
   {
     "title": "Batman Begins",
