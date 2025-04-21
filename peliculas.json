@@ -1746,5 +1746,114 @@
     "trailer": "xgZLXyqbYOc",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "R.I.P.D.",
+    "title_spanish": "R.I.P.D. Departamento de Policía Mortal",
+    "year": 2013,
+    "genres": ["Acción", "Comedia", "Crimen"],
+    "director": "Robert Schwentke",
+    "status": "Available",
+    "trailer": "ZCv1QzWZz2c",
+    "poster": "x8z8Gg9x3z1.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "R.I.P.D. 2: Rise of the Damned",
+    "title_spanish": "R.I.P.D. 2: La Resurrección de los Condenados",
+    "year": 2022,
+    "genres": ["Acción", "Comedia", "Fantasía"],
+    "director": "Paul Leyden",
+    "status": "Available",
+    "trailer": "5x8-DP3BqTQ",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Rambo: First Blood Part II",
+    "title_spanish": "Rambo: Acorralado Parte II",
+    "year": 1985,
+    "genres": ["Acción", "Guerra", "Suspenso"],
+    "director": "George P. Cosmatos",
+    "status": "Available",
+    "trailer": "jtPNhGWxY4g",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Rammstein: Paris",
+    "title_spanish": "Rammstein: París",
+    "year": 2017,
+    "genres": ["Música", "Concierto"],
+    "director": "Jonas Åkerlund",
+    "status": "Available",
+    "trailer": "OZURbrnDFQg",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Sleepy Hollow",
+    "title_spanish": "La leyenda del jinete sin cabeza",
+    "year": 1999,
+    "genres": ["Terror", "Misterio", "Fantasía"],
+    "director": "Tim Burton",
+    "status": "Available",
+    "trailer": "6RsKwn_Je1k",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Smile",
+    "title_spanish": "Sonríe",
+    "year": 2022,
+    "genres": ["Terror", "Misterio", "Suspenso"],
+    "director": "Parker Finn",
+    "status": "Available",
+    "trailer": "BcDK7lkzzsU",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Solo: A Star Wars Story",
+    "title_spanish": "Han Solo: Una historia de Star Wars",
+    "year": 2018,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Ron Howard",
+    "status": "Available",
+    "trailer": "jPEYpryMp2s",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "title_spanish": "Sonic: La película",
+    "year": 2020,
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "director": "Jeff Fowler",
+    "status": "Available",
+    "trailer": "szby7ZHLnkA",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Sonic the Hedgehog 2",
+    "title_spanish": "Sonic 2: La película",
+    "year": 2022,
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "director": "Jeff Fowler",
+    "status": "Available",
+    "trailer": "G5kzUpWAusI",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Soul",
+    "title_spanish": "Soul",
+    "year": 2020,
+    "genres": ["Animación", "Aventura", "Comedia"],
+    "director": "Pete Docter, Kemp Powers",
+    "status": "Available",
+    "trailer": "xOsLIiBStEs",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
   }
 ]
