@@ -1,114 +1,88 @@
 [
-  {
+ {
     "title": "Elysium",
     "title_spanish": "Elysium",
     "year": 2013,
-    "genres": [
-      "Acción",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Ciencia ficción"],
     "director": "Neill Blomkamp",
     "status": "Disponible",
     "trailer": "oIBtePb-dGY",
     "poster": "uiiXHBd9oUrtUa4YqZiAoy05cRz.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.6
   },
   {
     "title": "Gladiator - Extended Edition",
     "title_spanish": "Gladiador - Edición Extendida",
     "year": 2000,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Aventura"
-    ],
+    "genres": ["Acción", "Drama", "Aventura"],
     "director": "Ridley Scott",
     "status": "Disponible",
     "trailer": "uvbavW31adA",
     "poster": "ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.5
   },
   {
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
     "title_spanish": "Indiana Jones y el Reino de la Calavera de Cristal",
     "year": 2008,
-    "genres": [
-      "Acción",
-      "Aventura"
-    ],
+    "genres": ["Acción", "Aventura"],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "nMhfESAa4tw",
     "poster": "56As6XEM1flWvprX4LgkPl8ii4K.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.2
   },
   {
     "title": "Inglourious Basterds",
     "title_spanish": "Bastardos sin Gloria",
     "year": 2009,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Bélica"
-    ],
+    "genres": ["Acción", "Drama", "Bélica"],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "KnrRy6kSFF0",
     "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.4
   },
   {
     "title": "Jurassic Park",
     "title_spanish": "Parque Jurásico",
     "year": 1993,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "QWBKEmWWL38",
     "poster": "maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.2
   },
   {
     "title": "Jurassic Park III",
     "title_spanish": "Parque Jurásico III",
     "year": 2001,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
     "director": "Joe Johnston",
     "status": "Disponible",
     "trailer": "dcmGqHVTR0A",
     "poster": "oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 5.9
   },
   {
     "title": "Kill Bill - Vol. 1",
     "title_spanish": "Kill Bill - Vol. 1",
     "year": 2003,
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspenso"
-    ],
+    "genres": ["Acción", "Crimen", "Suspenso"],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "LPLNjDDqVvY",
     "poster": "v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
-  },
+    "rating_imdb": 8.2
+  }
   {
     "title": "Kill Bill - Vol. 2",
     "title_spanish": "Kill Bill - Vol. 2",
