@@ -655,5 +655,115 @@
     "trailer": "UTNcOwQ2lRw",
     "poster": "yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
     "resolution": "1080p"
+  },
+  {
+    "title": "Batman Begins",
+    "title_spanish": "Batman inicia",
+    "year": 2005,
+    "genres": ["Acción", "Crimen", "Drama"],
+    "director": "Christopher Nolan",
+    "status": "Available",
+    "trailer": "vak9ZLfhGnQ",
+    "poster": "1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Battle Royale",
+    "title_spanish": "Battle Royale",
+    "year": 2000,
+    "genres": ["Acción", "Drama", "Suspenso"],
+    "director": "Kinji Fukasaku",
+    "status": "Available",
+    "trailer": "zxtf7dTALUc",
+    "poster": "k3Ew1Xz1cP6f.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bicentennial Man",
+    "title_spanish": "El hombre bicentenario",
+    "year": 1999,
+    "genres": ["Drama", "Ciencia ficción"],
+    "director": "Chris Columbus",
+    "status": "Available",
+    "trailer": "yfDlQ-Q12rg",
+    "poster": "pE6sVTLkZ1.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Black Adam",
+    "title_spanish": "Black Adam",
+    "year": 2022,
+    "genres": ["Acción", "Fantasía", "Ciencia ficción"],
+    "director": "Jaume Collet-Serra",
+    "status": "Available",
+    "trailer": "X0tOpBuYasI",
+    "poster": "pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Black Widow",
+    "title_spanish": "Black Widow",
+    "year": 2021,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Cate Shortland",
+    "status": "Available",
+    "trailer": "ybji16u608U",
+    "poster": "qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Blade",
+    "title_spanish": "Blade",
+    "year": 1998,
+    "genres": ["Acción", "Terror"],
+    "director": "Stephen Norrington",
+    "status": "Available",
+    "trailer": "kaU2A7KyOu4",
+    "poster": "e8pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Blade II",
+    "title_spanish": "Blade II",
+    "year": 2002,
+    "genres": ["Acción", "Terror"],
+    "director": "Guillermo del Toro",
+    "status": "Available",
+    "trailer": "vAUB7dcUn8o",
+    "poster": "f9pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bliss",
+    "title_spanish": "Bliss",
+    "year": 2021,
+    "genres": ["Ciencia ficción", "Drama"],
+    "director": "Mike Cahill",
+    "status": "Available",
+    "trailer": "ZHtPm8v-yNw",
+    "poster": "g0pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Blood Diamond",
+    "title_spanish": "Diamante de sangre",
+    "year": 2006,
+    "genres": ["Drama", "Suspenso"],
+    "director": "Edward Zwick",
+    "status": "Available",
+    "trailer": "yknIZsvQjG4",
+    "poster": "h1pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Boda Sangrienta",
+    "title_spanish": "Boda Sangrienta",
+    "year": 2019,
+    "genres": ["Terror", "Comedia"],
+    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+    "status": "Available",
+    "trailer": "MHt5G2P7KM0",
+    "poster": "i2pI4w4q2E51.jpg",
+    "resolution": "1080p"
   }
 ]
