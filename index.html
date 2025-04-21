@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Películas</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background-color: #141414;
+      color: #fff;
+    }
+    header {
+      padding: 20px;
+      background-color: #111;
+      text-align: center;
+      font-size: 2em;
+      font-weight: bold;
+      color: #e50914;
+    }
+    .search-container {
+      padding: 20px;
+      text-align: center;
+    }
+    .search-container input {
+      width: 50%;
+      padding: 10px;
+      font-size: 1em;
+      border-radius: 5px;
+      border: none;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 20px;
+      padding: 30px;
+    }
+    .movie-card {
+      background-color: #222;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: transform 0.3s;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .movie-card:hover {
+      transform: scale(1.05);
+    }
+    .movie-card img {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+    }
+    .movie-info {
+      padding: 10px;
+    }
+    .movie-info h3 {
+      margin: 10px 0 5px;
+      font-size: 1.1em;
+    }
+    .movie-info p {
+      margin: 4px 0;
+      font-size: 0.9em;
+      color: #ccc;
+    }
+    .footer-card {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      border-top: 1px solid #333;
+      background-color: #1c1c1c;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .footer-card .estado {
+      font-size: 0.9em;
+      padding: 4px 8px;
+      border-radius: 4px;
+      color: #fff;
+    }
+    .footer-card .Disponible {
+      background-color: #28a745;
+    }
+    .footer-card .Pronto {
+      background-color: #ffc107;
+      color: #000;
+    }
+    .footer-card .NoDisponible {
+      background-color: #dc3545;
+    }
+ 
+    .footer-card .resolucion {
+      background-color: gold;
+      color: #000;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+    #popup {
+      display: none;
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0, 0, 0, 0.85);
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    #popup.show {
+      opacity: 1;
+      display: flex;
+    }
+    #popup iframe {
+      width: 80%;
+      height: 720px;
+      border: none;
+      border-radius: 10px;
+    }
+    #popup .close {
+      position: absolute;
+      top: 20px; right: 40px;
+      font-size: 30px;
+      color: white;
+      background-color: red;
+      cursor: pointer;
+      padding: 6px 12px;
+      border-radius: 4px;
+    }
+    .footer-card .btn-trailer {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: #e50914;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 0.85em;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.footer-card .btn-trailer:hover {
+  background-color: #ff2d1b;
+}
+
+.footer-card .btn-trailer svg {
+  width: 16px;
+  height: 16px;
+  fill: white;
+}
+.movie-info .idiomas-abajo {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.movie-info .idiomas-abajo .idioma {
+  position: relative;
+  width: 20px;
+  height: 15px;
+  border: 1px solid #444;
+  border-radius: 3px;
+  overflow: hidden;
+  font-size: 0.6em;
+  font-weight: bold;
+  background-color: #111;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.movie-info .idiomas-abajo .idioma img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.9);
+}
+
+.movie-info .idiomas-abajo .idioma span {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  right: 0;
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+  font-size: 0.55em;
+  padding: 0 2px;
+  text-align: center;
+}
+
+
+  </style>
+</head>
+<body>
+  <header>🎬 Películas </header>
+  <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Buscar películas..." />
+    
+    <div id="filtros" style="margin-top: 15px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <select id="filtroStatus">
+        <option value="">Estado</option>
+        <option value="Disponible">Disponible</option>
+        <option value="Pronto">Pronto</option>
+        <option value="NoDisponible">No Disponible</option>
+      </select>
+      
+      <select id="filtroNota">
+        <option value="">Nota IMDb</option>
+        <option value="8">⭐ 8+</option>
+        <option value="5-7.9">⭐ 5–7.9</option>
+        <option value="1-4.9">⭐ <5</option>
+      </select>
+  
+      <select id="filtroGenero">
+        <option value="">Género</option>
+        <!-- Opciones dinámicas desde JS -->
+      </select>
+
+      <select id="filtroIdioma">
+        <option value="">Idioma</option>
+        <option value="es">SPA</option>
+        <option value="lat">LAT</option>
+        <option value="en">ENG</option>
+      </select>
+      <select id="ordenarPor">
+        <option value="">Ordenar por</option>
+        <option value="year">Año</option>
+        <option value="title">Título</option>
+        <option value="rating">Rating</option>
+      </select>
+      
+    </div>
+  
+    <div id="contadorResultados" style="margin-top: 10px; color: #ccc; font-size: 0.9em; display: none;"></div>
+  </div>
+  
+  
+  <div class="container" id="movieContainer"></div>
+
+  <div id="popup">
+    <button class="close" onclick="cerrarPopup()"> CERRAR</button>
+    <iframe id="popupIframe" src="" allowfullscreen></iframe>
+  </div>
+
+<!-- solo reemplaza el bloque <script> completo con este -->
+    <script>
+        let peliculas = [];
+      
+        async function cargarPeliculas() {
+          const res = await fetch('peliculas.json');
+          peliculas = await res.json();
+          mostrarPeliculas(peliculas);
+          cargarGenerosUnicos();
+
+          document.querySelector('header').textContent = `🎬 Películas (${peliculas.length})`;
+
+        }
+      
+        function getColorFromRating(rating) {
+          // Escala de color de rojo (1) a verde (10)
+          const r = Math.round(255 - ((rating - 1) / 9) * 200); // de 255 a 55
+          const g = Math.round(((rating - 1) / 9) * 200 + 55);  // de 55 a 255
+          return `rgba(${r},${g},70,0.2)`; // mantiene azul fijo
+        }
+      
+        function mostrarPeliculas(lista) {
+
+          const contenedor = document.getElementById('movieContainer');
+          contenedor.innerHTML = '';
+          lista.forEach(p => {
+            const card = document.createElement('div');
+            card.className = 'movie-card';
+            const estadoClase = p.status.replace(/\s/g, '');
+            const colorRating = getColorFromRating(p.rating_imdb || 5);
+      
+            card.innerHTML = `
+<div style="position: relative;">
+
+
+  <img src="https://image.tmdb.org/t/p/w500/${p.poster}" alt="${p.title}" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/495px-No-Image-Placeholder.svg.png?20200912122019';">
+</div>
+
+
+<div class="movie-info">
+  <h3>${p.title} (${p.year})</h3>
+  <p><strong>Géneros:</strong> ${Array.isArray(p.genres) ? p.genres.join(', ') : 'N/A'}</p>
+  <p><strong>Director:</strong> ${p.director || 'N/A'}</p>
+
+  <div class="idiomas-abajo">
+    ${obtenerEtiquetasIdiomas(p.language).map(i => `
+      <div class="idioma">
+        <img src="${i.bandera}" alt="${i.sigla}" title="${i.sigla}">
+      </div>
+    `).join('')}
+  </div>
+</div>
+
+<div class="footer-card">
+  <span class="estado ${estadoClase}">${p.status}</span>
+
+
+
+  <span class="resolucion">${p.resolution || 'N/A'}</span>
+
+  <button class="btn-trailer" onclick="abrirPopup('${p.trailer}')">
+    <svg viewBox="0 0 24 24">
+      <path d="M10 8.64v6.72L15.27 12 10 8.64M8 5v14l11-7L8 5z" />
+    </svg>
+    Ver tráiler
+  </button>
+
+  <span class="rating" style="background-color:${colorRating}; color: #FFF; padding: 4px 8px; border-radius: 4px; font-size: 0.9em;">⭐ ${p.rating_imdb?.toFixed(1) || 'N/A'}</span>
+</div>
+
+            `;
+            contenedor.appendChild(card);
+          });
+        }
+      
+        function abrirPopup(videoId) {
+          const popup = document.getElementById('popup');
+          const iframe = document.getElementById('popupIframe');
+          iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+          popup.classList.add('show');
+        }
+      
+        function cerrarPopup() {
+          const popup = document.getElementById('popup');
+          const iframe = document.getElementById('popupIframe');
+          popup.classList.remove('show');
+          setTimeout(() => { iframe.src = ''; }, 300);
+        }
+      
+        document.getElementById('searchInput').addEventListener('input', aplicarFiltros);
+document.getElementById('filtroStatus').addEventListener('change', aplicarFiltros);
+document.getElementById('filtroNota').addEventListener('change', aplicarFiltros);
+document.getElementById('filtroGenero').addEventListener('change', aplicarFiltros);
+document.getElementById('filtroIdioma').addEventListener('change', aplicarFiltros);
+document.getElementById('ordenarPor').addEventListener('change', aplicarFiltros);
+
+      
+        document.addEventListener('keydown', e => {
+          if (e.key === 'Escape') cerrarPopup();
+        });
+      
+        document.addEventListener('DOMContentLoaded', cargarPeliculas);
+        function aplicarFiltros() {
+  const texto = document.getElementById('searchInput').value.toLowerCase();
+  const status = document.getElementById('filtroStatus').value;
+  const nota = document.getElementById('filtroNota').value;
+  const genero = document.getElementById('filtroGenero').value;
+  const idioma = document.getElementById('filtroIdioma').value;
+
+  let filtradas = peliculas.filter(p => {
+    const coincideTexto = p.title.toLowerCase().includes(texto) ||
+      (p.title_spanish && p.title_spanish.toLowerCase().includes(texto));
+
+    const coincideStatus = status ? p.status.replace(/\s/g, '') === status : true;
+
+    let coincideNota = true;
+    if (nota === "8") coincideNota = p.rating_imdb >= 8;
+    else if (nota === "5-7.9") coincideNota = p.rating_imdb >= 5 && p.rating_imdb < 8;
+    else if (nota === "1-4.9") coincideNota = p.rating_imdb < 5;
+
+    const coincideGenero = genero ? p.genres.includes(genero) : true;
+    const coincideIdioma = idioma
+  ? (Array.isArray(p.language) ? p.language.includes(idioma) : p.language === idioma)
+  : true;
+
+  return coincideTexto && coincideStatus && coincideNota && coincideGenero && coincideIdioma;
+});
+const ordenar = document.getElementById('ordenarPor').value;
+if (ordenar === 'title') {
+  filtradas.sort((a, b) => a.title.localeCompare(b.title));
+} else if (ordenar === 'year') {
+  filtradas.sort((a, b) => b.release_date - a.release_date);
+} else if (ordenar === 'rating') {
+  filtradas.sort((a, b) => (b.rating_imdb || 0) - (a.rating_imdb || 0));
+}
+
+  mostrarPeliculas(filtradas);
+
+  const contador = document.getElementById('contadorResultados');
+  if (texto || status || nota || genero) {
+    contador.style.display = 'block';
+    contador.textContent = `Mostrando ${filtradas.length} de ${peliculas.length} películas`;
+  } else {
+    contador.style.display = 'none';
+  }
+}
+
+function cargarGenerosUnicos() {
+  const generoSelect = document.getElementById('filtroGenero');
+  const generos = new Set();
+
+  peliculas.forEach(p => {
+    if (Array.isArray(p.genres)) {
+      p.genres.forEach(g => generos.add(g));
+    }
+  });
+
+  Array.from(generos).sort().forEach(genero => {
+    const option = document.createElement('option');
+    option.value = genero;
+    option.textContent = genero;
+    generoSelect.appendChild(option);
+  });
+}
+
+function obtenerEtiquetasIdiomas(idiomas) {
+  const banderas = {
+    'es': { sigla: 'Español', bandera: 'https://flagcdn.com/es.svg' },
+    'lat': { sigla: 'Latino', bandera: 'https://flagcdn.com/mx.svg' },
+    'en': { sigla: 'Ingles', bandera: 'https://flagcdn.com/us.svg' },
+    'kor': { sigla: 'Koreano', bandera: 'https://flagcdn.com/kr.svg' },
+  };
+
+  const lista = Array.isArray(idiomas) ? idiomas : [idiomas || 'en'];
+
+  return lista.map(idioma => {
+    const lang = idioma.toLowerCase();
+    return banderas[lang] || { sigla: lang.toUpperCase(), bandera: 'https://flagcdn.com/us.svg' };
+  });
+}
+
+
+
+      </script>
+</body>
+</html>
