@@ -983,5 +983,114 @@
     "trailer": "QKxQ5SBzLWA",
     "poster": "h6pI4w4q2E51.jpg",
     "resolution": "1080p"
+  }, {
+    "title": "Die Hard",
+    "title_spanish": "Duro de matar",
+    "year": 1988,
+    "genres": ["Acción", "Suspenso"],
+    "director": "John McTiernan",
+    "status": "Available",
+    "trailer": "jaJuwKCmJbY",
+    "poster": "r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Die Hard 2",
+    "title_spanish": "Duro de matar 2",
+    "year": 1990,
+    "genres": ["Acción", "Suspenso"],
+    "director": "Renny Harlin",
+    "status": "Available",
+    "trailer": "CvHp7xJZ4_U",
+    "poster": "kI2t3rG5Ra1tZzR3XGqz1zq9i4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Dinner for Schmucks",
+    "title_spanish": "La cena de los idiotas",
+    "year": 2010,
+    "genres": ["Comedia"],
+    "director": "Jay Roach",
+    "status": "Available",
+    "trailer": "CVY_IRA8NTw",
+    "poster": "xW0pEMh5Y3.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Django Unchained",
+    "title_spanish": "Django sin cadenas",
+    "year": 2012,
+    "genres": ["Western", "Drama"],
+    "director": "Quentin Tarantino",
+    "status": "Available",
+    "trailer": "0fUCuvNlOCg",
+    "poster": "7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Dragon Ball Super - Super Hero",
+    "title_spanish": "Dragon Ball Super: Superhéroe",
+    "year": 2022,
+    "genres": ["Animación", "Acción"],
+    "director": "Tetsuro Kodama",
+    "status": "Available",
+    "trailer": "wHAaKXtfSOg",
+    "poster": "rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Dumbo",
+    "title_spanish": "Dumbo",
+    "year": 2019,
+    "genres": ["Aventura", "Familia", "Fantasía"],
+    "director": "Tim Burton",
+    "status": "Available",
+    "trailer": "7NiYVoqBt-8",
+    "poster": "f5fTo5FdE9IRfrzq4O6cG6U1Wf.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Dungeons & Dragons - Honor Among Thieves",
+    "title_spanish": "Calabozos y dragones: Honor entre ladrones",
+    "year": 2023,
+    "genres": ["Aventura", "Fantasía"],
+    "director": "John Francis Daley, Jonathan Goldstein",
+    "status": "Available",
+    "trailer": "IiMinixSXII",
+    "poster": "A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Edward Scissorhands",
+    "title_spanish": "El joven manos de tijera",
+    "year": 1990,
+    "genres": ["Fantasía", "Romance"],
+    "director": "Tim Burton",
+    "status": "Available",
+    "trailer": "TBHIO60whNw",
+    "poster": "1RFiG6ntcM8U4YZIf67CjIHvEGb.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "El Camino - A Breaking Bad Movie",
+    "title_spanish": "El Camino: Una película de Breaking Bad",
+    "year": 2019,
+    "genres": ["Crimen", "Drama", "Suspenso"],
+    "director": "Vince Gilligan",
+    "status": "Available",
+    "trailer": "1JLUn2DFW4w",
+    "poster": "g1pI4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Jumanji - The Next Level",
+    "title_spanish": "Jumanji: El siguiente nivel",
+    "year": 2019,
+    "genres": ["Aventura", "Comedia", "Fantasía"],
+    "director": "Jake Kasdan",
+    "status": "Available",
+    "trailer": "rBxcF-r9Ibs",
+    "poster": "bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg",
+    "resolution": "1080p"
   }
 ]
