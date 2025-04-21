@@ -545,5 +545,115 @@
     "trailer": "tFMo3UJ4B4g",
     "poster": "x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
     "resolution": "1080p"
+  },
+   {
+    "title": "As Good as It Gets",
+    "title_spanish": "Mejor... imposible",
+    "year": 1997,
+    "genres": ["Comedia", "Drama", "Romance"],
+    "director": "James L. Brooks",
+    "status": "Available",
+    "trailer": "t2d89afgtqg",
+    "poster": "r8NQdVdFvYzBjR6t1Z7fL4f6kJ.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Attraction",
+    "title_spanish": "Attraction",
+    "year": 2017,
+    "genres": ["Ciencia ficción", "Drama", "Romance"],
+    "director": "Fedor Bondarchuk",
+    "status": "Available",
+    "trailer": "lElqBmOEfPQ",
+    "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Avengers - Age of Ultron",
+    "title_spanish": "Avengers: Era de Ultrón",
+    "year": 2015,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Joss Whedon",
+    "status": "Available",
+    "trailer": "tmeOjFno6Do",
+    "poster": "t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Avengers - Infinity War",
+    "title_spanish": "Avengers: Infinity War",
+    "year": 2018,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Anthony Russo, Joe Russo",
+    "status": "Available",
+    "trailer": "6ZfuNTqbHE8",
+    "poster": "7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Back to the Future",
+    "title_spanish": "Volver al Futuro",
+    "year": 1985,
+    "genres": ["Aventura", "Comedia", "Ciencia ficción"],
+    "director": "Robert Zemeckis",
+    "status": "Available",
+    "trailer": "qvsgGtivCgs",
+    "poster": "pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Back to the Future Part II",
+    "title_spanish": "Volver al Futuro Parte II",
+    "year": 1989,
+    "genres": ["Aventura", "Comedia", "Ciencia ficción"],
+    "director": "Robert Zemeckis",
+    "status": "Available",
+    "trailer": "MdENmefJRpw",
+    "poster": "aVx0G9KzG1M.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Back to the Future Part III",
+    "title_spanish": "Volver al Futuro Parte III",
+    "year": 1990,
+    "genres": ["Aventura", "Comedia", "Ciencia ficción"],
+    "director": "Robert Zemeckis",
+    "status": "Available",
+    "trailer": "NlOYnSSufGY",
+    "poster": "fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bad Boys",
+    "title_spanish": "Dos policías rebeldes",
+    "year": 1995,
+    "genres": ["Acción", "Comedia", "Crimen"],
+    "director": "Michael Bay",
+    "status": "Available",
+    "trailer": "OLYENHi4IIc",
+    "poster": "yPisjyLweCl1tbgwgtzBCNCBle.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bad Boys for Life",
+    "title_spanish": "Bad Boys para siempre",
+    "year": 2020,
+    "genres": ["Acción", "Comedia", "Crimen"],
+    "director": "Adil El Arbi, Bilall Fallah",
+    "status": "Available",
+    "trailer": "jKCj3XuPG8M",
+    "poster": "y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Bad Boys II",
+    "title_spanish": "Dos policías rebeldes II",
+    "year": 2003,
+    "genres": ["Acción", "Comedia", "Crimen"],
+    "director": "Michael Bay",
+    "status": "Available",
+    "trailer": "UTNcOwQ2lRw",
+    "poster": "yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+    "resolution": "1080p"
   }
 ]
