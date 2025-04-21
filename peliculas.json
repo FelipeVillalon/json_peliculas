@@ -2291,5 +2291,103 @@
     "trailer": "O7zvehDxttM",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Spider-Man 2",
+    "title_spanish": "Spider-Man 2",
+    "year": 2004,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Sam Raimi",
+    "status": "Available",
+    "trailer": "1s9Yln0YwCw",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Spider-Man 3",
+    "title_spanish": "Spider-Man 3",
+    "year": 2007,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Sam Raimi",
+    "status": "Available",
+    "trailer": "MK6X9zj5Guw",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "title_spanish": "Tortugas Ninja 2: Fuera de las sombras",
+    "year": 2016,
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "director": "Dave Green",
+    "status": "Available",
+    "trailer": "HeaugHGd1Kw",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles",
+    "title_spanish": "Tortugas Ninja",
+    "year": 2014,
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "director": "Jonathan Liebesman",
+    "status": "Available",
+    "trailer": "dwXFsrp6WBs",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Godfather: Part II",
+    "title_spanish": "El Padrino: Parte II",
+    "year": 1974,
+    "genres": ["Crimen", "Drama"],
+    "director": "Francis Ford Coppola",
+    "status": "Available",
+    "trailer": "qJr92K_hKl0",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Godfather: Part III",
+    "title_spanish": "El Padrino: Parte III",
+    "year": 1990,
+    "genres": ["Crimen", "Drama"],
+    "director": "Francis Ford Coppola",
+    "status": "Available",
+    "trailer": "z6D3F9jZbN0",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Godfather",
+    "title_spanish": "El Padrino",
+    "year": 1972,
+    "genres": ["Crimen", "Drama"],
+    "director": "Francis Ford Coppola",
+    "status": "Available",
+    "trailer": "sY1S34973zA",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "title_spanish": "El mundo perdido: Parque Jurásico",
+    "year": 1997,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "RXsH9Yb7Yz4",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "title_spanish": "Top Gun: Maverick",
+    "year": 2022,
+    "genres": ["Acción", "Drama"],
+    "director": "Joseph Kosinski",
+    "status": "Available",
+    "trailer": "giXco2jaZ_4",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
   }
 ]
