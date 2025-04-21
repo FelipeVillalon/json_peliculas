@@ -82,145 +82,114 @@
     "poster": "v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
     "resolution": "1080p",
     "rating_imdb": 8.2
-  }
+  },
   {
     "title": "Kill Bill - Vol. 2",
     "title_spanish": "Kill Bill - Vol. 2",
     "year": 2004,
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspenso"
-    ],
+    "genres": ["Acción", "Crimen", "Suspenso"],
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "WTt8cCIvGYI",
     "poster": "2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.0
   },
   {
     "title": "Men in Black",
     "title_spanish": "Hombres de Negro",
     "year": 1997,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Comedia", "Ciencia ficción"],
     "director": "Barry Sonnenfeld",
     "status": "Disponible",
     "trailer": "HYUd7AOw_lk",
     "poster": "uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.3
   },
   {
     "title": "Men in Black 3",
     "title_spanish": "Hombres de Negro 3",
     "year": 2012,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Comedia", "Ciencia ficción"],
     "director": "Barry Sonnenfeld",
     "status": "Disponible",
     "trailer": "IyaFEBI_L24",
     "poster": "90DdoEStzeObs96fsYf4GG544iN.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.8
   },
   {
     "title": "Men in Black II",
     "title_spanish": "Hombres de Negro II",
     "year": 2002,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Comedia", "Ciencia ficción"],
     "director": "Barry Sonnenfeld",
     "status": "Disponible",
     "trailer": "u1s0UeQKJHQ",
     "poster": "enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.2
   },
   {
     "title": "Raiders of the Lost Ark",
     "title_spanish": "Indiana Jones y los cazadores del arca perdida",
     "year": 1981,
-    "genres": [
-      "Acción",
-      "Aventura"
-    ],
+    "genres": ["Acción", "Aventura"],
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "XkkzKHCx154",
     "poster": "wZkA6wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 8.4
   },
   {
     "title": "Taken - Extended Edition",
     "title_spanish": "Búsqueda Implacable - Edición Extendida",
     "year": 2008,
-    "genres": [
-      "Acción",
-      "Suspenso"
-    ],
+    "genres": ["Acción", "Suspenso"],
     "director": "Pierre Morel",
     "status": "Disponible",
     "trailer": "uPJVJBm9TPA",
     "poster": "xYkA7wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 7.8
   },
   {
     "title": "Taken 2 - Extended Edition",
     "title_spanish": "Búsqueda Implacable 2 - Edición Extendida",
     "year": 2012,
-    "genres": [
-      "Acción",
-      "Suspenso"
-    ],
+    "genres": ["Acción", "Suspenso"],
     "director": "Olivier Megaton",
     "status": "Disponible",
     "trailer": "VpaT8NzkLgE",
     "poster": "yZkA8wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.2
   },
   {
     "title": "Taken 3 - Extended Edition",
     "title_spanish": "Búsqueda Implacable 3 - Edición Extendida",
     "year": 2014,
-    "genres": [
-      "Acción",
-      "Suspenso"
-    ],
+    "genres": ["Acción", "Suspenso"],
     "director": "Olivier Megaton",
     "status": "Disponible",
     "trailer": "JuU0M2xBasc",
     "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.0
   },
   {
     "title": "Terminator - Dark Fate",
     "title_spanish": "Terminator - Destino Oscuro",
     "year": 2019,
-    "genres": [
-      "Acción",
-      "Ciencia ficción"
-    ],
+    "genres": ["Acción", "Ciencia ficción"],
     "director": "Tim Miller",
     "status": "Disponible",
     "trailer": "jCyEX6u-Yhs",
     "poster": "aBkA0wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p",
-    "rating_imdb": 10
+    "rating_imdb": 6.2
   },
   {
     "title": "Terminator 2 - Judgment Day - Theatrical Edition",
