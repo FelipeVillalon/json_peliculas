@@ -1419,5 +1419,114 @@
     "trailer": "sRtZaSkBp58",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "My Spy",
+    "title_spanish": "Mi espía",
+    "year": 2020,
+    "genres": ["Acción", "Comedia", "Familia"],
+    "director": "Peter Segal",
+    "status": "Available",
+    "trailer": "pfAhQSz-j_o",
+    "poster": "xw6JZf8nq3l.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "A Star Is Born",
+    "title_spanish": "Nace una estrella",
+    "year": 2018,
+    "genres": ["Drama", "Música", "Romance"],
+    "director": "Bradley Cooper",
+    "status": "Available",
+    "trailer": "nSbzyEJ8X9E",
+    "poster": "a3d1b2c3d4e5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Nadie sabe que estoy aquí",
+    "title_spanish": "Nadie sabe que estoy aquí",
+    "year": 2020,
+    "genres": ["Drama", "Música"],
+    "director": "Gaspar Antillo",
+    "status": "Available",
+    "trailer": "RByl3fv4Ztw",
+    "poster": "b4c5d6e7f8g9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Ninja Scroll",
+    "title_spanish": "Ninja Scroll",
+    "year": 1993,
+    "genres": ["Animación", "Acción", "Fantasía"],
+    "director": "Yoshiaki Kawajiri",
+    "status": "Available",
+    "trailer": "fwc7wNCvDs4",
+    "poster": "c5d6e7f8g9h0.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Nobody",
+    "title_spanish": "Nadie",
+    "year": 2021,
+    "genres": ["Acción", "Crimen", "Suspenso"],
+    "director": "Ilya Naishuller",
+    "status": "Available",
+    "trailer": "wZti8QKBWPo",
+    "poster": "d6e7f8g9h0i1.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Non-Stop",
+    "title_spanish": "Sin escalas",
+    "year": 2014,
+    "genres": ["Acción", "Misterio", "Suspenso"],
+    "director": "Jaume Collet-Serra",
+    "status": "Available",
+    "trailer": "nODrjQUR5YU",
+    "poster": "e7f8g9h0i1j2.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "On the Line",
+    "title_spanish": "En la línea",
+    "year": 2022,
+    "genres": ["Suspenso"],
+    "director": "Romuald Boulanger",
+    "status": "Available",
+    "trailer": "lCVscDXv5sA",
+    "poster": "f8g9h0i1j2k3.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Orphan: First Kill",
+    "title_spanish": "La huérfana: Primer asesinato",
+    "year": 2022,
+    "genres": ["Terror", "Suspenso"],
+    "director": "William Brent Bell",
+    "status": "Available",
+    "trailer": "_uX6of3vBu0",
+    "poster": "g9h0i1j2k3l4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Outside the Wire",
+    "title_spanish": "Zona de riesgo",
+    "year": 2021,
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "director": "Mikael Håfström",
+    "status": "Available",
+    "trailer": "u8ZsUivELbs",
+    "poster": "h0i1j2k3l4m5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Overboard",
+    "title_spanish": "Hombre al agua",
+    "year": 2018,
+    "genres": ["Comedia", "Romance"],
+    "director": "Rob Greenberg",
+    "status": "Available",
+    "trailer": "RoJ9RCMy1tg",
+    "poster": "i1j2k3l4m5n6.jpg",
+    "resolution": "1080p"
   }
 ]
