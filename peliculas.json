@@ -108,5 +108,114 @@
     "trailer": "IyaFEBI_L24",
     "poster": "uXkA4wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
     "resolution": "1080p"
+  },{
+    "title": "Men in Black II",
+    "title_spanish": "Hombres de Negro II",
+    "year": 2002,
+    "genres": ["Acción", "Comedia", "Ciencia ficción"],
+    "director": "Barry Sonnenfeld",
+    "status": "Available",
+    "trailer": "u1s0UeQKJHQ",
+    "poster": "f24OaL2jj7z3N1z6i8U6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "title_spanish": "Indiana Jones y los cazadores del arca perdida",
+    "year": 1981,
+    "genres": ["Acción", "Aventura"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "XkkzKHCx154",
+    "poster": "wZkA6wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Taken - Extended Edition",
+    "title_spanish": "Búsqueda Implacable - Edición Extendida",
+    "year": 2008,
+    "genres": ["Acción", "Suspenso"],
+    "director": "Pierre Morel",
+    "status": "Available",
+    "trailer": "uPJVJBm9TPA",
+    "poster": "xYkA7wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Taken 2 - Extended Edition",
+    "title_spanish": "Búsqueda Implacable 2 - Edición Extendida",
+    "year": 2012,
+    "genres": ["Acción", "Suspenso"],
+    "director": "Olivier Megaton",
+    "status": "Available",
+    "trailer": "VpaT8NzkLgE",
+    "poster": "yZkA8wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Taken 3 - Extended Edition",
+    "title_spanish": "Búsqueda Implacable 3 - Edición Extendida",
+    "year": 2014,
+    "genres": ["Acción", "Suspenso"],
+    "director": "Olivier Megaton",
+    "status": "Available",
+    "trailer": "JuU0M2xBasc",
+    "poster": "zAkA9wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Terminator - Dark Fate",
+    "title_spanish": "Terminator - Destino Oscuro",
+    "year": 2019,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Tim Miller",
+    "status": "Available",
+    "trailer": "jCyEX6u-Yhs",
+    "poster": "aBkA0wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Terminator 2 - Judgment Day - Theatrical Edition",
+    "title_spanish": "Terminator 2 - El juicio final - Edición teatral",
+    "year": 1991,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "James Cameron",
+    "status": "Available",
+    "trailer": "CRRlbK5w8AE",
+    "poster": "bCkA1wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Terminator Genisys",
+    "title_spanish": "Terminator Génesis",
+    "year": 2015,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Alan Taylor",
+    "status": "Available",
+    "trailer": "62E4FJTwSuc",
+    "poster": "cDkA2wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Terminator Salvation - Theatrical Edition",
+    "title_spanish": "Terminator - La salvación - Edición teatral",
+    "year": 2009,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "McG",
+    "status": "Available",
+    "trailer": "VexvF6m0n7Q",
+    "poster": "dEkA3wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Terminator",
+    "title_spanish": "El Terminator",
+    "year": 1984,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "James Cameron",
+    "status": "Available",
+    "trailer": "k64P4l2Wmeg",
+    "poster": "eFkA4wzjvZzFJ8I4Y4X6Y6gWZsS.jpg",
+    "resolution": "1080p"
   }
 ]
