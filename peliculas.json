@@ -1130,7 +1130,7 @@
     "director": "Martin Campbell",
     "status": "Disponible",
     "trailer": "36mnx8dBbGE",
-    "poster": "tOZrJt84r6zEZb3b1g3X4Pp0tY.jpg",
+    "poster": "lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 8.0,
@@ -1145,7 +1145,7 @@
     "director": "Sean McNamara",
     "status": "Disponible",
     "trailer": "ct5mQYE3Xk4",
-    "poster": "eja7y6g6i.jpg",
+    "poster": "4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 3.7,
@@ -1175,7 +1175,7 @@
     "director": "Danila Kozlovsky",
     "status": "Disponible",
     "trailer": "lI03GlboYu4",
-    "poster": "A3DqTg6i.jpg",
+    "poster": "AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 5.0,
@@ -1190,7 +1190,7 @@
     "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
     "status": "Disponible",
     "trailer": "ByehYal_cCs",
-    "poster": "hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "poster": "8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.4,
@@ -1205,7 +1205,7 @@
     "director": "Matt Reeves",
     "status": "Disponible",
     "trailer": "_afPFLvh2qg",
-    "poster": "hOq0jD8q0zH2U6y1ZzWv2k1xL.jpg",
+    "poster": "qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.0,
@@ -1220,7 +1220,7 @@
     "director": "Michael B. Jordan",
     "status": "Disponible",
     "trailer": "AHmCH7iB_IM",
-    "poster": "tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
+    "poster": "cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 6.8,
@@ -1235,12 +1235,13 @@
     "director": "Roger Kumble",
     "status": "Disponible",
     "trailer": "SCFR2vpMIQU",
-    "poster": "g1pI4w4q2E51.jpg",
+    "poster": "6zGkHqfYv7vJ3z2xDgWz6r0pX5h.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt0139134",
+    "tmdb_id": 10329
   },
-
   {
     "title": "Cube",
     "title_spanish": "Cube",
@@ -1249,10 +1250,12 @@
     "director": "Vincenzo Natali",
     "status": "Disponible",
     "trailer": "Esjc0rPj3K4",
-    "poster": "h2pI4w4q2E51.jpg",
+    "poster": "5c0ovjT41KnYIHYuF4AWsTe3sKh.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.2,
+    "imdb_id": "tt0123755",
+    "tmdb_id": 431
   },
   {
     "title": "Dark City",
@@ -1262,10 +1265,12 @@
     "director": "Alex Proyas",
     "status": "Disponible",
     "trailer": "gt9HkO-cGGo",
-    "poster": "h3pI4w4q2E51.jpg",
+    "poster": "8mRGnJjD1W8J4U3S3bYk0b2L1z.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0118929",
+    "tmdb_id": 2666
   },
   {
     "title": "DC League of Super-Pets",
@@ -1278,7 +1283,9 @@
     "poster": "r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.2,
+    "imdb_id": "tt8912936",
+    "tmdb_id": 539681
   },
   {
     "title": "Death Race",
@@ -1288,10 +1295,12 @@
     "director": "Paul W.S. Anderson",
     "status": "Disponible",
     "trailer": "C8bxcJZrus0",
-    "poster": "h4pI4w4q2E51.jpg",
+    "poster": "5YtH3iG3cV0LhM1c01f1XkA3J.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.3,
+    "imdb_id": "tt0452608",
+    "tmdb_id": 12163
   },
   {
     "title": "Despicable Me 2",
