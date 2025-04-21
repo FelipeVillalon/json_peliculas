@@ -770,7 +770,7 @@
     "director": "Joss Whedon",
     "status": "Disponible",
     "trailer": "tmeOjFno6Do",
-    "poster": "t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
+    "poster": "yK5tnKo5dSRs6d544cxjEcyys2o.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.3,
@@ -785,7 +785,7 @@
     "director": "Anthony Russo, Joe Russo",
     "status": "Disponible",
     "trailer": "6ZfuNTqbHE8",
-    "poster": "7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "poster": "rUlmFatfFdnzPsa2O90KmHyOI1w.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 8.4,
@@ -800,7 +800,7 @@
     "director": "Robert Zemeckis",
     "status": "Disponible",
     "trailer": "qvsgGtivCgs",
-    "poster": "pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
+    "poster": "vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 8.5,
@@ -815,7 +815,7 @@
     "director": "Robert Zemeckis",
     "status": "Disponible",
     "trailer": "MdENmefJRpw",
-    "poster": "aVx0G9KzG1M.jpg",
+    "poster": "YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.8,
@@ -830,7 +830,7 @@
     "director": "Robert Zemeckis",
     "status": "Disponible",
     "trailer": "NlOYnSSufGY",
-    "poster": "fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
+    "poster": "crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.5,
@@ -845,7 +845,7 @@
     "director": "Michael Bay",
     "status": "Disponible",
     "trailer": "OLYENHi4IIc",
-    "poster": "yPisjyLweCl1tbgwgtzBCNCBle.jpg",
+    "poster": "qKiLKvJaT6rRmd3IBsoVV58luXH.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 6.8,
@@ -893,7 +893,9 @@
     "poster": "1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.2,
+    "imdb_id": "tt0372784",
+    "tmdb_id": 272
   },
   {
     "title": "Battle Royale",
@@ -906,7 +908,9 @@
     "poster": "k3Ew1Xz1cP6f.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0266308",
+    "tmdb_id": 3176
   },
   {
     "title": "Bicentennial Man",
@@ -919,7 +923,9 @@
     "poster": "pE6sVTLkZ1.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "imdb_id": "tt0182789",
+    "tmdb_id": 2277
   },
   {
     "title": "Black Adam",
@@ -932,7 +938,9 @@
     "poster": "pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.3,
+    "imdb_id": "tt6443346",
+    "tmdb_id": 436270
   },
   {
     "title": "Black Widow",
@@ -945,7 +953,9 @@
     "poster": "qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.7,
+    "imdb_id": "tt3480822",
+    "tmdb_id": 497698
   },
   {
     "title": "Blade",
@@ -958,7 +968,9 @@
     "poster": "e8pI4w4q2E51.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.1,
+    "imdb_id": "tt0120611",
+    "tmdb_id": 36647
   },
   {
     "title": "Blade II",
@@ -971,7 +983,9 @@
     "poster": "f9pI4w4q2E51.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.7,
+    "imdb_id": "tt0187738",
+    "tmdb_id": 36586
   },
   {
     "title": "Bliss",
@@ -984,7 +998,9 @@
     "poster": "g0pI4w4q2E51.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.4,
+    "imdb_id": "tt10333426",
+    "tmdb_id": 613911
   },
   {
     "title": "Blood Diamond",
@@ -997,7 +1013,9 @@
     "poster": "h1pI4w4q2E51.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.0,
+    "imdb_id": "tt0450259",
+    "tmdb_id": 1372
   },
   {
     "title": "Boda Sangrienta",
