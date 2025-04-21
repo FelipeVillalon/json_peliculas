@@ -905,7 +905,7 @@
     "director": "Kinji Fukasaku",
     "status": "Disponible",
     "trailer": "zxtf7dTALUc",
-    "poster": "k3Ew1Xz1cP6f.jpg",
+    "poster": "uRhc1IfwYKwVqIp2OTZGFzTVsdF.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.6,
@@ -920,7 +920,7 @@
     "director": "Chris Columbus",
     "status": "Disponible",
     "trailer": "yfDlQ-Q12rg",
-    "poster": "pE6sVTLkZ1.jpg",
+    "poster": "wrs23eO0VEWwOQpXoOasMnlW9Y4.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 6.9,
@@ -965,7 +965,7 @@
     "director": "Stephen Norrington",
     "status": "Disponible",
     "trailer": "kaU2A7KyOu4",
-    "poster": "e8pI4w4q2E51.jpg",
+    "poster": "oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 7.1,
@@ -980,7 +980,7 @@
     "director": "Guillermo del Toro",
     "status": "Disponible",
     "trailer": "vAUB7dcUn8o",
-    "poster": "f9pI4w4q2E51.jpg",
+    "poster": "azzTa03g0Fb8HC7O3521qq0oc8Q.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 6.7,
@@ -995,7 +995,7 @@
     "director": "Mike Cahill",
     "status": "Disponible",
     "trailer": "ZHtPm8v-yNw",
-    "poster": "g0pI4w4q2E51.jpg",
+    "poster": "b7BllsQkD6nTkAdtd28UVCmKqVi.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 5.4,
@@ -1010,7 +1010,7 @@
     "director": "Edward Zwick",
     "status": "Disponible",
     "trailer": "yknIZsvQjG4",
-    "poster": "h1pI4w4q2E51.jpg",
+    "poster": "vL0TSMpKWx9UGJbKdYCKREEDukF.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
     "rating_imdb": 8.0,
@@ -1018,17 +1018,19 @@
     "tmdb_id": 1372
   },
   {
-    "title": "Boda Sangrienta",
+    "title": "Ready or Not",
     "title_spanish": "Boda Sangrienta",
     "year": 2019,
     "genres": ["Terror", "Comedia"],
     "director": "Matt Bettinelli-Olpin, Tyler Gillett",
     "status": "Disponible",
     "trailer": "MHt5G2P7KM0",
-    "poster": "i2pI4w4q2E51.jpg",
+    "poster": "oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "imdb_id": "tt7798634",
+    "tmdb_id": 567609
   },
   {
     "title": "Boss Level",
@@ -1038,10 +1040,12 @@
     "director": "Joe Carnahan",
     "status": "Disponible",
     "trailer": "9mkiYwB5K3g",
-    "poster": "9dTO1tZ9rY.jpg",
+    "poster": "69QmQj8T2uMSHr1mKzCy25f6deW.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt7638348",
+    "tmdb_id": 513310
   },
   {
     "title": "Braveheart",
@@ -1054,7 +1058,9 @@
     "poster": "or1gBugydmjToAEq7OZY0owwFk.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.3,
+    "imdb_id": "tt0112573",
+    "tmdb_id": 197
   },
   {
     "title": "Bridget Jones's Diary",
@@ -1064,10 +1070,12 @@
     "director": "Sharon Maguire",
     "status": "Disponible",
     "trailer": "xjlKnDWZYzc",
-    "poster": "nQYcM3t5B2.jpg",
+    "poster": "dkauRl9TosBFikftrC3OVcKWDoz.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.7,
+    "imdb_id": "tt0243155",
+    "tmdb_id": 109
   },
   {
     "title": "Bullet Train",
@@ -1080,10 +1088,12 @@
     "poster": "tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "imdb_id": "tt12593682",
+    "tmdb_id": 718930
   },
   {
-    "title": "Captain America - Civil War",
+    "title": "Captain America: Civil War",
     "title_spanish": "Capitán América: Civil War",
     "year": 2016,
     "genres": ["Acción", "Aventura", "Ciencia ficción"],
@@ -1093,10 +1103,12 @@
     "poster": "rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.8,
+    "imdb_id": "tt3498820",
+    "tmdb_id": 271110
   },
   {
-    "title": "Captain America - The Winter Soldier",
+    "title": "Captain America: The Winter Soldier",
     "title_spanish": "Capitán América y el Soldado del Invierno",
     "year": 2014,
     "genres": ["Acción", "Aventura", "Ciencia ficción"],
@@ -1106,7 +1118,9 @@
     "poster": "tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.7,
+    "imdb_id": "tt1843866",
+    "tmdb_id": 100402
   },
   {
     "title": "Casino Royale",
@@ -1119,10 +1133,12 @@
     "poster": "tOZrJt84r6zEZb3b1g3X4Pp0tY.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.0,
+    "imdb_id": "tt0381061",
+    "tmdb_id": 36557
   },
   {
-    "title": "Cats & Dogs 3 - Paws Unite",
+    "title": "Cats & Dogs 3: Paws Unite",
     "title_spanish": "Como perros y gatos 3: ¡Patas unidas!",
     "year": 2020,
     "genres": ["Comedia", "Familia"],
@@ -1132,7 +1148,9 @@
     "poster": "eja7y6g6i.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 3.7,
+    "imdb_id": "tt12745164",
+    "tmdb_id": 726739
   },
   {
     "title": "Charlie and the Chocolate Factory",
@@ -1145,7 +1163,9 @@
     "poster": "wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.7,
+    "imdb_id": "tt0367594",
+    "tmdb_id": 118
   },
   {
     "title": "Chernobyl 1986",
@@ -1158,7 +1178,9 @@
     "poster": "A3DqTg6i.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.0,
+    "imdb_id": "tt9203190",
+    "tmdb_id": 589290
   },
   {
     "title": "Cloud Atlas",
@@ -1171,7 +1193,9 @@
     "poster": "hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt1371111",
+    "tmdb_id": 83542
   },
   {
     "title": "Cloverfield",
@@ -1184,7 +1208,9 @@
     "poster": "hOq0jD8q0zH2U6y1ZzWv2k1xL.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.0,
+    "imdb_id": "tt1060277",
+    "tmdb_id": 7191
   },
   {
     "title": "Creed III",
@@ -1194,10 +1220,12 @@
     "director": "Michael B. Jordan",
     "status": "Disponible",
     "trailer": "AHmCH7iB_IM",
-    "poster": "cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+    "poster": "tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt11145118",
+    "tmdb_id": 677179
   },
   {
     "title": "Cruel Intentions",
@@ -1212,6 +1240,7 @@
     "language": ["en", "lat"],
     "rating_imdb": 10
   },
+
   {
     "title": "Cube",
     "title_spanish": "Cube",
