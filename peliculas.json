@@ -436,5 +436,114 @@
     "trailer": "81mibtQWWBg",
     "poster": "9947ykh7axA.jpg",
     "resolution": "1080p"
+  },{
+    "title": "American Sniper",
+    "title_spanish": "Francotirador",
+    "year": 2014,
+    "genres": ["Drama", "Bélica", "Biografía"],
+    "director": "Clint Eastwood",
+    "status": "Available",
+    "trailer": "99k3u9ay1gs",
+    "poster": "oAPBqib7vYzBjR6t1Z7fL4f6kJ.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Anastasia",
+    "title_spanish": "Anastasia",
+    "year": 1997,
+    "genres": ["Animación", "Aventura", "Familia"],
+    "director": "Don Bluth, Gary Goldman",
+    "status": "Available",
+    "trailer": "M0vnBeHeuzs",
+    "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Animal",
+    "title_spanish": "Animal",
+    "year": 2014,
+    "genres": ["Terror", "Suspenso"],
+    "director": "Brett Simmons",
+    "status": "Available",
+    "trailer": "BmX-8Xt_Ydg",
+    "poster": "6J5I4w4q2E51.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Anna - El peligro tiene nombre",
+    "title_spanish": "Anna",
+    "year": 2019,
+    "genres": ["Acción", "Suspenso"],
+    "director": "Luc Besson",
+    "status": "Available",
+    "trailer": "Z6yTXsCauIc",
+    "poster": "w1n3pVZzG3V.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Ant-Man",
+    "title_spanish": "Ant-Man: El Hombre Hormiga",
+    "year": 2015,
+    "genres": ["Acción", "Ciencia ficción", "Comedia"],
+    "director": "Peyton Reed",
+    "status": "Available",
+    "trailer": "QfOZWGLT1JM",
+    "poster": "D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Ant-Man and the Wasp - Quantumania",
+    "title_spanish": "Ant-Man y la Avispa: Quantumanía",
+    "year": 2023,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Peyton Reed",
+    "status": "Available",
+    "trailer": "ZlNFpri-Y40",
+    "poster": "qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "title_spanish": "Ant-Man y la Avispa",
+    "year": 2018,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "Peyton Reed",
+    "status": "Available",
+    "trailer": "8_rTIAOohas",
+    "poster": "rv1AWImgx386ULjcf62VYaW8zSt.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Aquaman",
+    "title_spanish": "Aquaman",
+    "year": 2018,
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "director": "James Wan",
+    "status": "Available",
+    "trailer": "WDkg3h8PCVU",
+    "poster": "xLPffWMhMj1l50ND3KchMjYoKmE.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Armageddon",
+    "title_spanish": "Armageddon",
+    "year": 1998,
+    "genres": ["Acción", "Ciencia ficción", "Drama"],
+    "director": "Michael Bay",
+    "status": "Available",
+    "trailer": "8-8eEniEfgU",
+    "poster": "eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Arrival",
+    "title_spanish": "La llegada",
+    "year": 2016,
+    "genres": ["Drama", "Ciencia ficción", "Misterio"],
+    "director": "Denis Villeneuve",
+    "status": "Available",
+    "trailer": "tFMo3UJ4B4g",
+    "poster": "x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+    "resolution": "1080p"
   }
 ]
