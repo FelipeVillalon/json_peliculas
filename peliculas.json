@@ -25,5 +25,135 @@
     "poster": "d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
     "trailer": "s7EdQ4FqbhY",
     "estado": "No Disponible"
+  },
+  {
+    "title": "Elysium",
+    "title_spanish": "Elysium",
+    "year": 2013,
+    "genres": ["Science Fiction", "Action", "Drama"],
+    "director": "Neill Blomkamp",
+    "status": "Available",
+    "trailer": "oIBtePb-dGY",
+    "poster": "2r0F5Yhz6T8oRFkSxj9cl8o0p0F.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "title_spanish": "Gladiador",
+    "year": 2000,
+    "genres": ["Action", "Drama", "Adventure"],
+    "director": "Ridley Scott",
+    "status": "Available",
+    "trailer": "owK1qxDselE",
+    "poster": "ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "title_spanish": "Indiana Jones y el Reino de la Calavera de Cristal",
+    "year": 2008,
+    "genres": ["Adventure", "Action"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "9U8vZwvP57Y",
+    "poster": "c0wV9vRrY7S3W0Lk4z7Lk7x1kY.jpg"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "title_spanish": "Malditos Bastardos",
+    "year": 2009,
+    "genres": ["Drama", "Thriller", "War"],
+    "director": "Quentin Tarantino",
+    "status": "Available",
+    "trailer": "KnrRy6kSFF0",
+    "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "title_spanish": "Parque Jurásico",
+    "year": 1993,
+    "genres": ["Adventure", "Science Fiction", "Thriller"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "lc0UehYemQA",
+    "poster": "c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg"
+  },
+  {
+    "title": "Jurassic Park III",
+    "title_spanish": "Parque Jurásico III",
+    "year": 2001,
+    "genres": ["Adventure", "Action", "Science Fiction"],
+    "director": "Joe Johnston",
+    "status": "Available",
+    "trailer": "cYy9xj3kK9k",
+    "poster": "v8aP0VjFZgYh4I1aK1E1E1E1E1E.jpg"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "title_spanish": "Kill Bill: Volumen 1",
+    "year": 2003,
+    "genres": ["Action", "Crime", "Thriller"],
+    "director": "Quentin Tarantino",
+    "status": "Available",
+    "trailer": "7kSuas6mRpk",
+    "poster": "v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  },
+  {
+    "title": "Kill Bill: Vol. 2",
+    "title_spanish": "Kill Bill: Volumen 2",
+    "year": 2004,
+    "genres": ["Action", "Crime", "Thriller"],
+    "director": "Quentin Tarantino",
+    "status": "Available",
+    "trailer": "WTt8cCIvGYI",
+    "poster": "8OKmBV5BUFzmozIC3pPWKHy17kx.jpg"
+  },
+  {
+    "title": "Men in Black",
+    "title_spanish": "Hombres de Negro",
+    "year": 1997,
+    "genres": ["Action", "Comedy", "Science Fiction"],
+    "director": "Barry Sonnenfeld",
+    "status": "Available",
+    "trailer": "HYUd7AOw_lk",
+    "poster": "f24UVKq3tiwCPv7M3N3X3X3X3X3.jpg"
+  },
+  {
+    "title": "Men in Black 3",
+    "title_spanish": "Hombres de Negro 3",
+    "year": 2012,
+    "genres": ["Action", "Comedy", "Science Fiction"],
+    "director": "Barry Sonnenfeld",
+    "status": "Available",
+    "trailer": "IyaFEBI_L24",
+    "poster": "bY4i3U4g5Yh4I1aK1E1E1E1E1E.jpg"
+  },
+  {
+    "title": "Men in Black II",
+    "title_spanish": "Hombres de Negro II",
+    "year": 2002,
+    "genres": ["Action", "Comedy", "Science Fiction"],
+    "director": "Barry Sonnenfeld",
+    "status": "Available",
+    "trailer": "uX2cS8wvQHI",
+    "poster": "cYy9xj3kK9kYh4I1aK1E1E1E1E.jpg"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "title_spanish": "Indiana Jones y los cazadores del arca perdida",
+    "year": 1981,
+    "genres": ["Adventure", "Action"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "XkkzKHCx154",
+    "poster": "v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  },
+  {
+    "title": "Taken",
+    "title_spanish": "Búsqueda implacable",
+    "year": 2008,
+    "genres": ["Action", "Thriller"],
+    "director": "Pierre Morel",
+    "status": "Available",
+    "trailer": "uPJVJBm9TPA",
+    "poster": "v8aP0VjFZgYh4I1aK1E1E1E1E1E.jpg"
   }
 ]
