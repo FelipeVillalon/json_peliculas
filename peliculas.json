@@ -1201,5 +1201,114 @@
     "trailer": "WlR6Oc_MsQM",
     "poster": "nYk1b1hZME.jpg",
     "resolution": "1080p"
+  }, {
+    "title": "Let Him Go",
+    "title_spanish": "Déjalo ir",
+    "year": 2020,
+    "genres": ["Drama", "Suspenso"],
+    "director": "Thomas Bezucha",
+    "status": "Available",
+    "trailer": "bE8pwEF-3TI",
+    "poster": "tP2A3Gz2QnGqv1iG2u3Z1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Liar Liar",
+    "title_spanish": "Mentiroso, mentiroso",
+    "year": 1997,
+    "genres": ["Comedia", "Fantasía"],
+    "director": "Tom Shadyac",
+    "status": "Available",
+    "trailer": "C1no75lpOiw",
+    "poster": "xXgk4z8k1.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "title_spanish": "Lilo & Stitch",
+    "year": 2002,
+    "genres": ["Animación", "Familia", "Ciencia ficción"],
+    "director": "Dean DeBlois, Chris Sanders",
+    "status": "Available",
+    "trailer": "9OAC55UWAQs",
+    "poster": "yXgk4z8k2.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Live Free or Die Hard",
+    "title_spanish": "Duro de matar 4.0",
+    "year": 2007,
+    "genres": ["Acción", "Suspenso"],
+    "director": "Len Wiseman",
+    "status": "Available",
+    "trailer": "8Jz-8UcCiws",
+    "poster": "zXgk4z8k3.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "There's Something About Mary",
+    "title_spanish": "Loco por Mary",
+    "year": 1998,
+    "genres": ["Comedia", "Romance"],
+    "director": "Bobby Farrelly, Peter Farrelly",
+    "status": "Available",
+    "trailer": "503D8hOfE_8",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Departed",
+    "title_spanish": "Los infiltrados",
+    "year": 2006,
+    "genres": ["Crimen", "Drama", "Suspenso"],
+    "director": "Martin Scorsese",
+    "status": "Available",
+    "trailer": "iQpb1LoeVUc",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Penguins of Madagascar",
+    "title_spanish": "Los pingüinos de Madagascar",
+    "year": 2014,
+    "genres": ["Animación", "Aventura", "Comedia"],
+    "director": "Eric Darnell, Simon J. Smith",
+    "status": "Available",
+    "trailer": "KHGHEpUeUwo",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Lucy",
+    "title_spanish": "Lucy",
+    "year": 2014,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Luc Besson",
+    "status": "Available",
+    "trailer": "bN7ksFEVO9U",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "M3GAN",
+    "title_spanish": "M3GAN",
+    "year": 2022,
+    "genres": ["Terror", "Ciencia ficción"],
+    "director": "Gerard Johnstone",
+    "status": "Available",
+    "trailer": "BRb4U99OU80",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "title_spanish": "Mad Max: Furia en el camino",
+    "year": 2015,
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "director": "George Miller",
+    "status": "Available",
+    "trailer": "hEJnMQG9ev8",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
   }
 ]
