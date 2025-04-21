@@ -1310,5 +1310,114 @@
     "trailer": "hEJnMQG9ev8",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p"
+  }, {
+    "title": "Man of Steel",
+    "title_spanish": "El hombre de acero",
+    "year": 2013,
+    "genres": ["Acción", "Ciencia ficción"],
+    "director": "Zack Snyder",
+    "status": "Available",
+    "trailer": "T6DJcgm3wNY",
+    "poster": "xWlaTLnD8NJMTT9OF6tYvBd4VCH.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Me, Myself & Irene",
+    "title_spanish": "Yo, yo mismo e Irene",
+    "year": 2000,
+    "genres": ["Comedia"],
+    "director": "Bobby Farrelly, Peter Farrelly",
+    "status": "Available",
+    "trailer": "JABG7viqJWc",
+    "poster": "xXgk4z8k1.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Meet the Spartans",
+    "title_spanish": "Casi 300",
+    "year": 2008,
+    "genres": ["Comedia"],
+    "director": "Jason Friedberg, Aaron Seltzer",
+    "status": "Available",
+    "trailer": "RY-zJtYYolo",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Memories. Episode 1 - Magnetic Rose",
+    "title_spanish": "Memories. Episodio 1 - Rosa magnética",
+    "year": 1995,
+    "genres": ["Animación", "Ciencia ficción"],
+    "director": "Kōji Morimoto",
+    "status": "Available",
+    "trailer": "CCMLLBS2PSg",
+    "poster": "yXgk4z8k2.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Memories. Episode 2 - Stink Bomb",
+    "title_spanish": "Memories. Episodio 2 - Bomba apestosa",
+    "year": 1995,
+    "genres": ["Animación", "Comedia", "Ciencia ficción"],
+    "director": "Tensai Okamura",
+    "status": "Available",
+    "trailer": "ZshpM0Is3U4",
+    "poster": "zXgk4z8k3.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Memories. Episode 3 - Cannon Fodder",
+    "title_spanish": "Memories. Episodio 3 - Carne de cañón",
+    "year": 1995,
+    "genres": ["Animación", "Drama", "Ciencia ficción"],
+    "director": "Katsuhiro Otomo",
+    "status": "Available",
+    "trailer": "op8am32MWBg",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Mete miedo",
+    "title_spanish": "Mete miedo",
+    "year": 2022,
+    "genres": ["Terror"],
+    "director": "Néstor Sánchez Sotelo",
+    "status": "Available",
+    "trailer": "e6MQu4UwDOA",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Minority Report",
+    "title_spanish": "Sentencia previa",
+    "year": 2002,
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "jdl6eAIx2K4",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Morbius",
+    "title_spanish": "Morbius",
+    "year": 2022,
+    "genres": ["Acción", "Ciencia ficción", "Terror"],
+    "director": "Daniel Espinosa",
+    "status": "Available",
+    "trailer": "oZ6iiRrz1SY",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Mulan",
+    "title_spanish": "Mulán",
+    "year": 1998,
+    "genres": ["Animación", "Aventura", "Familia"],
+    "director": "Tony Bancroft, Barry Cook",
+    "status": "Available",
+    "trailer": "sRtZaSkBp58",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
   }
 ]
