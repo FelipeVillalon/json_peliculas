@@ -1528,5 +1528,114 @@
     "trailer": "RoJ9RCMy1tg",
     "poster": "i1j2k3l4m5n6.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Mrs. Doubtfire",
+    "title_spanish": "Papá por siempre",
+    "year": 1993,
+    "genres": ["Comedia", "Drama", "Familia"],
+    "director": "Chris Columbus",
+    "status": "Available",
+    "trailer": "RzZsdL-EGwg",
+    "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Parasite",
+    "title_spanish": "Parásitos",
+    "year": 2019,
+    "genres": ["Drama", "Suspenso"],
+    "director": "Bong Joon-ho",
+    "status": "Available",
+    "trailer": "SEUXfv87Wpk",
+    "poster": "7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Paul",
+    "title_spanish": "Paul",
+    "year": 2011,
+    "genres": ["Comedia", "Ciencia ficción"],
+    "director": "Greg Mottola",
+    "status": "Available",
+    "trailer": "tjqgkqk4_0E",
+    "poster": "hS3hGg9x3z1G3G1gG9gH4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Pearl",
+    "title_spanish": "Pearl",
+    "year": 2022,
+    "genres": ["Terror"],
+    "director": "Ti West",
+    "status": "Available",
+    "trailer": "XW2E2Fnh52w",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Peninsula",
+    "title_spanish": "Península",
+    "year": 2020,
+    "genres": ["Acción", "Terror", "Suspenso"],
+    "director": "Yeon Sang-ho",
+    "status": "Available",
+    "trailer": "n9xhJrPXop4",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Perfume: The Story of a Murderer",
+    "title_spanish": "El perfume: Historia de un asesino",
+    "year": 2006,
+    "genres": ["Drama", "Crimen", "Fantasía"],
+    "director": "Tom Tykwer",
+    "status": "Available",
+    "trailer": "Z7I6lKzI2zE",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Peter Pan",
+    "title_spanish": "Peter Pan",
+    "year": 1953,
+    "genres": ["Animación", "Aventura", "Fantasía"],
+    "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "status": "Available",
+    "trailer": "Jb3zB6Kj4xE",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Land Before Time",
+    "title_spanish": "Pie Pequeño: En busca del valle encantado",
+    "year": 1988,
+    "genres": ["Animación", "Aventura", "Familia"],
+    "director": "Don Bluth",
+    "status": "Available",
+    "trailer": "tQ3iJjzZ2zY",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "title_spanish": "Piratas del Caribe: En el fin del mundo",
+    "year": 2007,
+    "genres": ["Aventura", "Fantasía", "Acción"],
+    "director": "Gore Verbinski",
+    "status": "Available",
+    "trailer": "HKSZtp_OGHY",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "title_spanish": "Piratas del Caribe: El cofre de la muerte",
+    "year": 2006,
+    "genres": ["Aventura", "Fantasía", "Acción"],
+    "director": "Gore Verbinski",
+    "status": "Available",
+    "trailer": "ozk0-RHXtFw",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
   }
 ]
