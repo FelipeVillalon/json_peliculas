@@ -74,6 +74,7 @@
     "trailer": "dcmGqHVTR0A",
     "poster": "oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
     "resolution": "4k",
+    "language": ["en", "lat"],
     "rating_imdb": 5.9
   },
   {
@@ -86,6 +87,7 @@
     "trailer": "LPLNjDDqVvY",
     "poster": "v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.2
   },
   {
@@ -98,6 +100,7 @@
     "trailer": "WTt8cCIvGYI",
     "poster": "2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.0
   },
   {
@@ -110,6 +113,7 @@
     "trailer": "HYUd7AOw_lk",
     "poster": "uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.3
   },
   {
@@ -122,6 +126,7 @@
     "trailer": "IyaFEBI_L24",
     "poster": "90DdoEStzeObs96fsYf4GG544iN.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.8
   },
   {
@@ -134,6 +139,7 @@
     "trailer": "u1s0UeQKJHQ",
     "poster": "enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.2
   },
   {
@@ -146,6 +152,7 @@
     "trailer": "XkkzKHCx154",
     "poster": "ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.4
   },
   {
@@ -158,6 +165,7 @@
     "trailer": "uPJVJBm9TPA",
     "poster": "y5Va1WXDX6nZElVirPrGxf6w99B.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.8
   },
   {
@@ -170,6 +178,7 @@
     "trailer": "VpaT8NzkLgE",
     "poster": "yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.2
   },
   {
@@ -182,6 +191,7 @@
     "trailer": "JuU0M2xBasc",
     "poster": "vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.0
   },
   {
@@ -194,6 +204,7 @@
     "trailer": "jCyEX6u-Yhs",
     "poster": "2kn6OO9jjsaFubGkSWXDQOTn64n.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.2
   },
   {
@@ -206,6 +217,7 @@
     "trailer": "CRRlbK5w8AE",
     "poster": "5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.6,
     "imdb_id": "tt0103064",
     "tmdb_id": 280
@@ -220,6 +232,7 @@
     "trailer": "62E4FJTwSuc",
     "poster": "oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.3,
     "imdb_id": "tt1340138",
     "tmdb_id": 87101
@@ -234,6 +247,7 @@
     "trailer": "VexvF6m0n7Q",
     "poster": "gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.5,
     "imdb_id": "tt0438488",
     "tmdb_id": 534
@@ -248,6 +262,7 @@
     "trailer": "k64P4l2Wmeg",
     "poster": "hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.1,
     "imdb_id": "tt0088247",
     "tmdb_id": 218
@@ -262,6 +277,7 @@
     "trailer": "5tuOCGh8Q4A",
     "poster": "bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.4,
     "imdb_id": "tt0290334",
     "tmdb_id": 36658
@@ -276,6 +292,7 @@
     "trailer": "N0io2w_6vT8",
     "poster": "ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.9,
     "imdb_id": "tt3385516",
     "tmdb_id": 246655
@@ -290,6 +307,7 @@
     "trailer": "pK2zYHWDZKo",
     "poster": "bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.9,
     "imdb_id": "tt1877832",
     "tmdb_id": 127585
@@ -302,8 +320,9 @@
     "director": "Matthew Vaughn",
     "status": "Disponible",
     "trailer": "UrbHykKUfTM",
-    "poster": "7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+    "poster": "hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.7,
     "imdb_id": "tt1270798",
     "tmdb_id": 49538
@@ -318,6 +337,7 @@
     "trailer": "gT2nVJTSPSc",
     "poster": "7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.7,
     "imdb_id": "tt0376994",
     "tmdb_id": 36668
@@ -332,6 +352,7 @@
     "trailer": "VNxwlx6etXI",
     "poster": "bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.3,
     "id_imdb": "tt0120903",
     "id_tmdb": "36657"
@@ -344,8 +365,9 @@
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "p4WUkn8fsCc",
-    "poster": "13448.jpg",
+    "poster": "tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.7,
     "id_imdb": "tt0808151",
     "id_tmdb": "13448"
@@ -358,8 +380,9 @@
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "lfqHb6INj3w",
-    "poster": "591.jpg",
+    "poster": "9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.6,
     "id_imdb": "tt0382625",
     "id_tmdb": "591"
@@ -372,8 +395,9 @@
     "director": "Burr Steers",
     "status": "Disponible",
     "trailer": "UQK5Hh0L1Sg",
-    "poster": "16996.jpg",
+    "poster": "yEcfFXEWpuXcfsR9nKESVCFneqV.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 6.4,
     "id_imdb": "tt0974661",
     "id_tmdb": "16996"
@@ -386,8 +410,9 @@
     "director": "Sam Mendes",
     "status": "Disponible",
     "trailer": "YqNYrYUiMfg",
-    "poster": "530915.jpg",
+    "poster": "iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.3,
     "id_imdb": "tt8579674",
     "id_tmdb": "530915"
@@ -400,8 +425,9 @@
     "director": "Scott Beck, Bryan Woods",
     "status": "Disponible",
     "trailer": "bHXejJq5vr0",
-    "poster": "700391.jpg",
+    "poster": "rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 5.4,
     "id_imdb": "tt12261776",
     "id_tmdb": "700391"
@@ -414,8 +440,9 @@
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "EajIlG_OCvw",
-    "poster": "453.jpg",
+    "poster": "zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 8.2,
     "id_imdb": "tt0268978",
     "id_tmdb": "453"
@@ -428,8 +455,9 @@
     "director": "Michael Tiddes",
     "status": "Disponible",
     "trailer": "daCqXHagaPY",
-    "poster": "139038.jpg",
+    "poster": "hQTRgxXfK0TCGopbbuvOkf6b1At.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 5.1,
     "id_imdb": "tt2243537",
     "id_tmdb": "139038"
@@ -442,8 +470,9 @@
     "director": "John Krasinski",
     "status": "Disponible",
     "trailer": "BpdDN9d9Jio",
-    "poster": "447332.jpg",
+    "poster": "zq9Ak9d6Wuba3jix5RGm0pmXh4l.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.2,
     "id_imdb": "tt8332922",
     "id_tmdb": "447332"
@@ -456,8 +485,9 @@
     "director": "Lu Yang",
     "status": "Disponible",
     "trailer": "7Khk9dSEZnA",
-    "poster": "630586.jpg",
+    "poster": "7hEhhmAF8Tr7g95fkbuxDpeR27b.jpg",
     "resolution": "1080p",
+    "language": ["cn", "lat"],
     "rating_imdb": 6.3,
     "id_imdb": "tt9685344",
     "id_tmdb": "630586"
@@ -470,8 +500,9 @@
     "director": "Ben Affleck",
     "status": "Disponible",
     "trailer": "Euy4Yu6B3nU",
-    "poster": "843846.jpg",
+    "poster": "76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 7.4,
     "id_imdb": "tt16419074",
     "id_tmdb": "843846"
@@ -484,7 +515,7 @@
     "director": "Guy Ritchie",
     "status": "Disponible",
     "trailer": "JcMtWwiyzpU",
-    "poster": "7t0cPyOSg82kTytNlFEF34w7zNK.jpg",
+    "poster": "ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
     "resolution": "1080p",
     "release_date": "2019-05-24",
     "rating_imdb": 6.9,
@@ -500,7 +531,7 @@
     "director": "Kim Yong-hwa",
     "status": "Disponible",
     "trailer": "IfzZYija-wM",
-    "poster": "IxAXrPf57ZU.jpg",
+    "poster": "9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg",
     "resolution": "1080p",
     "release_date": "2018-08-01",
     "rating_imdb": 6.9,
@@ -516,7 +547,7 @@
     "director": "Kim Yong-hwa",
     "status": "Disponible",
     "trailer": "sD7dmu-IWNw",
-    "poster": "Y3xcJor-hyQ.jpg",
+    "poster": "gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
     "resolution": "1080p",
     "release_date": "2017-12-20",
     "rating_imdb": 7.1,
@@ -532,7 +563,7 @@
     "director": "Mary Harron",
     "status": "Disponible",
     "trailer": "81mibtQWWBg",
-    "poster": "9947ykh7axA.jpg",
+    "poster": "sC286M2cD00bK1IDT2osoGrmNK4.jpg",
     "resolution": "1080p",
     "release_date": "2000-04-14",
     "rating_imdb": 7.6,
@@ -548,7 +579,7 @@
     "director": "Clint Eastwood",
     "status": "Disponible",
     "trailer": "99k3u9ay1gs",
-    "poster": "oAPBqib7vYzBjR6t1Z7fL4f6kJ.jpg",
+    "poster": "i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
     "resolution": "1080p",
     "release_date": "2014-12-25",
     "rating_imdb": 7.3,
@@ -564,7 +595,7 @@
     "director": "Don Bluth, Gary Goldman",
     "status": "Disponible",
     "trailer": "M0vnBeHeuzs",
-    "poster": "c8Ass7acuOe4za6DhSattE359gr.jpg",
+    "poster": "bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
     "resolution": "1080p",
     "release_date": "1997-11-21",
     "rating_imdb": 7.1,
@@ -573,20 +604,19 @@
     "language": ["eng", "lat"]
   },
   {
-    "title": "Animal",
-    "title_spanish": "Animal",
-    "year": 2014,
-    "genres": ["Terror", "Suspenso"],
-    "director": "Brett Simmons",
+    "title": "The Animal",
+    "title_spanish": "Estoy hecho un animal",
+    "year": 2001,
+    "genres": ["Comedia", "Ciencia ficción"],
+    "director": "Luke Greenfield",
     "status": "Disponible",
-    "trailer": "BmX-8Xt_Ydg",
-    "poster": "6J5I4w4q2E51.jpg",
+    "trailer": "pBwcksgKcFs",
+    "poster": "1e6a3e6a5c8e4.jpg",
     "resolution": "1080p",
-    "release_date": "2014-06-17",
-    "rating_imdb": 5.3,
-    "imdb_id": "tt2669296",
-    "tmdb_id": 274626,
-    "language": ["eng", "lat"]
+    "language": ["eng", "lat"],
+    "rating_imdb": 4.8,
+    "imdb_id": "tt0255798",
+    "tmdb_id": 11090
   },
   {
     "title": "Anna",
@@ -742,6 +772,7 @@
     "trailer": "tmeOjFno6Do",
     "poster": "t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -754,6 +785,7 @@
     "trailer": "6ZfuNTqbHE8",
     "poster": "7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -766,6 +798,7 @@
     "trailer": "qvsgGtivCgs",
     "poster": "pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -778,6 +811,7 @@
     "trailer": "MdENmefJRpw",
     "poster": "aVx0G9KzG1M.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -790,6 +824,7 @@
     "trailer": "NlOYnSSufGY",
     "poster": "fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -802,6 +837,7 @@
     "trailer": "OLYENHi4IIc",
     "poster": "yPisjyLweCl1tbgwgtzBCNCBle.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -814,6 +850,7 @@
     "trailer": "jKCj3XuPG8M",
     "poster": "y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -826,6 +863,7 @@
     "trailer": "UTNcOwQ2lRw",
     "poster": "yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -838,6 +876,7 @@
     "trailer": "vak9ZLfhGnQ",
     "poster": "1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -850,6 +889,7 @@
     "trailer": "zxtf7dTALUc",
     "poster": "k3Ew1Xz1cP6f.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -862,6 +902,7 @@
     "trailer": "yfDlQ-Q12rg",
     "poster": "pE6sVTLkZ1.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -874,6 +915,7 @@
     "trailer": "X0tOpBuYasI",
     "poster": "pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -886,6 +928,7 @@
     "trailer": "ybji16u608U",
     "poster": "qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -898,6 +941,7 @@
     "trailer": "kaU2A7KyOu4",
     "poster": "e8pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -910,6 +954,7 @@
     "trailer": "vAUB7dcUn8o",
     "poster": "f9pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -922,6 +967,7 @@
     "trailer": "ZHtPm8v-yNw",
     "poster": "g0pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -934,6 +980,7 @@
     "trailer": "yknIZsvQjG4",
     "poster": "h1pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -946,6 +993,7 @@
     "trailer": "MHt5G2P7KM0",
     "poster": "i2pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -958,6 +1006,7 @@
     "trailer": "9mkiYwB5K3g",
     "poster": "9dTO1tZ9rY.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -970,6 +1019,7 @@
     "trailer": "1NJO0jxBtMo",
     "poster": "or1gBugydmjToAEq7OZY0owwFk.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -982,6 +1032,7 @@
     "trailer": "xjlKnDWZYzc",
     "poster": "nQYcM3t5B2.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -994,6 +1045,7 @@
     "trailer": "0IOsk2Vlc4o",
     "poster": "tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1006,6 +1058,7 @@
     "trailer": "dKrVegVI0Us",
     "poster": "rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1018,6 +1071,7 @@
     "trailer": "7SlILk2WMTI",
     "poster": "tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1030,6 +1084,7 @@
     "trailer": "36mnx8dBbGE",
     "poster": "tOZrJt84r6zEZb3b1g3X4Pp0tY.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1042,6 +1097,7 @@
     "trailer": "ct5mQYE3Xk4",
     "poster": "eja7y6g6i.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1054,6 +1110,7 @@
     "trailer": "OFVGCUIXJls",
     "poster": "wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1066,6 +1123,7 @@
     "trailer": "lI03GlboYu4",
     "poster": "A3DqTg6i.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1078,6 +1136,7 @@
     "trailer": "ByehYal_cCs",
     "poster": "hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1090,6 +1149,7 @@
     "trailer": "_afPFLvh2qg",
     "poster": "hOq0jD8q0zH2U6y1ZzWv2k1xL.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1102,6 +1162,7 @@
     "trailer": "AHmCH7iB_IM",
     "poster": "cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1114,6 +1175,7 @@
     "trailer": "SCFR2vpMIQU",
     "poster": "g1pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1126,6 +1188,7 @@
     "trailer": "Esjc0rPj3K4",
     "poster": "h2pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1138,6 +1201,7 @@
     "trailer": "gt9HkO-cGGo",
     "poster": "h3pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1150,6 +1214,7 @@
     "trailer": "1jkw2JPCl18",
     "poster": "r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1162,6 +1227,7 @@
     "trailer": "C8bxcJZrus0",
     "poster": "h4pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1174,6 +1240,7 @@
     "trailer": "yM9sKpQOuEw",
     "poster": "h5pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1186,6 +1253,7 @@
     "trailer": "QKxQ5SBzLWA",
     "poster": "h6pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1198,6 +1266,7 @@
     "trailer": "jaJuwKCmJbY",
     "poster": "r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1210,6 +1279,7 @@
     "trailer": "CvHp7xJZ4_U",
     "poster": "kI2t3rG5Ra1tZzR3XGqz1zq9i4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1222,6 +1292,7 @@
     "trailer": "CVY_IRA8NTw",
     "poster": "xW0pEMh5Y3.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1234,6 +1305,7 @@
     "trailer": "0fUCuvNlOCg",
     "poster": "7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1246,6 +1318,7 @@
     "trailer": "wHAaKXtfSOg",
     "poster": "rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1258,6 +1331,7 @@
     "trailer": "7NiYVoqBt-8",
     "poster": "f5fTo5FdE9IRfrzq4O6cG6U1Wf.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1270,6 +1344,7 @@
     "trailer": "IiMinixSXII",
     "poster": "A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1282,6 +1357,7 @@
     "trailer": "TBHIO60whNw",
     "poster": "1RFiG6ntcM8U4YZIf67CjIHvEGb.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1294,6 +1370,7 @@
     "trailer": "1JLUn2DFW4w",
     "poster": "g1pI4w4q2E51.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1306,6 +1383,7 @@
     "trailer": "rBxcF-r9Ibs",
     "poster": "bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1318,6 +1396,7 @@
     "trailer": "6Nxc-3WpMbg",
     "poster": "34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1330,6 +1409,7 @@
     "trailer": "m4NCribDx4U",
     "poster": "ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1342,6 +1422,7 @@
     "trailer": "odMdKdTa7g8",
     "poster": "pThyQovXQrw2m0s9x82twj48Jq4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1354,6 +1435,7 @@
     "trailer": "C2zSFElhgE0",
     "poster": "fYzpM9GmpBlIC893fNjoWCwE24H.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1366,6 +1448,7 @@
     "trailer": "44LdLqgOpjo",
     "poster": "r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1378,6 +1461,7 @@
     "trailer": "5Ho7nThiit4",
     "poster": "A2avUoNFstnBhAnHiogXQs4c9Bt.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1390,6 +1474,7 @@
     "trailer": "vm3ekBZ9gHQ",
     "poster": "9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1402,6 +1487,7 @@
     "trailer": "Y-yvKWNy8c0",
     "poster": "5iVZ3z4A1C.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1414,6 +1500,7 @@
     "trailer": "Phm3lpdR3_g",
     "poster": "8oPY6sK7tp9zJ3lXw0gZ1xKjv.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1426,6 +1513,7 @@
     "trailer": "WlR6Oc_MsQM",
     "poster": "nYk1b1hZME.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1438,6 +1526,7 @@
     "trailer": "bE8pwEF-3TI",
     "poster": "tP2A3Gz2QnGqv1iG2u3Z1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1450,6 +1539,7 @@
     "trailer": "C1no75lpOiw",
     "poster": "xXgk4z8k1.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1462,6 +1552,7 @@
     "trailer": "9OAC55UWAQs",
     "poster": "yXgk4z8k2.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1474,6 +1565,7 @@
     "trailer": "8Jz-8UcCiws",
     "poster": "zXgk4z8k3.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1486,6 +1578,7 @@
     "trailer": "503D8hOfE_8",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1498,6 +1591,7 @@
     "trailer": "iQpb1LoeVUc",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1510,6 +1604,7 @@
     "trailer": "KHGHEpUeUwo",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1522,6 +1617,7 @@
     "trailer": "bN7ksFEVO9U",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1534,6 +1630,7 @@
     "trailer": "BRb4U99OU80",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1546,6 +1643,7 @@
     "trailer": "hEJnMQG9ev8",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1558,6 +1656,7 @@
     "trailer": "T6DJcgm3wNY",
     "poster": "xWlaTLnD8NJMTT9OF6tYvBd4VCH.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1570,6 +1669,7 @@
     "trailer": "JABG7viqJWc",
     "poster": "xXgk4z8k1.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1582,6 +1682,7 @@
     "trailer": "RY-zJtYYolo",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1594,6 +1695,7 @@
     "trailer": "CCMLLBS2PSg",
     "poster": "yXgk4z8k2.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1606,6 +1708,7 @@
     "trailer": "ZshpM0Is3U4",
     "poster": "zXgk4z8k3.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1618,6 +1721,7 @@
     "trailer": "op8am32MWBg",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1630,6 +1734,7 @@
     "trailer": "e6MQu4UwDOA",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1642,6 +1747,7 @@
     "trailer": "jdl6eAIx2K4",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1654,6 +1760,7 @@
     "trailer": "oZ6iiRrz1SY",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1666,6 +1773,7 @@
     "trailer": "sRtZaSkBp58",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1678,6 +1786,7 @@
     "trailer": "pfAhQSz-j_o",
     "poster": "xw6JZf8nq3l.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1690,6 +1799,7 @@
     "trailer": "nSbzyEJ8X9E",
     "poster": "a3d1b2c3d4e5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1702,6 +1812,7 @@
     "trailer": "RByl3fv4Ztw",
     "poster": "b4c5d6e7f8g9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1714,6 +1825,7 @@
     "trailer": "fwc7wNCvDs4",
     "poster": "c5d6e7f8g9h0.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1726,6 +1838,7 @@
     "trailer": "wZti8QKBWPo",
     "poster": "d6e7f8g9h0i1.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1738,6 +1851,7 @@
     "trailer": "nODrjQUR5YU",
     "poster": "e7f8g9h0i1j2.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1750,6 +1864,7 @@
     "trailer": "lCVscDXv5sA",
     "poster": "f8g9h0i1j2k3.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1762,6 +1877,7 @@
     "trailer": "_uX6of3vBu0",
     "poster": "g9h0i1j2k3l4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1774,6 +1890,7 @@
     "trailer": "u8ZsUivELbs",
     "poster": "h0i1j2k3l4m5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1786,6 +1903,7 @@
     "trailer": "RoJ9RCMy1tg",
     "poster": "i1j2k3l4m5n6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1798,6 +1916,7 @@
     "trailer": "RzZsdL-EGwg",
     "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1810,6 +1929,7 @@
     "trailer": "SEUXfv87Wpk",
     "poster": "7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1822,6 +1942,7 @@
     "trailer": "tjqgkqk4_0E",
     "poster": "hS3hGg9x3z1G3G1gG9gH4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1834,6 +1955,7 @@
     "trailer": "XW2E2Fnh52w",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1846,6 +1968,7 @@
     "trailer": "n9xhJrPXop4",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1858,6 +1981,7 @@
     "trailer": "Z7I6lKzI2zE",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1870,6 +1994,7 @@
     "trailer": "Jb3zB6Kj4xE",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1882,6 +2007,7 @@
     "trailer": "tQ3iJjzZ2zY",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1894,6 +2020,7 @@
     "trailer": "HKSZtp_OGHY",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1906,6 +2033,7 @@
     "trailer": "ozk0-RHXtFw",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1918,6 +2046,7 @@
     "trailer": "Hgeu5rhoxxY",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1930,6 +2059,7 @@
     "trailer": "0BXCVe8Yww4",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1942,6 +2072,7 @@
     "trailer": "pfGDfDjAdSE",
     "poster": "x8z8Gg9x3z1.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1954,6 +2085,7 @@
     "trailer": "Yu9mz6230zw",
     "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1966,6 +2098,7 @@
     "trailer": "Qmvf4Jr0AEg",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1978,6 +2111,7 @@
     "trailer": "t4rQ-OqOdk8",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -1990,6 +2124,7 @@
     "trailer": "HmrhuboNMtg",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2002,6 +2137,7 @@
     "trailer": "JWAGXeYTZU8",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2014,6 +2150,7 @@
     "trailer": "s7EdQ4FqbhY",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2026,6 +2163,7 @@
     "trailer": "xgZLXyqbYOc",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2038,6 +2176,7 @@
     "trailer": "ZCv1QzWZz2c",
     "poster": "x8z8Gg9x3z1.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2050,6 +2189,7 @@
     "trailer": "5x8-DP3BqTQ",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2062,6 +2202,7 @@
     "trailer": "jtPNhGWxY4g",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2074,6 +2215,7 @@
     "trailer": "OZURbrnDFQg",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2086,6 +2228,7 @@
     "trailer": "6RsKwn_Je1k",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2098,6 +2241,7 @@
     "trailer": "BcDK7lkzzsU",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2110,6 +2254,7 @@
     "trailer": "jPEYpryMp2s",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2122,6 +2267,7 @@
     "trailer": "szby7ZHLnkA",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2134,6 +2280,7 @@
     "trailer": "G5kzUpWAusI",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2146,6 +2293,7 @@
     "trailer": "xOsLIiBStEs",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2158,6 +2306,7 @@
     "trailer": "0H8Fv6I2oD8",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2170,6 +2319,7 @@
     "trailer": "t9gg9V3gF4M",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2182,6 +2332,7 @@
     "trailer": "LTDaET-JweU",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2194,6 +2345,7 @@
     "trailer": "20BIS1iA3bY",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2206,6 +2358,7 @@
     "trailer": "tnAJntI3NNs",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2218,6 +2371,7 @@
     "trailer": "84TouqfIsiI",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2230,6 +2384,7 @@
     "trailer": "QqkZ1iQm4x4",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2242,6 +2397,7 @@
     "trailer": "I5U4TtYpKIc",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2254,6 +2410,7 @@
     "trailer": "WFMLGEHdIjE",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2266,6 +2423,7 @@
     "trailer": "tYlDltz8Yos",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2278,6 +2436,7 @@
     "trailer": "fQ9RqgcR24g",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2290,6 +2449,7 @@
     "trailer": "r9rjhB7KWEc",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2302,6 +2462,7 @@
     "trailer": "w5B3mtvIDdY",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2314,6 +2475,7 @@
     "trailer": "eQfMbSe7F2g",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2326,6 +2488,7 @@
     "trailer": "uyuN1o6gcyw",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2338,6 +2501,7 @@
     "trailer": "zSWdZVtXT7E",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2350,6 +2514,7 @@
     "trailer": "pzvQAg9FkX8",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2362,6 +2527,7 @@
     "trailer": "uYPbbksJxIg",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2374,6 +2540,7 @@
     "trailer": "X2hBYGwKh3I",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2386,6 +2553,7 @@
     "trailer": "pLe_1SheJms",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2398,6 +2566,7 @@
     "trailer": "9u8vZwvP57Y",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2410,6 +2579,7 @@
     "trailer": "wZ7LytagKlc",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2422,6 +2592,7 @@
     "trailer": "Rt0kp4VW1cI",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2434,6 +2605,7 @@
     "trailer": "ex3C1-5Dhb8",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2446,6 +2618,7 @@
     "trailer": "19ikl8vy4zs",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2458,6 +2631,7 @@
     "trailer": "WaG1KZqrLvM",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2470,6 +2644,7 @@
     "trailer": "d9MyW72ELq0",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2482,6 +2657,7 @@
     "trailer": "s0wTdCQoc2k",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2494,6 +2670,7 @@
     "trailer": "sagmdpkWUqc",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2506,6 +2683,7 @@
     "trailer": "yI3v6KfR9Mw",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2518,6 +2696,7 @@
     "trailer": "M7XM597XO94",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2530,6 +2709,7 @@
     "trailer": "qEVUtrk8_B4",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2542,6 +2722,7 @@
     "trailer": "vn9mMeWcgoM",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2554,6 +2735,7 @@
     "trailer": "RFinNxS5KN4",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2566,6 +2748,7 @@
     "trailer": "0nU7dC9b9gs",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2578,6 +2761,7 @@
     "trailer": "shW9i6k8cB0",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2590,6 +2774,7 @@
     "trailer": "Nt9L1jCKGnE",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2602,6 +2787,7 @@
     "trailer": "U0D3AOldjMU",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2614,6 +2800,7 @@
     "trailer": "JfVOs4VSpmA",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2626,6 +2813,7 @@
     "trailer": "O7zvehDxttM",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2638,6 +2826,7 @@
     "trailer": "1s9Yln0YwCw",
     "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2650,6 +2839,7 @@
     "trailer": "MK6X9zj5Guw",
     "poster": "8L0j3Yl0q1k.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2662,6 +2852,7 @@
     "trailer": "HeaugHGd1Kw",
     "poster": "aXgk4z8k4.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2674,6 +2865,7 @@
     "trailer": "dwXFsrp6WBs",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2686,6 +2878,7 @@
     "trailer": "qJr92K_hKl0",
     "poster": "cXgk4z8k6.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2698,6 +2891,7 @@
     "trailer": "z6D3F9jZbN0",
     "poster": "dXgk4z8k7.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2710,6 +2904,7 @@
     "trailer": "sY1S34973zA",
     "poster": "eXgk4z8k8.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2722,6 +2917,7 @@
     "trailer": "RXsH9Yb7Yz4",
     "poster": "fXgk4z8k9.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   },
   {
@@ -2734,6 +2930,7 @@
     "trailer": "giXco2jaZ_4",
     "poster": "gXgk4z8k10.jpg",
     "resolution": "1080p",
+    "language": ["en", "lat"],
     "rating_imdb": 10
   }
 ]
