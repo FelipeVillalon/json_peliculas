@@ -2073,5 +2073,114 @@
     "trailer": "pLe_1SheJms",
     "poster": "hXgk4z8k11.jpg",
     "resolution": "1080p"
+  },  {
+    "title": "Predators",
+    "title_spanish": "Depredadores",
+    "year": 2010,
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "director": "Nimród Antal",
+    "status": "Available",
+    "trailer": "9u8vZwvP57Y",
+    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Prey",
+    "title_spanish": "Depredador: La presa",
+    "year": 2022,
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "director": "Dan Trachtenberg",
+    "status": "Available",
+    "trailer": "wZ7LytagKlc",
+    "poster": "8L0j3Yl0q1k.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Sound of Freedom",
+    "title_spanish": "Sonido de libertad",
+    "year": 2023,
+    "genres": ["Drama", "Suspenso"],
+    "director": "Alejandro Monteverde",
+    "status": "Available",
+    "trailer": "Rt0kp4VW1cI",
+    "poster": "aXgk4z8k4.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Creator",
+    "title_spanish": "El creador",
+    "year": 2023,
+    "genres": ["Ciencia ficción", "Acción", "Drama"],
+    "director": "Gareth Edwards",
+    "status": "Available",
+    "trailer": "ex3C1-5Dhb8",
+    "poster": "bXgk4z8k5.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Equalizer 3",
+    "title_spanish": "El justiciero 3",
+    "year": 2023,
+    "genres": ["Acción", "Crimen", "Suspenso"],
+    "director": "Antoine Fuqua",
+    "status": "Available",
+    "trailer": "19ikl8vy4zs",
+    "poster": "cXgk4z8k6.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "The Predator",
+    "title_spanish": "El depredador",
+    "year": 2018,
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "director": "Shane Black",
+    "status": "Available",
+    "trailer": "WaG1KZqrLvM",
+    "poster": "dXgk4z8k7.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "title_spanish": "Avatar: El camino del agua",
+    "year": 2022,
+    "genres": ["Ciencia ficción", "Aventura", "Acción"],
+    "director": "James Cameron",
+    "status": "Available",
+    "trailer": "d9MyW72ELq0",
+    "poster": "eXgk4z8k8.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Conan the Barbarian",
+    "title_spanish": "Conan el bárbaro",
+    "year": 2011,
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "director": "Marcus Nispel",
+    "status": "Available",
+    "trailer": "s0wTdCQoc2k",
+    "poster": "fXgk4z8k9.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "title_spanish": "Indiana Jones y la última cruzada",
+    "year": 1989,
+    "genres": ["Aventura", "Acción"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "sagmdpkWUqc",
+    "poster": "gXgk4z8k10.jpg",
+    "resolution": "1080p"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "title_spanish": "Indiana Jones y el templo de la perdición",
+    "year": 1984,
+    "genres": ["Aventura", "Acción"],
+    "director": "Steven Spielberg",
+    "status": "Available",
+    "trailer": "yI3v6KfR9Mw",
+    "poster": "hXgk4z8k11.jpg",
+    "resolution": "1080p"
   }
 ]
