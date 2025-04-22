@@ -8,7 +8,7 @@
     "status": "Pronto",
     "trailer": "1IHtfL8iIXg",
     "poster": "vDdFxksDMkUJjZXd00OKJfwXKre.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "tt1757678",
@@ -23,7 +23,7 @@
     "status": "Pronto",
     "trailer": "uhUht6vAsMY",
     "poster": "wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "tt5950044",
@@ -38,7 +38,7 @@
     "status": "Pronto",
     "trailer": "jan5CFWs9ic",
     "poster": "swEdh3KluED3a4oyfaHCpetjtEL.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "tt31036941",
@@ -53,7 +53,7 @@
     "status": "Pronto",
     "trailer": "pAsmrKyMqaA",
     "poster": "x26MtUlwtWD26d0G0FXcppxCJio.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "tt10676052",
@@ -68,7 +68,7 @@
     "status": "Pronto",
     "trailer": "",
     "poster": "pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "",
@@ -83,7 +83,7 @@
     "status": "Pronto",
     "trailer": "",
     "poster": "hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "",
@@ -98,7 +98,7 @@
     "status": "Pronto",
     "trailer": "",
     "poster": "3bN675X0K2E5QiAZVChzB5wq90B.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "",
@@ -113,7 +113,7 @@
     "status": "Pronto",
     "trailer": "",
     "poster": "ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg",
-    "resolution": "1080p",
+    "resolution": "-",
     "language": ["en", "lat"],
     "rating_imdb": null,
     "imdb_id": "",
@@ -1941,10 +1941,12 @@
     "director": "Jason Friedberg, Aaron Seltzer",
     "status": "Disponible",
     "trailer": "RY-zJtYYolo",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 2.8,
+    "imdb_id": "tt1073498",
+    "tmdb_id": 11230
   },
   {
     "title": "Memories. Episode 1 - Magnetic Rose",
@@ -1954,10 +1956,12 @@
     "director": "Kōji Morimoto",
     "status": "Disponible",
     "trailer": "CCMLLBS2PSg",
-    "poster": "yXgk4z8k2.jpg",
+    "poster": "mMgoBaiWbgIZIuTtM1ablbVx23C.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0113799",
+    "tmdb_id": 14436
   },
   {
     "title": "Memories. Episode 2 - Stink Bomb",
@@ -1967,10 +1971,12 @@
     "director": "Tensai Okamura",
     "status": "Disponible",
     "trailer": "ZshpM0Is3U4",
-    "poster": "zXgk4z8k3.jpg",
+    "poster": "TrhaDbAkfWvyPOvrh4cvHKCudo.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0113799",
+    "tmdb_id": 14436
   },
   {
     "title": "Memories. Episode 3 - Cannon Fodder",
@@ -1980,10 +1986,12 @@
     "director": "Katsuhiro Otomo",
     "status": "Disponible",
     "trailer": "op8am32MWBg",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "e0HIBRiKS5dWmXkxWvEh6JQZcc2.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0113799",
+    "tmdb_id": 14436
   },
   {
     "title": "Mete miedo",
@@ -1992,11 +2000,13 @@
     "genres": ["Terror"],
     "director": "Néstor Sánchez Sotelo",
     "status": "Disponible",
-    "trailer": "e6MQu4UwDOA",
+    "trailer": "arb5afU36jYYmDvOWMW3i8Z4Tmd",
     "poster": "bXgk4z8k5.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 4.6,
+    "imdb_id": "tt18969070",
+    "tmdb_id": 993300
   },
   {
     "title": "Minority Report",
@@ -2006,10 +2016,12 @@
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "jdl6eAIx2K4",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0181689",
+    "tmdb_id": 180
   },
   {
     "title": "Morbius",
@@ -2019,10 +2031,12 @@
     "director": "Daniel Espinosa",
     "status": "Disponible",
     "trailer": "oZ6iiRrz1SY",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.2,
+    "imdb_id": "tt5108870",
+    "tmdb_id": 526896
   },
   {
     "title": "Mulan",
@@ -2032,10 +2046,12 @@
     "director": "Tony Bancroft, Barry Cook",
     "status": "Disponible",
     "trailer": "sRtZaSkBp58",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0120762",
+    "tmdb_id": 10674
   },
   {
     "title": "My Spy",
@@ -2045,10 +2061,12 @@
     "director": "Peter Segal",
     "status": "Disponible",
     "trailer": "pfAhQSz-j_o",
-    "poster": "xw6JZf8nq3l.jpg",
+    "poster": "n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.3,
+    "imdb_id": "tt8242084",
+    "tmdb_id": 592350
   },
   {
     "title": "A Star Is Born",
@@ -2058,10 +2076,12 @@
     "director": "Bradley Cooper",
     "status": "Disponible",
     "trailer": "nSbzyEJ8X9E",
-    "poster": "a3d1b2c3d4e5.jpg",
+    "poster": "wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt1517451",
+    "tmdb_id": 332562
   },
   {
     "title": "Nadie sabe que estoy aquí",
@@ -2071,10 +2091,12 @@
     "director": "Gaspar Antillo",
     "status": "Disponible",
     "trailer": "RByl3fv4Ztw",
-    "poster": "b4c5d6e7f8g9.jpg",
+    "poster": "f1yrsJXyMZ306XggQZKMvZCZhYF.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.4,
+    "imdb_id": "tt12494056",
+    "tmdb_id": 686245
   },
   {
     "title": "Ninja Scroll",
@@ -2084,10 +2106,12 @@
     "director": "Yoshiaki Kawajiri",
     "status": "Disponible",
     "trailer": "fwc7wNCvDs4",
-    "poster": "c5d6e7f8g9h0.jpg",
+    "poster": "qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.8,
+    "imdb_id": "tt0110729",
+    "tmdb_id": 14244
   },
   {
     "title": "Nobody",
@@ -2097,11 +2121,14 @@
     "director": "Ilya Naishuller",
     "status": "Disponible",
     "trailer": "wZti8QKBWPo",
-    "poster": "d6e7f8g9h0i1.jpg",
+    "poster": "oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt7888964",
+    "tmdb_id": 615457
   },
+
   {
     "title": "Non-Stop",
     "title_spanish": "Sin escalas",
@@ -2110,10 +2137,12 @@
     "director": "Jaume Collet-Serra",
     "status": "Disponible",
     "trailer": "nODrjQUR5YU",
-    "poster": "e7f8g9h0i1j2.jpg",
+    "poster": "lMILrn1PH4PvHeHkYUjiJC7zGyW.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "imdb_id": "tt2024469",
+    "tmdb_id": 225574
   },
   {
     "title": "On the Line",
@@ -2123,10 +2152,12 @@
     "director": "Romuald Boulanger",
     "status": "Disponible",
     "trailer": "lCVscDXv5sA",
-    "poster": "f8g9h0i1j2k3.jpg",
+    "poster": "la8bv5bOqf0ThjNMTWfB6CZBmip.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.3,
+    "imdb_id": "tt13229894",
+    "tmdb_id": 829280
   },
   {
     "title": "Orphan: First Kill",
@@ -2136,10 +2167,12 @@
     "director": "William Brent Bell",
     "status": "Disponible",
     "trailer": "_uX6of3vBu0",
-    "poster": "g9h0i1j2k3l4.jpg",
+    "poster": "pHkKbIRoCe7zIFvqan9LFSaQAde.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.9,
+    "imdb_id": "tt11851548",
+    "tmdb_id": 760104
   },
   {
     "title": "Outside the Wire",
@@ -2149,10 +2182,12 @@
     "director": "Mikael Håfström",
     "status": "Disponible",
     "trailer": "u8ZsUivELbs",
-    "poster": "h0i1j2k3l4m5.jpg",
+    "poster": "6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.4,
+    "imdb_id": "tt10451914",
+    "tmdb_id": 614911
   },
   {
     "title": "Overboard",
@@ -2162,10 +2197,12 @@
     "director": "Rob Greenberg",
     "status": "Disponible",
     "trailer": "RoJ9RCMy1tg",
-    "poster": "i1j2k3l4m5n6.jpg",
+    "poster": "41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.0,
+    "imdb_id": "tt1563742",
+    "tmdb_id": 454619
   },
   {
     "title": "Mrs. Doubtfire",
@@ -2175,10 +2212,12 @@
     "director": "Chris Columbus",
     "status": "Disponible",
     "trailer": "RzZsdL-EGwg",
-    "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
+    "poster": "shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.1,
+    "imdb_id": "tt0107614",
+    "tmdb_id": 788
   },
   {
     "title": "Parasite",
@@ -2191,7 +2230,9 @@
     "poster": "7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.5,
+    "imdb_id": "tt6751668",
+    "tmdb_id": 496243
   },
   {
     "title": "Paul",
@@ -2201,10 +2242,12 @@
     "director": "Greg Mottola",
     "status": "Disponible",
     "trailer": "tjqgkqk4_0E",
-    "poster": "hS3hGg9x3z1G3G1gG9gH4.jpg",
+    "poster": "e57pNjhWbRos9BTvgeUYUzB8VfO.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "imdb_id": "tt1092026",
+    "tmdb_id": 39514
   },
   {
     "title": "Pearl",
@@ -2214,10 +2257,12 @@
     "director": "Ti West",
     "status": "Disponible",
     "trailer": "XW2E2Fnh52w",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.0,
+    "imdb_id": "tt18925334",
+    "tmdb_id": 949423
   },
   {
     "title": "Peninsula",
@@ -2227,10 +2272,12 @@
     "director": "Yeon Sang-ho",
     "status": "Disponible",
     "trailer": "n9xhJrPXop4",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.5,
+    "imdb_id": "tt8850222",
+    "tmdb_id": 581392
   },
   {
     "title": "Perfume: The Story of a Murderer",
@@ -2240,10 +2287,12 @@
     "director": "Tom Tykwer",
     "status": "Disponible",
     "trailer": "Z7I6lKzI2zE",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "kwSqGRFL8a6BnZa2qMDSsRBY6Lh.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.5,
+    "imdb_id": "tt0396171",
+    "tmdb_id": 1427
   },
   {
     "title": "Peter Pan",
@@ -2253,10 +2302,12 @@
     "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
     "status": "Disponible",
     "trailer": "Jb3zB6Kj4xE",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "imdb_id": "tt0046183",
+    "tmdb_id": 10682
   },
   {
     "title": "The Land Before Time",
@@ -2266,10 +2317,12 @@
     "director": "Don Bluth",
     "status": "Disponible",
     "trailer": "tQ3iJjzZ2zY",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt0095489",
+    "tmdb_id": 12144
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -2279,10 +2332,12 @@
     "director": "Gore Verbinski",
     "status": "Disponible",
     "trailer": "HKSZtp_OGHY",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.1,
+    "imdb_id": "tt0449088",
+    "tmdb_id": 285
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -2292,10 +2347,12 @@
     "director": "Gore Verbinski",
     "status": "Disponible",
     "trailer": "ozk0-RHXtFw",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "imdb_id": "tt0383574",
+    "tmdb_id": 58
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -2305,10 +2362,12 @@
     "director": "Joachim Rønning, Espen Sandberg",
     "status": "Disponible",
     "trailer": "Hgeu5rhoxxY",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "6lAPOAFYFWIO3SQRemEY2wInQMC.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt1790809",
+    "tmdb_id": 166426
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -2318,10 +2377,12 @@
     "director": "Rob Marshall",
     "status": "Disponible",
     "trailer": "0BXCVe8Yww4",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt1298650",
+    "tmdb_id": 1865
   },
   {
     "title": "Ponyo",
@@ -2331,10 +2392,12 @@
     "director": "Hayao Miyazaki",
     "status": "Disponible",
     "trailer": "pfGDfDjAdSE",
-    "poster": "x8z8Gg9x3z1.jpg",
+    "poster": "pngbqfh7YZUgJs4Fn5368Sw29E2.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0876563",
+    "tmdb_id": 12429
   },
   {
     "title": "Problem Child",
@@ -2344,10 +2407,12 @@
     "director": "Dennis Dugan",
     "status": "Disponible",
     "trailer": "Yu9mz6230zw",
-    "poster": "2uG5QUACk9GZzZzT2e8gH4.jpg",
+    "poster": "f3yb43RQSofEkQrqIhmTzshDBW3.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.5,
+    "imdb_id": "tt0100419",
+    "tmdb_id": 12526
   },
   {
     "title": "Problem Child 2",
@@ -2357,10 +2422,12 @@
     "director": "Brian Levant",
     "status": "Disponible",
     "trailer": "Qmvf4Jr0AEg",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "dnmw3F3rdbxb08zSdfHHMwfXMLI.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 4.9,
+    "imdb_id": "tt0102725",
+    "tmdb_id": 29120
   },
   {
     "title": "Problem Child 3: Junior in Love",
@@ -2370,10 +2437,12 @@
     "director": "Greg Beeman",
     "status": "Disponible",
     "trailer": "t4rQ-OqOdk8",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "adCNPBJPaBjp9ikJAJYGAkqz6CE.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 3.9,
+    "imdb_id": "tt0114179",
+    "tmdb_id": 31351
   },
   {
     "title": "Project X",
@@ -2383,10 +2452,12 @@
     "director": "Nima Nourizadeh",
     "status": "Disponible",
     "trailer": "HmrhuboNMtg",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt1636826",
+    "tmdb_id": 59962
   },
   {
     "title": "Proximity",
@@ -2396,10 +2467,12 @@
     "director": "Eric Demeusy",
     "status": "Disponible",
     "trailer": "JWAGXeYTZU8",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "nto7dx8vmqESDU484huGoSt4o48.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 4.6,
+    "imdb_id": "tt7589524",
+    "tmdb_id": 678260
   },
   {
     "title": "Pulp Fiction",
@@ -2409,10 +2482,12 @@
     "director": "Quentin Tarantino",
     "status": "Disponible",
     "trailer": "s7EdQ4FqbhY",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.9,
+    "imdb_id": "tt0110912",
+    "tmdb_id": 680
   },
   {
     "title": "Puss in Boots: The Last Wish",
@@ -2422,10 +2497,12 @@
     "director": "Joel Crawford",
     "status": "Disponible",
     "trailer": "xgZLXyqbYOc",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.8,
+    "imdb_id": "tt3915174",
+    "tmdb_id": 315162
   },
   {
     "title": "R.I.P.D.",
@@ -2435,10 +2512,12 @@
     "director": "Robert Schwentke",
     "status": "Disponible",
     "trailer": "ZCv1QzWZz2c",
-    "poster": "x8z8Gg9x3z1.jpg",
+    "poster": "x8JMKd6UEtUurbl72vmtdJq3MZ5.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.6,
+    "imdb_id": "tt0790736",
+    "tmdb_id": 49517
   },
   {
     "title": "R.I.P.D. 2: Rise of the Damned",
@@ -2448,10 +2527,12 @@
     "director": "Paul Leyden",
     "status": "Disponible",
     "trailer": "5x8-DP3BqTQ",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 4.5,
+    "imdb_id": "tt17527468",
+    "tmdb_id": 882569
   },
   {
     "title": "Rambo: First Blood Part II",
@@ -2461,23 +2542,12 @@
     "director": "George P. Cosmatos",
     "status": "Disponible",
     "trailer": "jtPNhGWxY4g",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "pzPdwOitmTleVE3YPMfIQgLh84p.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
-  },
-  {
-    "title": "Rammstein: Paris",
-    "title_spanish": "Rammstein: París",
-    "year": 2017,
-    "genres": ["Música", "Concierto"],
-    "director": "Jonas Åkerlund",
-    "status": "Disponible",
-    "trailer": "OZURbrnDFQg",
-    "poster": "aXgk4z8k4.jpg",
-    "resolution": "1080p",
-    "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt0089880",
+    "tmdb_id": 1369
   },
   {
     "title": "Sleepy Hollow",
@@ -2487,10 +2557,12 @@
     "director": "Tim Burton",
     "status": "Disponible",
     "trailer": "6RsKwn_Je1k",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "imdb_id": "tt0162661",
+    "tmdb_id": 2668
   },
   {
     "title": "Smile",
@@ -2500,10 +2572,12 @@
     "director": "Parker Finn",
     "status": "Disponible",
     "trailer": "BcDK7lkzzsU",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "szII7Fo0TWePGNI7CoWnAdESdZ5.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt15474916",
+    "tmdb_id": 882598
   },
   {
     "title": "Solo: A Star Wars Story",
@@ -2513,10 +2587,12 @@
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "jPEYpryMp2s",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "3IGbjc5ZC5yxim5W0sFING2kdcz.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "imdb_id": "tt3778644",
+    "tmdb_id": 348350
   },
   {
     "title": "Sonic the Hedgehog",
@@ -2526,10 +2602,12 @@
     "director": "Jeff Fowler",
     "status": "Disponible",
     "trailer": "szby7ZHLnkA",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt3794354",
+    "tmdb_id": 454626
   },
   {
     "title": "Sonic the Hedgehog 2",
@@ -2539,10 +2617,27 @@
     "director": "Jeff Fowler",
     "status": "Disponible",
     "trailer": "G5kzUpWAusI",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt12412888",
+    "tmdb_id": 675353
+  },
+  {
+    "title": "Sonic the Hedgehog 3",
+    "title_spanish": "Sonic: La película 3",
+    "year": 2024,
+    "genres": ["Acción", "Aventura", "Comedia", "Ciencia ficción", "Fantasía"],
+    "director": "Jeff Fowler",
+    "status": "Disponible",
+    "trailer": "qSu6i2iFMO0",
+    "poster": "d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "resolution": "1080p",
+    "language": ["en", "lat"],
+    "rating_imdb": 7.0,
+    "imdb_id": "tt18259086",
+    "tmdb_id": 939243
   },
   {
     "title": "Soul",
@@ -2552,10 +2647,12 @@
     "director": "Pete Docter, Kemp Powers",
     "status": "Disponible",
     "trailer": "xOsLIiBStEs",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "pEz5aROvfy5FBW1OTlrDO3VryWO.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.0,
+    "imdb_id": "tt2948372",
+    "tmdb_id": 508442
   },
   {
     "title": "Space Jam: A New Legacy",
@@ -2565,10 +2662,12 @@
     "director": "Malcolm D. Lee",
     "status": "Disponible",
     "trailer": "0H8Fv6I2oD8",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "mDACFTANR34u6lvucazoYiFJOp7.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 4.5,
+    "imdb_id": "tt3554046",
+    "tmdb_id": 588228
   },
   {
     "title": "Space Sweepers",
@@ -2578,10 +2677,12 @@
     "director": "Jo Sung-hee",
     "status": "Disponible",
     "trailer": "t9gg9V3gF4M",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "bmemsraCG1kIthY74NjDnnLRT2Q.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt12838766",
+    "tmdb_id": 581389
   },
   {
     "title": "Spectre",
@@ -2591,10 +2692,12 @@
     "director": "Sam Mendes",
     "status": "Disponible",
     "trailer": "LTDaET-JweU",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt2379713",
+    "tmdb_id": 206647
   },
   {
     "title": "Spencer",
@@ -2604,10 +2707,12 @@
     "director": "Pablo Larraín",
     "status": "Disponible",
     "trailer": "20BIS1iA3bY",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "6Cfc97Qs7AUQr2fHPoOEkgnb0JM.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt12536294",
+    "tmdb_id": 602734
   },
   {
     "title": "Spirited",
@@ -2617,10 +2722,12 @@
     "director": "Sean Anders",
     "status": "Disponible",
     "trailer": "tnAJntI3NNs",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt10954600",
+    "tmdb_id": 668482
   },
   {
     "title": "Split",
@@ -2630,10 +2737,12 @@
     "director": "M. Night Shyamalan",
     "status": "Disponible",
     "trailer": "84TouqfIsiI",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.3,
+    "imdb_id": "tt4972582",
+    "tmdb_id": 381288
   },
   {
     "title": "Sputnik",
@@ -2643,10 +2752,12 @@
     "director": "Egor Abramenko",
     "status": "Disponible",
     "trailer": "QqkZ1iQm4x4",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "rQBeJ7AhdUNvX4e9laZYIy0j8j0.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.4,
+    "imdb_id": "tt11905962",
+    "tmdb_id": 607259
   },
   {
     "title": "Take Shelter",
@@ -2656,10 +2767,12 @@
     "director": "Jeff Nichols",
     "status": "Disponible",
     "trailer": "I5U4TtYpKIc",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "dldIX0q5jewe8rSyCh8d5I1RYx3.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt1675192",
+    "tmdb_id": 69729
   },
   {
     "title": "Total Recall",
@@ -2669,10 +2782,27 @@
     "director": "Paul Verhoeven",
     "status": "Disponible",
     "trailer": "WFMLGEHdIjE",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "k62LisG7J56LBQpCYvbO7NQNQyI.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.5,
+    "imdb_id": "tt0100802",
+    "tmdb_id": 861
+  },
+  {
+    "title": "Total Recall",
+    "title_spanish": "Total Recall: El vengador del futuro",
+    "year": 2012,
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "director": "Len Wiseman",
+    "status": "Disponible",
+    "trailer": "GljhR5rk5eY",
+    "poster": "fucmGeZYM4yzqJUnDTc4pKQNCej.jpg",
+    "resolution": "1080p",
+    "language": ["en", "lat"],
+    "rating_imdb": 6.2,
+    "imdb_id": "tt1386703",
+    "tmdb_id": 64635
   },
   {
     "title": "The Fourth Kind",
@@ -2682,10 +2812,12 @@
     "director": "Olatunde Osunsanmi",
     "status": "Disponible",
     "trailer": "tYlDltz8Yos",
-    "poster": "hXgk4z8k11.jpg",
+    "poster": "vfnsGUwurUQqlpvArBvUVc9rYXa.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.9,
+    "imdb_id": "tt1220198",
+    "tmdb_id": 22971
   },
   {
     "title": "The Fifth Element",
@@ -2695,10 +2827,12 @@
     "director": "Luc Besson",
     "status": "Disponible",
     "trailer": "fQ9RqgcR24g",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0119116",
+    "tmdb_id": 18
   },
   {
     "title": "Expend4bles",
@@ -2708,10 +2842,12 @@
     "director": "Scott Waugh",
     "status": "Disponible",
     "trailer": "r9rjhB7KWEc",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 4.8,
+    "imdb_id": "tt3291150",
+    "tmdb_id": 948713
   },
   {
     "title": "Haunted Mansion",
@@ -2721,10 +2857,12 @@
     "director": "Justin Simien",
     "status": "Disponible",
     "trailer": "w5B3mtvIDdY",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.1,
+    "imdb_id": "tt1695843",
+    "tmdb_id": 616747
   },
   {
     "title": "Indiana Jones and the Dial of Destiny",
@@ -2734,10 +2872,12 @@
     "director": "James Mangold",
     "status": "Disponible",
     "trailer": "eQfMbSe7F2g",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "m9c0GaHLQXisKB5XLCbjVmDrrol.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.6,
+    "imdb_id": "tt1462764",
+    "tmdb_id": 335977
   },
   {
     "title": "Inferno",
@@ -2747,10 +2887,12 @@
     "director": "Ron Howard",
     "status": "Disponible",
     "trailer": "uyuN1o6gcyw",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "cnqvFvjAaV28F1tU7986VVg0WP7.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.2,
+    "imdb_id": "tt3062096",
+    "tmdb_id": 207932
   },
   {
     "title": "Interstellar",
@@ -2760,10 +2902,12 @@
     "director": "Christopher Nolan",
     "status": "Disponible",
     "trailer": "zSWdZVtXT7E",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.7,
+    "imdb_id": "tt0816692",
+    "tmdb_id": 157336
   },
   {
     "title": "No Hard Feelings",
@@ -2773,10 +2917,12 @@
     "director": "Gene Stupnitsky",
     "status": "Disponible",
     "trailer": "pzvQAg9FkX8",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.4,
+    "imdb_id": "tt15671028",
+    "tmdb_id": 884605
   },
   {
     "title": "Oppenheimer",
@@ -2786,10 +2932,12 @@
     "director": "Christopher Nolan",
     "status": "Disponible",
     "trailer": "uYPbbksJxIg",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "3yw39HIxi8bS3i0I75GygeOGVbL.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.4,
+    "imdb_id": "tt15398776",
+    "tmdb_id": 872585
   },
   {
     "title": "Predator",
@@ -2799,10 +2947,12 @@
     "director": "John McTiernan",
     "status": "Disponible",
     "trailer": "X2hBYGwKh3I",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.8,
+    "imdb_id": "tt0093773",
+    "tmdb_id": 106
   },
   {
     "title": "Predator 2",
@@ -2812,10 +2962,12 @@
     "director": "Stephen Hopkins",
     "status": "Disponible",
     "trailer": "pLe_1SheJms",
-    "poster": "hXgk4z8k11.jpg",
+    "poster": "83X4VwY9sdSJykskmsplIVG0a4h.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.3,
+    "imdb_id": "tt0100403",
+    "tmdb_id": 169
   },
   {
     "title": "Predators",
@@ -2825,10 +2977,12 @@
     "director": "Nimród Antal",
     "status": "Disponible",
     "trailer": "9u8vZwvP57Y",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "gsnUhWMYLSD8VZS7nrMT9mj9BYr.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.4,
+    "imdb_id": "tt1424381",
+    "tmdb_id": 34851
   },
   {
     "title": "Prey",
@@ -2838,10 +2992,12 @@
     "director": "Dan Trachtenberg",
     "status": "Disponible",
     "trailer": "wZ7LytagKlc",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.1,
+    "imdb_id": "tt11866324",
+    "tmdb_id": 766507
   },
   {
     "title": "Sound of Freedom",
@@ -2851,10 +3007,12 @@
     "director": "Alejandro Monteverde",
     "status": "Disponible",
     "trailer": "Rt0kp4VW1cI",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.7,
+    "imdb_id": "tt7599146",
+    "tmdb_id": 678512
   },
   {
     "title": "The Creator",
@@ -2864,10 +3022,12 @@
     "director": "Gareth Edwards",
     "status": "Disponible",
     "trailer": "ex3C1-5Dhb8",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt11858890",
+    "tmdb_id": 670292
   },
   {
     "title": "The Equalizer 3",
@@ -2877,10 +3037,12 @@
     "director": "Antoine Fuqua",
     "status": "Disponible",
     "trailer": "19ikl8vy4zs",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.8,
+    "imdb_id": "tt17024450",
+    "tmdb_id": 926393
   },
   {
     "title": "The Predator",
