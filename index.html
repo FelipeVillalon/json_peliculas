@@ -251,7 +251,7 @@
           <option value="">Nota IMDb</option>
           <option value="8">⭐ 8+</option>
           <option value="5-7.9">⭐ 5–7.9</option>
-          <option value="1-4.9">⭐ <5< /option></option>
+          <option value="1-4.9">⭐ 1-5 </option>
         </select>
 
         <select id="filtroGenero">
@@ -291,7 +291,7 @@
       let peliculas = [];
 
       async function cargarPeliculas() {
-        const res = await fetch("peliculas.json");
+        const res = await fetch("https://felipevillalon.github.io/peliculas/peliculas.json");
         peliculas = await res.json();
         mostrarPeliculas(peliculas);
         cargarGenerosUnicos();
@@ -454,7 +454,7 @@
         if (ordenar === "title") {
           filtradas.sort((a, b) => a.title.localeCompare(b.title));
         } else if (ordenar === "year") {
-          filtradas.sort((a, b) => b.release_date - a.release_date);
+          filtradas.sort((a, b) => b.year - a.year);
         } else if (ordenar === "rating") {
           filtradas.sort((a, b) => (b.rating_imdb || 0) - (a.rating_imdb || 0));
         }
