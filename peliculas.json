@@ -3052,10 +3052,12 @@
     "director": "Shane Black",
     "status": "Disponible",
     "trailer": "WaG1KZqrLvM",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.3,
+    "imdb_id": "tt3829266",
+    "tmdb_id": 346910
   },
   {
     "title": "Avatar: The Way of Water",
@@ -3065,10 +3067,12 @@
     "director": "James Cameron",
     "status": "Disponible",
     "trailer": "d9MyW72ELq0",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt1630029",
+    "tmdb_id": 76600
   },
   {
     "title": "Conan the Barbarian",
@@ -3078,10 +3082,12 @@
     "director": "Marcus Nispel",
     "status": "Disponible",
     "trailer": "s0wTdCQoc2k",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "vR6PzXsOfewD1kei8gMbepvwWC6.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.2,
+    "imdb_id": "tt0816462",
+    "tmdb_id": 37430
   },
   {
     "title": "Indiana Jones and the Last Crusade",
@@ -3091,10 +3097,12 @@
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "sagmdpkWUqc",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.2,
+    "imdb_id": "tt0097576",
+    "tmdb_id": 89
   },
   {
     "title": "Indiana Jones and the Temple of Doom",
@@ -3104,10 +3112,12 @@
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "yI3v6KfR9Mw",
-    "poster": "hXgk4z8k11.jpg",
+    "poster": "om61eim8XwLfh6QXzh2r0Q4blBz.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.5,
+    "imdb_id": "tt0087469",
+    "tmdb_id": 87
   },
   {
     "title": "John Wick: Chapter 3 - Parabellum",
@@ -3117,10 +3127,12 @@
     "director": "Chad Stahelski",
     "status": "Disponible",
     "trailer": "M7XM597XO94",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt6146586",
+    "tmdb_id": 458156
   },
   {
     "title": "John Wick: Chapter 4",
@@ -3130,10 +3142,12 @@
     "director": "Chad Stahelski",
     "status": "Disponible",
     "trailer": "qEVUtrk8_B4",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "uzHPb0rITwa44KkhX5Z27cXwmL1.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.7,
+    "imdb_id": "tt10366206",
+    "tmdb_id": 603692
   },
   {
     "title": "Jurassic World: Fallen Kingdom",
@@ -3143,10 +3157,12 @@
     "director": "J. A. Bayona",
     "status": "Disponible",
     "trailer": "vn9mMeWcgoM",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "270MrJNqJovumHXGE6SSt0zwUIF.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.1,
+    "imdb_id": "tt4881806",
+    "tmdb_id": 351286
   },
   {
     "title": "Jurassic World",
@@ -3156,10 +3172,12 @@
     "director": "Colin Trevorrow",
     "status": "Disponible",
     "trailer": "RFinNxS5KN4",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.9,
+    "imdb_id": "tt0369610",
+    "tmdb_id": 135397
   },
   {
     "title": "Requiem for a Dream",
@@ -3169,10 +3187,12 @@
     "director": "Darren Aronofsky",
     "status": "Disponible",
     "trailer": "0nU7dC9b9gs",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.3,
+    "imdb_id": "tt0180093",
+    "tmdb_id": 641
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -3182,10 +3202,12 @@
     "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
     "status": "Disponible",
     "trailer": "shW9i6k8cB0",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.6,
+    "imdb_id": "tt9362722",
+    "tmdb_id": 569094
   },
   {
     "title": "Spider-Man: Far from Home",
@@ -3195,10 +3217,12 @@
     "director": "Jon Watts",
     "status": "Disponible",
     "trailer": "Nt9L1jCKGnE",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "zrNKUa5SBUwue39coJArNdDgQJM.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt6320628",
+    "tmdb_id": 429617
   },
   {
     "title": "Spider-Man: Homecoming",
@@ -3208,10 +3232,12 @@
     "director": "Jon Watts",
     "status": "Disponible",
     "trailer": "U0D3AOldjMU",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt2250912",
+    "tmdb_id": 315635
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -3221,10 +3247,12 @@
     "director": "Jon Watts",
     "status": "Disponible",
     "trailer": "JfVOs4VSpmA",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.2,
+    "imdb_id": "tt10872600",
+    "tmdb_id": 634649
   },
   {
     "title": "Spider-Man",
@@ -3234,10 +3262,12 @@
     "director": "Sam Raimi",
     "status": "Disponible",
     "trailer": "O7zvehDxttM",
-    "poster": "hXgk4z8k11.jpg",
+    "poster": "gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt0145487",
+    "tmdb_id": 557
   },
   {
     "title": "Spider-Man 2",
@@ -3247,10 +3277,12 @@
     "director": "Sam Raimi",
     "status": "Disponible",
     "trailer": "1s9Yln0YwCw",
-    "poster": "xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+    "poster": "aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.4,
+    "imdb_id": "tt0316654",
+    "tmdb_id": 558
   },
   {
     "title": "Spider-Man 3",
@@ -3260,10 +3292,12 @@
     "director": "Sam Raimi",
     "status": "Disponible",
     "trailer": "MK6X9zj5Guw",
-    "poster": "8L0j3Yl0q1k.jpg",
+    "poster": "qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.3,
+    "imdb_id": "tt0413300",
+    "tmdb_id": 559
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
@@ -3273,10 +3307,12 @@
     "director": "Dave Green",
     "status": "Disponible",
     "trailer": "HeaugHGd1Kw",
-    "poster": "aXgk4z8k4.jpg",
+    "poster": "euVaCiCWz3AALcQXHT6aUqdGUo6.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.9,
+    "imdb_id": "tt3949660",
+    "tmdb_id": 308531
   },
   {
     "title": "Teenage Mutant Ninja Turtles",
@@ -3286,10 +3322,12 @@
     "director": "Jonathan Liebesman",
     "status": "Disponible",
     "trailer": "dwXFsrp6WBs",
-    "poster": "bXgk4z8k5.jpg",
+    "poster": "9doWjHfoP0ARJqOFE0eKWBpT5aR.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 5.8,
+    "imdb_id": "tt1291150",
+    "tmdb_id": 98566
   },
   {
     "title": "The Godfather: Part II",
@@ -3299,10 +3337,12 @@
     "director": "Francis Ford Coppola",
     "status": "Disponible",
     "trailer": "qJr92K_hKl0",
-    "poster": "cXgk4z8k6.jpg",
+    "poster": "hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 9.0,
+    "imdb_id": "tt0071562",
+    "tmdb_id": 240
   },
   {
     "title": "The Godfather: Part III",
@@ -3312,10 +3352,12 @@
     "director": "Francis Ford Coppola",
     "status": "Disponible",
     "trailer": "z6D3F9jZbN0",
-    "poster": "dXgk4z8k7.jpg",
+    "poster": "1hdm3Axw9LjITbApvAXBbqO58zE.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 7.6,
+    "imdb_id": "tt0099674",
+    "tmdb_id": 242
   },
   {
     "title": "The Godfather",
@@ -3325,10 +3367,12 @@
     "director": "Francis Ford Coppola",
     "status": "Disponible",
     "trailer": "sY1S34973zA",
-    "poster": "eXgk4z8k8.jpg",
+    "poster": "3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 9.2,
+    "imdb_id": "tt0068646",
+    "tmdb_id": 238
   },
   {
     "title": "The Lost World: Jurassic Park",
@@ -3338,10 +3382,12 @@
     "director": "Steven Spielberg",
     "status": "Disponible",
     "trailer": "RXsH9Yb7Yz4",
-    "poster": "fXgk4z8k9.jpg",
+    "poster": "jElpCJkSaRPYwIMwZY28gOKV7BK.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 6.5,
+    "imdb_id": "tt0119567",
+    "tmdb_id": 330
   },
   {
     "title": "Top Gun: Maverick",
@@ -3351,9 +3397,11 @@
     "director": "Joseph Kosinski",
     "status": "Disponible",
     "trailer": "giXco2jaZ_4",
-    "poster": "gXgk4z8k10.jpg",
+    "poster": "jeGvNOVMs5QIU1VaoGvnd3gSv0G.jpg",
     "resolution": "1080p",
     "language": ["en", "lat"],
-    "rating_imdb": 10
+    "rating_imdb": 8.3,
+    "imdb_id": "tt1745960",
+    "tmdb_id": 361743
   }
 ]
